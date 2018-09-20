@@ -1,0 +1,1 @@
+# CLDR data for Manipuri language
