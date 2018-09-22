@@ -93,8 +93,8 @@ C
 Cantonese                       ꯀꯥꯟꯇꯣꯅꯤꯁ
 Catalan                         ꯀꯥꯇꯥꯂꯥꯟ
 Cebuano                         ꯁꯤꯕꯨꯑꯥꯅꯣ
-Central Atlas Tamazight
-Central Kurdish
+Central Atlas Tamazight         ꯁꯦꯟꯇ꯭ꯔꯦꯜ ꯑꯠꯂꯥꯁ ꯇꯥꯃꯥꯖꯤꯘ
+Central Kurdish                 ꯃꯌꯥꯢꯊꯡꯕ ꯀꯨꯔꯗꯤꯁ
 Chamorro                        ꯀꯃꯣꯔꯣ
 Chechen                         ꯆꯦꯆꯦꯟ
 Cherokee                        ꯆꯦꯔꯣꯀꯤ
@@ -165,7 +165,7 @@ Geez                             ꯒꯤꯖ
 Georgian                         ꯖꯣꯔꯖꯤꯌꯥꯟ
 German                           ꯖꯔꯃꯟ
 Austrian German                  ꯑꯁ꯭ꯇꯤꯌꯥꯒꯤ ꯖꯔꯃꯟ
-Swiss High German                
+Swiss High German                ꯁ꯭ꯋꯤꯁ ꯍꯥꯢ ꯖꯔꯃꯟ
 Gilbertese                       ꯒꯤꯂꯕꯔꯇꯤꯁ
 Gorontalo                        ꯒꯣꯔꯣꯟꯇꯥꯂꯣ
 Greek                            ꯒ꯭ꯔꯤꯛ
@@ -202,10 +202,140 @@ Irish                            ꯑꯥꯢꯔꯤꯁ
 Italian                          ꯏꯇꯥꯂꯤꯌꯥꯟ
 
 J
-Japanese                         ꯖꯥꯄꯥꯅꯤꯁ
-Javanese                         ꯖꯥꯚꯥꯅꯤꯁ
+Japanese                         ꯖꯄꯥꯅꯤꯁ
+Javanese                         ꯖꯚꯥꯅꯤꯁ
 Jju                              ꯖꯖꯨ
 Jola-Fonyi                       ꯖꯣꯂꯥ-ꯐꯣꯟꯌꯤ
+
+
+## Languages (K-N)
+
+K
+Kabardian                        ꯀꯕꯔꯗꯤꯌꯥꯟ
+Kabuverdianu                     ꯀꯕꯨꯚꯦꯔꯗꯤꯌꯥꯅꯨ
+Kabyle                           ꯀꯕꯥꯢꯜ
+Kachin                           ꯀꯆꯤꯟ
+Kako                             ꯀꯥꯀꯣ
+Kalaallisut                      ꯀꯂꯥꯜꯂꯤꯁꯨꯠ
+Kalenjin                         ꯀꯂꯦꯟꯖꯤꯟ
+Kalmyk                           ꯀꯥꯜꯃꯤꯛ
+Kamba                            ꯀꯝꯕꯥ
+Kannada                          ꯀꯟꯂꯗ
+Kanuri                           ꯀꯥꯅꯨꯔꯤ
+Karachay-Balkar                  ꯀꯔꯥꯆꯤ-ꯕꯥꯜꯀꯥꯔ
+Karelian                         ꯀꯔꯦꯂꯤꯌꯥꯟ
+Kashmiri                         ꯀꯁꯃꯤꯔꯤ
+Kazakh                           ꯀꯖꯥꯈ
+Khasi                            ꯈꯥꯁꯤ
+Khmer                            ꯈ꯭ꯃꯦꯔ
+Kikuyu                           ꯀꯤꯀꯨꯌꯨ
+Kimbundu                         ꯀꯤꯝꯕꯟꯗꯨ
+Kinyarwanda                      ꯀꯤꯟꯌꯥꯔꯋꯥꯟꯗꯥ
+Klingon                          ꯀ꯭ꯂꯤꯡꯒꯣꯟ
+Komi                             ꯀꯣꯃꯤ
+Konkani                          ꯀꯣꯟꯀꯥꯅꯤ
+Korean                           ꯀꯣꯔꯤꯌꯥꯟ
+Koro                             ꯀꯣꯔꯣ
+Koyra Chiini                     ꯀꯣꯢꯔꯥ ꯆꯤꯅꯤ
+Koyraboro Senni                  ꯀꯣꯢꯔꯥꯕꯣꯔꯣ ꯁꯦꯟꯅꯤ
+Kpelle                           ꯀ꯭ꯄꯦꯜ
+Kuanyama                         ꯀ꯭ꯋꯥꯟꯌꯥꯃꯥ
+Kumyk                            ꯀꯨꯃꯤꯛ
+Kurdish                          ꯀꯨꯔꯗꯤꯁ
+Kurukh                           ꯀꯨꯔꯨꯈ
+Kwasio                           ꯀ꯭ꯋꯥꯁꯤꯑꯣ
+Kyrgyz                           ꯀꯤꯔꯒꯤꯖ
+Kʼicheʼ                          ꯀꯤꯆꯢ
+
+L
+Ladino                           ꯂꯥꯗꯤꯅꯣ
+Lakota                           ꯂꯥꯀꯣꯇꯥ
+Langi                            ꯂꯥꯡꯒꯤ
+Lao                              ꯂꯥꯑꯣ
+Latin                            ꯂꯦꯇꯤꯟ
+Latvian                          ꯂꯥꯠꯚꯤꯌꯥꯟ
+Lezghian                         ꯂꯦꯓꯘꯤꯌꯥꯟ
+Limburgish                       ꯂꯤꯝꯕꯔꯘꯤꯁ
+Lingala                          ꯂꯤꯡꯒꯥꯂꯥ
+Lithuanian                       ꯂꯤꯊꯨꯑꯥꯅꯤꯌꯥꯟ
+Lojban                           ꯂꯣꯖꯕꯥꯟ
+Lower Sorbian                    ꯃꯈꯥꯊꯥꯡꯕ ꯁꯣꯔꯕꯤꯌꯥꯟ
+Lozi                             ꯂꯣꯖꯤ
+Luba-Katanga                     ꯂꯨꯕꯥ-ꯀꯇꯥꯡꯒꯥ
+Luba-Lulua                       ꯂꯨꯕꯥ-ꯂꯨꯂꯨꯑꯥ
+Lule Sami                        ꯂꯨꯂꯦ ꯁꯥꯃꯤ
+Lunda                            ꯂꯨꯟꯗꯥ
+Luo                              ꯂꯨꯥꯑꯣ
+Luxembourgish                    ꯂꯀꯖꯝꯕꯔꯒꯤꯁ
+Luyia                            ꯂꯨꯌꯤꯑꯥ
+
+M
+Macedonian                       ꯃꯛꯗꯣꯅꯤꯌꯥꯟ
+Machame                          ꯃꯦꯛꯍꯥꯃꯦ
+Madurese                         ꯃꯥꯗꯨꯔꯤꯁ
+Magahi                           ꯃꯒꯥꯍꯤ
+Maithili                         ꯃꯩ ꯊꯤꯂꯤ
+Makasar                          ꯃꯀꯥꯁꯔ
+Makhuwa-Meetto                   ꯃꯈꯨꯋꯥ-ꯃꯤꯠꯇꯣ
+Makonde                          ꯃꯦꯀꯣꯟꯗꯦ
+Malagasy                         ꯃꯥꯂꯥꯒꯥꯁꯤ
+Malay                            ꯃꯂꯌ
+Malayalam                        ꯃꯂꯌꯥꯂꯝ
+Maltese                          ꯃꯥꯜꯇꯤꯁ
+Manipuri                         ꯃꯅꯤꯄꯨꯔꯤ
+Manx                             ꯃꯦꯅ꯭ꯀꯁ
+Maori                            ꯃꯥꯥꯑꯣꯔꯤ
+Mapuche                          ꯃꯥꯄꯨꯆꯦ
+Marathi                          ꯃꯔꯥꯊꯤ
+Mari                             ꯃꯥꯔꯤ
+Marshallese                      ꯃꯥꯔꯁꯦꯜꯂꯤꯖ
+Masai                            ꯃꯥꯁꯥꯢ
+Mazanderani                      ꯃꯥꯖꯥꯟꯗꯦꯔꯥꯅꯤ
+Mende                            ꯃꯦꯟꯗꯦ
+Meru                             ꯃꯦꯔꯨ
+Meta                             ꯃꯦꯇꯥ
+Mi'kmaq                          ꯃꯤꯛꯃꯦꯛ
+Minangkabau                      ꯃꯤꯅꯥꯡꯀꯥꯕꯑꯣ
+Mirandese                        ꯃꯤꯔꯥꯟꯗꯤꯁ
+Mizo                             ꯃꯤꯖꯣ
+Mohawk                           ꯃꯣꯍꯣꯛ
+Moksha                           ꯃꯣꯛꯁꯥ
+Mongolian                        ꯃꯣꯡꯒꯣꯂꯤꯌꯥꯟ
+Morisyen                         ꯃꯣꯔꯤꯁ꯭ꯌꯦꯟ
+Mossi                            ꯃꯣꯁꯤ
+Multiple languages               ꯂꯣꯟ ꯃꯌꯥꯝ
+Mundang                          ꯃꯨꯟꯗꯥꯡ
+
+N
+N’Ko                             ꯏꯟꯀꯣ
+Najdi Arabic                     ꯅꯥꯖꯗꯤ  ꯑꯔꯥꯕꯤꯛ
+Nama                             ꯅꯥꯃꯥ
+Nauru                            ꯅꯥꯎꯔꯨ
+Navajo                           ꯅꯥꯚꯥꯖꯣ
+Ndonga                           ꯗꯣꯟꯒꯥ
+Neapolitan                       ꯅꯤꯄꯣꯂꯤꯇꯥꯟ
+Nepali                           ꯅꯦꯄꯥꯂꯤ
+Newari                           ꯅꯦꯋꯥꯔꯤ
+Ngambay                          ꯉꯥꯝꯕꯦ
+Ngiemboon                        ꯒꯦꯝꯕꯨ
+Ngomba                           ꯅꯒꯣꯟꯕꯥ
+Nias                             ꯅꯤꯌꯥꯁ
+Nigerian Pidgin                  ꯅꯥꯢꯖꯦꯔꯤꯌꯥꯟ ꯄꯤꯗꯖꯤꯟ
+Niuean                           ꯅꯤꯌꯨꯑꯥꯟ
+No linguistic content            ꯂꯣꯟꯒꯤ ꯃꯆꯡ ꯌꯥꯑꯣꯗꯦ
+Nogai                            ꯅꯣꯒꯥꯢ
+North Ndebele                    ꯑꯋꯥꯡꯒꯤ ꯗꯦꯕꯦꯜ
+Northern Luri                    ꯑꯋꯥꯡꯒꯤ ꯂꯨꯔꯤ
+Northern Sami                    ꯑꯋꯥꯡꯒꯤ ꯁꯥꯃꯤ
+Northern Sotho                   ꯑꯋꯥꯡꯒꯤ ꯁꯣꯊꯣ
+Norwegian Bokmål                 ꯅꯣꯔꯋꯦꯖꯤꯌꯥꯟ ꯕꯣꯛꯃꯥꯜ
+Norwegian Nynorsk                ꯅꯣꯔꯋꯦꯖꯤꯌꯥꯟ ꯅ꯭ꯌꯥꯅꯣꯔ꯭ꯁꯛ
+Nuer                             ꯅꯨꯌꯔ
+Nyanja                           ꯅ꯭ꯌꯥꯟꯖꯥ
+Nyankole                         ꯅ꯭ꯌ꯭ꯟꯀꯣꯜ
+
+      
+
 
 
 
