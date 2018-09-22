@@ -1,0 +1,131 @@
+# Core Data
+
+## Alphabetic Information
+
+### Main Letters
+ꯀ ꯁ ꯂ ꯃ ꯄ ꯅ ꯆ ꯇ ꯈ ꯉ ꯊ ꯋ ꯌ ꯍ ꯎ ꯏ ꯐ ꯑ ꯒ ꯓ ꯔ ꯕ ꯖ ꯗ ꯘ ꯙ ꯚ ꯛ ꯜ ꯝ ꯟ ꯠ ꯞ ꯡ ꯢ ꯣ ꯤ ꯥ ꯦ ꯨ ꯩ  ꯧ ꯪ 
+
+### Others: punctuation
+꯫ ꯭   ꯬
+
+### Others: auxiliary
+TODO: historical characters and Meetei Mayek extensions go here
+
+### Others: index
+ꯀ ꯁ ꯂ ꯃ ꯄ ꯅ ꯆ ꯇ ꯈ ꯉ ꯊ ꯋ ꯌ ꯍ ꯎ ꯏ ꯐ ꯑ ꯒ ꯓ ꯔ ꯕ ꯖ ꯗ ꯘ ꯙ ꯚ
+
+### Others: numbers
+꯰꯱꯲꯳꯴꯵꯶꯷꯸꯹
+
+## Numbering Systems
+
+### default: ꯰꯱꯲꯳꯴꯵꯶꯷꯸꯹
+### native:  ꯰꯱꯲꯳꯴꯵꯶꯷꯸꯹
+
+# Locale Display Names
+
+##Local Name Patterns
+http://cldr.unicode.org/translation/localepattern
+
+### Locale Formatting
+localePattern: {0}({1})
+localeSeparator: {0},{1}
+localeKeyTypePattern: {0}:{1}
+
+### Locale Field Fallbacks
+language: Language:{0}
+script: Script: {0}
+territory: Region: {0}
+
+## Languages (A-D)
+A
+Abkhazian		ꯑꯕꯈꯖꯤꯌꯥꯟ
+Achinese		ꯑꯆꯥꯢꯅꯤꯁ
+Adangme			ꯑꯗꯥꯡꯃꯦ
+Adyghe			ꯑꯗꯤꯘꯦ
+Afar			ꯑꯐꯥꯔ
+Afrikaans		ꯑꯐ꯭ꯔꯤꯀꯥꯟꯁ
+Aghem			ꯑꯘꯦꯝ
+Ainu			ꯑꯥꯢꯅ
+Akan			ꯑꯀꯥꯟ
+Albanian		ꯑꯜꯕꯥꯅꯤꯌꯥ
+Aleut			ꯑꯂꯦꯎꯠ
+Amharic			ꯑꯝꯍꯥꯔꯤꯛ
+Angika			ꯑꯡꯒꯤꯀꯥ
+Arabic			ꯑꯔꯥꯕꯤꯛ
+Modern Standard Arabic	
+Aragonese		ꯑꯔꯥꯒꯣꯅꯤꯁ
+Arapaho			ꯑꯔꯥꯄꯥꯍꯣ
+Armenian		ꯑꯔꯃꯦꯅꯤꯌꯥꯟ
+Aromanian		ꯑꯔꯣꯃꯥꯅꯤꯌꯥꯟ
+Assamese		ꯑꯁꯥꯃꯤꯁ
+Asturian		ꯑꯁꯇꯨꯔꯤꯌꯥꯟ
+Asu				ꯑꯁꯨ
+Avaric			ꯑꯚꯥꯔꯤꯛ
+Awadhi			ꯑꯋꯙꯤꯥ
+Aymara			ꯑꯥꯢꯃꯥꯔꯥ
+Azerbaijani		ꯑꯖꯔꯕꯩ ꯖꯥꯅꯤ
+Azeri			ꯑꯖꯦꯔꯤ
+
+B
+Bafia			ꯕꯐꯤꯌꯥ
+Balinese		ꯕꯥꯂꯤꯅꯤꯁ
+Bambara			ꯕꯥꯝꯕꯥꯔꯥ
+Bangla			ꯕꯦꯡꯒꯥꯂꯤ
+Basaa			ꯕꯁꯥ
+Bashkir			ꯕꯁꯈꯤꯔ
+Basque			ꯕꯥꯁ꯭ꯀ
+Belarusian		ꯕꯦꯂꯥꯔꯨꯁꯤꯌꯥꯟ
+Bemba			ꯕꯦꯝꯕꯥ
+Bena			ꯕꯦꯅꯥ
+Bhojpuri		ꯚꯣꯖꯄꯨꯔꯤ
+Bini			ꯕꯤꯅꯤ
+Bislama			ꯕꯤꯁꯂꯥꯃꯥ
+Blin			ꯕ꯭ꯂꯤꯟ
+Bodo			ꯕꯣꯗꯣ
+Bosnian			ꯕꯣꯁꯅꯤꯌꯥꯟ
+Breton			ꯕ꯭ꯔꯦꯇꯣꯟ
+Buginese		ꯕꯒꯤꯅꯤꯁ
+Bulgarian		ꯕꯜꯒꯦꯔꯤꯌꯥꯟ
+Burmese			ꯕꯔꯃꯤꯁ
+
+C
+Cantonese		ꯀꯥꯟꯇꯣꯅꯤꯁ
+Catalan			ꯀꯥꯇꯥꯂꯥꯟ
+Cebuano			ꯁꯤꯕꯨꯑꯥꯅꯣ
+Central Atlas Tamazight
+Central Kurdish
+Chamorro		ꯀꯃꯣꯔꯣ
+Chechen			ꯆꯦꯆꯦꯟ
+Cherokee		ꯆꯦꯔꯣꯀꯤ
+Cheyenne		ꯁꯦꯌꯦꯟ
+Chiga			ꯆꯤꯒꯥ
+Chinese			ꯆꯥꯢꯅꯤꯁ
+Simplified Chinese
+Traditional Chinese
+Choctaw			ꯆꯣꯛꯇꯣ
+Church Slavic	ꯆꯔ꯭ꯆ ꯏꯁꯂꯥꯚꯤꯛ
+Chuukese		ꯆꯨꯀꯤꯁ		
+Chuvash			ꯆꯨꯚꯥꯁ
+Colognian		ꯀꯣꯂꯣꯅꯤꯌꯥꯟ
+Comorian		ꯀꯣꯃꯣꯔꯤꯌꯥꯟ
+Cornish			ꯀꯣꯔꯅꯤꯁ
+Corsican		ꯀꯣꯔꯁꯤꯀꯥꯟ
+Creek			ꯀ꯭ꯔꯤꯛ
+Croatian		ꯀ꯭ꯔꯣꯏꯁꯤꯌꯥꯟ
+Czech			ꯆꯦꯛ
+
+D
+Dakota			ꯗꯥꯀꯣꯇꯥ
+Danish			ꯗꯥꯅꯤꯁ
+Dargwa			ꯗꯥꯔꯒ꯭ꯋꯥ
+Dazaga			ꯗꯥꯖꯥꯒꯥ
+Divehi			ꯗꯤꯚꯦꯍꯤ
+Dogrib			ꯗꯣꯒ꯭ꯔꯤꯕ
+Duala			ꯗꯨꯑꯥꯂꯥ
+Dutch			ꯗꯠꯆ
+Dzongkha		ꯖꯣꯡꯈꯥ
+			
+
+
+
