@@ -126,6 +126,27 @@ Duala                           ꯗꯨꯑꯥꯂꯥ
 Dutch                           ꯗꯠꯆ
 Dzongkha                        ꯖꯣꯡꯈꯥ
    
+## Languages (E-J)
+
+E
+Efik                             ꯏꯐꯤꯛ
+Ekajuk                           ꯏꯀꯥꯖꯨꯛ
+Embu                             ꯏꯝꯕꯨ
+English                          ꯏꯡꯂꯤꯁ
+Australian English               ꯑꯁꯇ꯭ꯔꯦꯂꯤꯌꯥꯒꯤ ꯏꯡꯂꯤꯁ
+Canadian English                 ꯀꯥꯅꯥꯗꯥꯒꯤ ꯏꯡꯂꯤꯁ
+British English                  ꯕ꯭ꯔꯤꯇꯤꯁꯀꯤ ꯏꯡꯂꯤꯁ
+UK English                       ꯌꯨꯀꯦꯒꯤ ꯏꯡꯂꯤꯁ
+American English                 ꯑꯃꯦꯔꯤꯀꯥꯒꯤ ꯏꯡꯂꯤꯁ
+US English                       ꯌꯨꯑꯦꯁꯀꯤ ꯏꯡꯂꯤꯁ
+Erzya                            ꯏꯔꯖ꯭ꯌꯥ
+Esperanto                        ꯑꯦꯁꯄꯦꯔꯥꯟꯇꯣ
+Estonian                         ꯑꯦꯁꯇꯣꯅꯤꯌꯥꯟ
+Ewe                              ꯏꯋꯦ
+Ewondo                           ꯏꯋꯣꯟꯗꯣ
+
+
+
 
 
 
