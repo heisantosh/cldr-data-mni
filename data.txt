@@ -145,6 +145,73 @@ Estonian                         ꯑꯦꯁꯇꯣꯅꯤꯌꯥꯟ
 Ewe                              ꯏꯋꯦ
 Ewondo                           ꯏꯋꯣꯟꯗꯣ
 
+F
+Faroese                          ꯐꯥꯔꯣꯢꯁ
+Fijian                           ꯐꯤꯖꯤꯌꯥꯟ
+Filipino                         ꯐꯤꯂꯤꯄꯤꯅꯣ
+Finnish                          ꯐꯤꯟꯅꯤꯁ
+Fon                              ꯐꯣꯟ
+French                           ꯐ꯭ꯔꯦꯅ꯭ꯆ
+Canadian French                  ꯀꯥꯅꯥꯗꯥꯒꯤ ꯐ꯭ꯔꯦꯅ꯭ꯆ
+Swiss French                     ꯁ꯭ꯋꯤꯁꯀꯤ ꯐ꯭ꯔꯦꯅ꯭ꯆ
+Friulian                         ꯐ꯭ꯔꯤꯌꯨꯂꯤꯌꯥꯟ
+Fulah                            ꯐꯨꯂꯥꯍ
+
+G
+Ga                               ꯒꯥ
+Galician                         ꯒꯥꯂꯤꯁꯤꯌꯥꯟ
+Ganda                            ꯒꯥꯟꯗꯥ
+Geez                             ꯒꯤꯖ
+Georgian                         ꯖꯣꯔꯖꯤꯌꯥꯟ
+German                           ꯖꯔꯃꯟ
+Austrian German                  ꯑꯁ꯭ꯇꯤꯌꯥꯒꯤ ꯖꯔꯃꯟ
+Swiss High German                
+Gilbertese                       ꯒꯤꯂꯕꯔꯇꯤꯁ
+Gorontalo                        ꯒꯣꯔꯣꯟꯇꯥꯂꯣ
+Greek                            ꯒ꯭ꯔꯤꯛ
+Guarani                          ꯒꯨꯑꯥꯔꯥꯅꯤ
+Gujarati                         ꯒꯨꯖꯔꯥꯇꯤ
+Gusii                            ꯒꯨꯁꯤ
+Gwichʼin                         ꯒ꯭ꯋꯤꯆꯏꯟ
+
+H
+Haitian Creole                   ꯍꯥꯢꯇꯤꯒꯤ ꯀ꯭ꯔꯤꯑꯣꯜ
+Hausa                            ꯍꯥꯎꯁꯥ
+Hawaiian                         ꯍꯥꯋꯥꯏꯌꯥꯟ
+Hebrew                           ꯍꯦꯕ꯭ꯔꯤꯎ
+Herero                           ꯍꯦꯔꯦꯔꯣ
+Hiligaynon                       ꯍꯤꯂꯤꯒꯦꯅꯟ
+Hindi                            ꯍꯤꯟꯗꯤ
+Hmong                            ꯍ꯭ꯃꯣꯡ
+Hungarian                        ꯍꯡꯒꯦꯔꯤꯌꯥꯟ
+Hupa                             ꯍꯨꯄꯥ
+
+I
+Iban                             ꯏꯕꯥꯟ
+Ibibio                           ꯏꯕꯤꯕꯣ
+Icelandic                        ꯑꯥꯢꯂꯦꯟꯗꯤꯛ
+Ido                              ꯏꯗꯣ
+Igbo                             ꯏꯒꯕꯣ
+Iloko                            ꯏꯂꯣꯀꯣ
+Inari Sami                       ꯏꯅꯥꯔꯤ ꯁꯥꯃꯤ
+Indonesian                       ꯏꯟꯗꯣꯅꯦꯁꯤꯌꯥꯟ
+Ingush                           ꯏꯡꯒꯨꯁ
+Interlingua                      ꯏꯟꯇꯔꯂꯤꯡꯒꯨꯑꯥ
+Inuktitut                        ꯏꯅꯨꯛꯇꯤꯇꯨꯠ
+Irish                            ꯑꯥꯢꯔꯤꯁ
+Italian                          ꯏꯇꯥꯂꯤꯌꯥꯟ
+
+J
+Japanese                         ꯖꯥꯄꯥꯅꯤꯁ
+Javanese                         ꯖꯥꯚꯥꯅꯤꯁ
+Jju                              ꯖꯖꯨ
+Jola-Fonyi                       ꯖꯣꯂꯥ-ꯐꯣꯟꯌꯤ
+
+
+
+
+
+
 
 
 
