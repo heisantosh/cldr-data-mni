@@ -334,16 +334,92 @@ Nuer                             ꯅꯨꯌꯔ
 Nyanja                           ꯅ꯭ꯌꯥꯟꯖꯥ
 Nyankole                         ꯅ꯭ꯌꯥꯟꯀꯣꯜ
 
-      
+## Languages (O-S)
 
+O
+Occitan                          ꯑꯣꯁꯤꯇꯥꯟ
+Odia                             ꯑꯣꯗꯤꯌꯥ
+Oromo                            ꯑꯣꯔꯣꯃꯣ
+Ossetic                          ꯑꯣꯁ꯭ꯁꯦꯇꯤꯛ
 
+P
+Palauan                          ꯄꯂꯥꯑꯣꯑꯟ
+Pampanga                         ꯄꯥꯝꯄꯥꯟꯒꯥ
+Pangasinan                       ꯄꯡꯒꯥꯁꯤꯅꯥꯟ
+Papiamento                       ꯄꯥꯄꯤꯌꯥꯃꯦꯟꯇꯣ
+Pashto                           ꯄꯥꯁꯇꯣ
+Pushto                           ꯄꯨꯁꯇꯣ
+Persian                          ꯄꯔꯁꯤꯌꯥꯟ
+Polish                           ꯄꯣꯂꯤꯁ
+Portuguese                       ꯄꯣꯔꯇꯨꯒꯤꯁ
+Brazilian Portuguese             ꯕ꯭ꯔꯥꯖꯤꯌꯥꯟ ꯄꯣꯔꯇꯨꯒꯤꯁ
+European Portuguese              ꯌꯨꯔꯣꯄꯤꯌꯥꯟ ꯄꯣꯔꯇꯨꯒꯤꯁ
+Prussian                         ꯄ꯭ꯔꯨꯁꯤꯌꯥꯟ
+Punjabi                          ꯄꯟꯖꯥꯕꯤ
 
+Q
+Quechua                          ꯀ꯭ꯋꯦꯆꯨꯋꯥ
 
+R
+Rapanui                          ꯔꯥꯄꯥꯅꯨꯢ
+Rarotongan                       ꯔꯥꯔꯣꯇꯣꯡꯒꯟ
+Romanian                         ꯔꯣꯃꯥꯅꯤꯌꯥꯟ
+Moldavian                        ꯃꯣꯜꯗꯥꯚꯤꯌꯥꯟ
+Romansh                          ꯔꯣꯃꯥꯟꯁ
+Rombo                            ꯔꯣꯝꯕꯣ
+Root                             ꯔꯨꯠ
+Rundi                            ꯔꯨꯟꯗꯤ
+Russian                          ꯔꯁꯤꯌꯥꯟ
+Rwa                              ꯔ꯭ꯋꯥ
 
-
-
-
-
+S
+Saho                             ꯁꯥꯍꯣ
+Sakha                            ꯁꯥꯈꯥ
+Samburu                          ꯁꯥꯝꯕꯨꯔꯨ
+Samoan                           ꯁꯥꯃꯣꯑꯟ
+Sandawe                          ꯁꯥꯟꯗꯥꯋꯦ
+Sango                            ꯁꯥꯡꯒꯣ
+Sangu                            ꯁꯥꯡꯒꯨ
+Sanskrit                         ꯁꯟꯁꯀ꯭ꯔꯤꯠ
+Santali                          ꯁꯥꯟꯇꯥꯂꯤ
+Sardinian                        ꯁꯥꯔꯗꯤꯅꯤꯌꯥꯟ
+Scots                            ꯁ꯭ꯀꯣꯠꯁ
+Scottish Gaelic                  ꯁ꯭ꯀꯣꯠꯇꯤꯁ ꯒꯦꯂꯤꯛ
+Sena                             ꯁꯦꯅꯥ
+Serbian                          ꯁꯔꯕꯤꯌꯥꯟ
+Seselwa Creole French            ꯁꯦꯁꯦꯜꯋꯥ ꯀ꯭ꯔꯤꯑꯣꯜ ꯐ꯭ꯔꯦꯟꯆ
+Shambala                         ꯁꯝꯕꯥꯂꯥ
+Shan                             ꯁꯥꯟ
+Shona                            ꯁꯣꯅꯥ
+Sichuan Yi                       ꯁꯤꯆꯨꯑꯟ ꯌꯤ
+Sicilian                         ꯁꯤꯁꯤꯂꯤꯌꯥꯟ
+Siksika                          ꯁꯤꯛꯁꯤꯀꯥ
+Sindhi                           ꯁꯤꯟꯙꯤ
+Sinhala                          ꯁꯤꯟꯍꯥꯂꯥ
+Skolt Sami                       ꯁ꯭ꯀꯣꯂ꯭ꯇ ꯁꯥꯃꯤ
+Slovak                           ꯁ꯭ꯂꯣꯚꯥꯛ
+Slovenian                        ꯁ꯭ꯂꯣꯚꯦꯅꯤꯌꯥꯟ
+Soga                             ꯁꯣꯒꯥ
+Somali                           ꯁꯣꯃꯥꯂꯤ
+Soninke                          ꯁꯣꯅꯤꯟꯀꯦ
+South Ndebele                    ꯈꯥ ꯗꯦꯕꯦꯂꯦ
+Southern Altai                   ꯈꯥꯊꯡꯕ ꯑꯜꯇꯥꯢ
+Southern Sami                    ꯈꯥꯊꯡꯕ ꯁꯥꯃꯤ
+Southern Sotho                   ꯈꯥꯊꯡꯕ ꯁꯣꯊꯣ
+Spanish                          ꯁ꯭ꯄꯦꯅꯤꯁ
+Latin American Spanish           ꯂꯦꯇꯤꯟ ꯑꯃꯦꯔꯤꯀꯥꯒꯤ ꯁ꯭ꯄꯦꯅꯤꯁ
+European Spanish                 ꯌꯨꯔꯣꯞꯀꯤ ꯁ꯭ꯄꯦꯅꯤꯁ
+Mexican Spanish                  ꯃꯦꯀ꯭ꯁꯤꯀꯥꯟ ꯁ꯭ꯄꯦꯅꯤꯁ
+Sranan Tongo                     ꯁ꯭ꯔꯥꯅꯥꯟ ꯇꯣꯡꯒꯣ
+Standard Moroccan Tamazight      ꯁ꯭ꯇꯦꯟꯗꯔ꯭ꯗ ꯃꯣꯔꯣꯛꯀꯥꯟ ꯇꯥꯃꯥꯖꯤꯘ
+Sukuma                           ꯁꯨꯀꯨꯃꯥ
+Sundanese                        ꯁꯨꯟꯗꯥꯅꯤꯁ
+Swahili                          ꯁ꯭ꯋꯥꯍꯤꯂꯤ
+Congo Swahili                    ꯀꯣꯡꯒꯣ ꯁ꯭ꯋꯥꯍꯤꯂꯤ
+Swati                            ꯁ꯭ꯋꯥꯇꯤ
+Swedish                          ꯁ꯭ꯋꯦꯗꯤꯁ
+Swiss German                     ꯁ꯭ꯋꯤꯁ ꯖꯔꯃꯟ
+Syriac                           ꯁꯤꯔꯤꯌꯛ
 
 
 
