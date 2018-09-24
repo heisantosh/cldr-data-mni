@@ -47,14 +47,14 @@ Adyghe                          ꯑꯗꯤꯘꯦ
 Afar                            ꯑꯐꯥꯔ
 Afrikaans                       ꯑꯐ꯭ꯔꯤꯀꯥꯟꯁ
 Aghem                           ꯑꯘꯦꯝ
-Ainu                            ꯑꯥꯢꯅ
+Ainu                            ꯑꯥꯢꯅꯨ
 Akan                            ꯑꯀꯥꯟ
-Albanian                        ꯑꯜꯕꯥꯅꯤꯌꯥ
+Albanian                        ꯑꯜꯕꯥꯅꯤꯌꯥꯟ
 Aleut                           ꯑꯂꯦꯎꯠ
 Amharic                         ꯑꯝꯍꯥꯔꯤꯛ
 Angika                          ꯑꯡꯒꯤꯀꯥ
 Arabic                          ꯑꯔꯥꯕꯤꯛ
-Modern Standard Arabic 
+Modern Standard Arabic          ꯑꯅꯧꯕ ꯊꯥꯛ ꯑꯔꯥꯕꯤꯛ
 Aragonese                       ꯑꯔꯥꯒꯣꯅꯤꯁ
 Arapaho                         ꯑꯔꯥꯄꯥꯍꯣ
 Armenian                        ꯑꯔꯃꯦꯅꯤꯌꯥꯟ
@@ -63,7 +63,7 @@ Assamese                        ꯑꯁꯥꯃꯤꯁ
 Asturian                        ꯑꯁꯇꯨꯔꯤꯌꯥꯟ
 Asu                             ꯑꯁꯨ
 Avaric                          ꯑꯚꯥꯔꯤꯛ
-Awadhi                          ꯑꯋꯙꯤꯥ
+Awadhi                          ꯑꯋꯥꯙꯤ
 Aymara                          ꯑꯥꯢꯃꯥꯔꯥ
 Azerbaijani                     ꯑꯖꯔꯕꯩ ꯖꯥꯅꯤ
 Azeri                           ꯑꯖꯦꯔꯤ
@@ -72,9 +72,9 @@ B
 Bafia                           ꯕꯐꯤꯌꯥ
 Balinese                        ꯕꯥꯂꯤꯅꯤꯁ
 Bambara                         ꯕꯥꯝꯕꯥꯔꯥ
-Bangla                          ꯕꯦꯡꯒꯥꯂꯤ
+Bangla                          ꯕꯡꯒ꯭ꯂꯥ
 Basaa                           ꯕꯁꯥ
-Bashkir                         ꯕꯁꯈꯤꯔ
+Bashkir                         ꯕꯁꯀꯤꯔ
 Basque                          ꯕꯥꯁ꯭ꯀ
 Belarusian                      ꯕꯦꯂꯥꯔꯨꯁꯤꯌꯥꯟ
 Bemba                           ꯕꯦꯝꯕꯥ
@@ -94,16 +94,16 @@ C
 Cantonese                       ꯀꯥꯟꯇꯣꯅꯤꯁ
 Catalan                         ꯀꯥꯇꯥꯂꯥꯟ
 Cebuano                         ꯁꯤꯕꯨꯑꯥꯅꯣ
-Central Atlas Tamazight         ꯁꯦꯟꯇ꯭ꯔꯦꯜ ꯑꯠꯂꯥꯁ ꯇꯥꯃꯥꯖꯤꯘ
+Central Atlas Tamazight         ꯃꯌꯥꯢꯊꯡꯕ ꯑꯠꯂꯥꯁ ꯇꯥꯃꯥꯖꯤꯛ
 Central Kurdish                 ꯃꯌꯥꯢꯊꯡꯕ ꯀꯨꯔꯗꯤꯁ
-Chamorro                        ꯀꯃꯣꯔꯣ
+Chamorro                        ꯀꯃꯣꯔ꯭ꯔꯣ
 Chechen                         ꯆꯦꯆꯦꯟ
 Cherokee                        ꯆꯦꯔꯣꯀꯤ
-Cheyenne                        ꯁꯦꯌꯦꯟ
+Cheyenne                        ꯆꯦꯌꯦꯟ
 Chiga                           ꯆꯤꯒꯥ
 Chinese                         ꯆꯥꯢꯅꯤꯁ
-Simplified Chinese
-Traditional Chinese
+Simplified Chinese              ꯑꯆꯝꯕ ꯆꯥꯢꯍꯤꯁ
+Traditional Chinese             ꯆꯠꯅꯕꯤ ꯆꯥꯢꯅꯤꯁ
 Choctaw                         ꯆꯣꯛꯇꯣ
 Church Slavic                   ꯆꯔ꯭ꯆ ꯏꯁꯂꯥꯚꯤꯛ
 Chuukese                        ꯆꯨꯀꯤꯁ  
@@ -220,9 +220,9 @@ Kalaallisut                      ꯀꯂꯥꯜꯂꯤꯁꯨꯠ
 Kalenjin                         ꯀꯂꯦꯟꯖꯤꯟ
 Kalmyk                           ꯀꯥꯜꯃꯤꯛ
 Kamba                            ꯀꯝꯕꯥ
-Kannada                          ꯀꯟꯂꯗ
+Kannada                          ꯀꯟꯅꯗ
 Kanuri                           ꯀꯥꯅꯨꯔꯤ
-Karachay-Balkar                  ꯀꯔꯥꯆꯤ-ꯕꯥꯜꯀꯥꯔ
+Karachay-Balkar                  ꯀꯔꯥꯆꯢ-ꯕꯥꯜꯀꯥꯔ
 Karelian                         ꯀꯔꯦꯂꯤꯌꯥꯟ
 Kashmiri                         ꯀꯁꯃꯤꯔꯤ
 Kazakh                           ꯀꯖꯥꯈ
@@ -267,11 +267,11 @@ Lule Sami                        ꯂꯨꯂꯦ ꯁꯥꯃꯤ
 Lunda                            ꯂꯨꯟꯗꯥ
 Luo                              ꯂꯨꯥꯑꯣ
 Luxembourgish                    ꯂꯀꯖꯝꯕꯔꯒꯤꯁ
-Luyia                            ꯂꯨꯌꯤꯑꯥ
+Luyia                            ꯂ꯭ꯌꯨꯌꯤꯑꯥ
 
 M
 Macedonian                       ꯃꯛꯗꯣꯅꯤꯌꯥꯟ
-Machame                          ꯃꯦꯛꯍꯥꯃꯦ
+Machame                          ꯃꯦꯛꯍꯦꯃꯦ
 Madurese                         ꯃꯥꯗꯨꯔꯤꯁ
 Magahi                           ꯃꯒꯥꯍꯤ
 Maithili                         ꯃꯩ ꯊꯤꯂꯤ
@@ -317,12 +317,12 @@ Neapolitan                       ꯅꯤꯄꯣꯂꯤꯇꯥꯟ
 Nepali                           ꯅꯦꯄꯥꯂꯤ
 Newari                           ꯅꯦꯋꯥꯔꯤ
 Ngambay                          ꯉꯥꯝꯕꯦ
-Ngiemboon                        ꯒꯦꯝꯕꯨ
-Ngomba                           ꯅꯒꯣꯟꯕꯥ
+Ngiemboon                        ꯉꯤꯏꯝꯕꯨ
+Ngomba                           ꯉꯣꯝꯕꯥ
 Nias                             ꯅꯤꯌꯥꯁ
 Nigerian Pidgin                  ꯅꯥꯢꯖꯦꯔꯤꯌꯥꯟ ꯄꯤꯗꯖꯤꯟ
 Niuean                           ꯅꯤꯌꯨꯑꯥꯟ
-No linguistic content            ꯂꯣꯟꯒꯤ ꯃꯆꯡ ꯌꯥꯑꯣꯗꯦ
+No linguistic content            ꯂꯣꯟꯒꯤ ꯃꯆꯥꯡ ꯌꯥꯑꯣꯗꯦ
 Nogai                            ꯅꯣꯒꯥꯢ
 North Ndebele                    ꯑꯋꯥꯡꯒꯤ ꯗꯦꯕꯦꯜ
 Northern Luri                    ꯑꯋꯥꯡꯒꯤ ꯂꯨꯔꯤ
@@ -337,7 +337,7 @@ Nyankole                         ꯅ꯭ꯌꯥꯟꯀꯣꯜ
 ## Languages (O-S)
 
 O
-Occitan                          ꯑꯣꯁꯤꯇꯥꯟ
+Occitan                          ꯑꯣꯛꯁꯤꯇꯥꯟ
 Odia                             ꯑꯣꯗꯤꯌꯥ
 Oromo                            ꯑꯣꯔꯣꯃꯣ
 Ossetic                          ꯑꯣꯁ꯭ꯁꯦꯇꯤꯛ
@@ -352,7 +352,7 @@ Pushto                           ꯄꯨꯁꯇꯣ
 Persian                          ꯄꯔꯁꯤꯌꯥꯟ
 Polish                           ꯄꯣꯂꯤꯁ
 Portuguese                       ꯄꯣꯔꯇꯨꯒꯤꯁ
-Brazilian Portuguese             ꯕ꯭ꯔꯥꯖꯤꯌꯥꯟ ꯄꯣꯔꯇꯨꯒꯤꯁ
+Brazilian Portuguese             ꯕ꯭ꯔꯥꯖꯤꯂꯤꯌꯥꯟ ꯄꯣꯔꯇꯨꯒꯤꯁ
 European Portuguese              ꯌꯨꯔꯣꯄꯤꯌꯥꯟ ꯄꯣꯔꯇꯨꯒꯤꯁ
 Prussian                         ꯄ꯭ꯔꯨꯁꯤꯌꯥꯟ
 Punjabi                          ꯄꯟꯖꯥꯕꯤ
@@ -421,5 +421,75 @@ Swedish                          ꯁ꯭ꯋꯦꯗꯤꯁ
 Swiss German                     ꯁ꯭ꯋꯤꯁ ꯖꯔꯃꯟ
 Syriac                           ꯁꯤꯔꯤꯌꯛ
 
+## Languages (T-Z)
+
+T
+Tachelhit                        ꯇꯥꯆꯦꯜꯍꯤꯠ
+Tahitian                         ꯇꯥꯍꯤꯇꯤꯌꯥꯟ
+Taita                            ꯇꯥꯢꯇꯥ
+Tajik                            ꯇꯥꯖꯤꯛ
+Tamil                            ꯇꯥꯃꯤꯜ
+Taroko                           ꯇꯥꯔꯣꯀꯣ
+Tasawaq                          ꯇꯥꯁꯥꯋꯥꯛ
+Tatar                            ꯇꯥꯇꯥꯔ
+Telugu                           ꯇꯦꯂꯨꯒꯨ
+Teso                             ꯇꯦꯁꯣ
+Tetum                            ꯇꯦꯇꯨꯝ
+Thai                             ꯊꯥꯢ
+Tibetan                          ꯇꯤꯕꯦꯇꯥꯟ
+Tigre                            ꯇꯥꯢꯒ꯭ꯔꯦ
+Tigrinya                         ꯇꯤꯒ꯭ꯔꯤꯟꯌꯥ
+Timne                            ꯇꯤꯝꯅꯦ
+Tok Pisin                        ꯇꯣꯛ ꯄꯤꯁꯤꯟ
+Tongan                           ꯇꯣꯡꯒꯟ
+Tsonga                           ꯁꯣꯡꯒꯥ
+Tswana                           ꯁ꯭ꯋꯥꯅꯥ
+Tumbuka                          ꯇꯝꯕꯨꯀꯥ
+Turkish                          ꯇꯔꯀꯤꯁ
+Turkmen                          ꯇꯔ꯭ꯀꯃꯦꯟ
+Tuvalu                           ꯇꯨꯚꯥꯂꯨ
+Tuvinian                         ꯇꯨꯚꯤꯅꯤꯌꯥꯟ
+Tyap                             ꯇ꯭ꯌꯥꯞ
+
+U
+Udmurt                           ꯎꯗꯃꯨꯔ꯭ꯇ
+Ukrainian                        ꯌꯨꯀ꯭ꯔꯦꯅꯤꯌꯥꯟ
+Umbundu                          ꯎꯝꯕꯨꯟꯗꯨ
+Unknown language                 ꯈꯡꯗꯕ ꯂꯣꯟ
+Upper Sorbian                    ꯃꯊꯛꯊꯡꯕ ꯁꯣꯔꯕꯤꯌꯥꯟ
+Urdu                             ꯎꯔꯗꯨ
+Uyghur                           ꯎꯢꯘꯨꯔ
+Uzbek                            ꯎꯖꯕꯦꯛ
+
+V
+Vai                              ꯚꯥꯢ
+Venda                            ꯚꯦꯟꯗꯥ
+Vietnamese                       ꯚꯤꯌꯠꯅꯥꯃꯤꯁ
+Volapük                          ꯚꯣꯂꯥꯄꯨꯛ
+Vunjo                            ꯚꯨꯟꯖꯣ
+
+W
+Walloon                          ꯋꯥꯜꯂꯨꯟ
+Walser                           ꯋꯥꯜꯁꯔ
+Waray                            ꯋꯥꯔꯥꯢ
+Welsh                            ꯋꯦꯜꯁ
+Western Frisian                  ꯅꯣꯡꯆꯨꯞ ꯐ꯭ꯔꯤꯁꯤꯌꯥꯟ
+Wolaytta                         ꯋꯣꯂꯦꯠꯇꯥ
+Wolof                            ꯋꯣꯂꯣꯐ
+
+X
+Xhosa                            ꯈꯣꯁꯥ
+
+Y
+Yangben                          ꯌꯥꯡꯕꯦꯟ
+Yemba                            ꯌꯦꯝꯕꯥ
+Yiddish                          ꯌꯤꯗ꯭ꯗꯤꯁ
+Yoruba                           ꯌꯣꯔꯨꯕꯥ
+
+Z
+Zarma                            ꯖꯥꯔꯃꯥ
+Zaza                             ꯖꯥꯖꯥ
+Zulu                             ꯖꯨꯂꯨ
+Zuni                             ꯖꯨꯅꯤ
 
 
