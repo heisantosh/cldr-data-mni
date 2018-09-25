@@ -54,7 +54,7 @@ Aleut                           ꯑꯂꯦꯎꯠ
 Amharic                         ꯑꯝꯍꯥꯔꯤꯛ
 Angika                          ꯑꯡꯒꯤꯀꯥ
 Arabic                          ꯑꯔꯥꯕꯤꯛ
-Modern Standard Arabic          ꯑꯅꯧꯕ ꯊꯥꯛ ꯑꯔꯥꯕꯤꯛ
+Modern Standard Arabic          ꯑꯅꯧꯕ ꯊꯥꯛꯀꯤ ꯑꯔꯥꯕꯤꯛ
 Aragonese                       ꯑꯔꯥꯒꯣꯅꯤꯁ
 Arapaho                         ꯑꯔꯥꯄꯥꯍꯣ
 Armenian                        ꯑꯔꯃꯦꯅꯤꯌꯥꯟ
@@ -65,7 +65,7 @@ Asu                             ꯑꯁꯨ
 Avaric                          ꯑꯚꯥꯔꯤꯛ
 Awadhi                          ꯑꯋꯥꯙꯤ
 Aymara                          ꯑꯥꯢꯃꯥꯔꯥ
-Azerbaijani                     ꯑꯖꯔꯕꯩ ꯖꯥꯅꯤ
+Azerbaijani                     ꯑꯖꯔꯕꯩꯖꯥꯅꯤ
 Azeri                           ꯑꯖꯦꯔꯤ
 
 B
@@ -96,7 +96,7 @@ Catalan                         ꯀꯥꯇꯥꯂꯥꯟ
 Cebuano                         ꯁꯤꯕꯨꯑꯥꯅꯣ
 Central Atlas Tamazight         ꯃꯌꯥꯢꯊꯡꯕ ꯑꯠꯂꯥꯁ ꯇꯥꯃꯥꯖꯤꯛ
 Central Kurdish                 ꯃꯌꯥꯢꯊꯡꯕ ꯀꯨꯔꯗꯤꯁ
-Chamorro                        ꯀꯃꯣꯔ꯭ꯔꯣ
+Chamorro                        ꯀꯃꯣꯔꯔꯣ
 Chechen                         ꯆꯦꯆꯦꯟ
 Cherokee                        ꯆꯦꯔꯣꯀꯤ
 Cheyenne                        ꯆꯦꯌꯦꯟ
@@ -113,7 +113,7 @@ Comorian                        ꯀꯣꯃꯣꯔꯤꯌꯥꯟ
 Cornish                         ꯀꯣꯔꯅꯤꯁ
 Corsican                        ꯀꯣꯔꯁꯤꯀꯥꯟ
 Creek                           ꯀ꯭ꯔꯤꯛ
-Croatian                        ꯀ꯭ꯔꯣꯏꯁꯤꯌꯥꯟ
+Croatian                        ꯀ꯭ꯔꯣꯢꯁꯤꯌꯥꯟ
 Czech                           ꯆꯦꯛ
 
 D
@@ -136,7 +136,7 @@ Embu                             ꯏꯝꯕꯨ
 English                          ꯏꯡꯂꯤꯁ
 Australian English               ꯑꯁꯇ꯭ꯔꯦꯂꯤꯌꯥꯒꯤ ꯏꯡꯂꯤꯁ
 Canadian English                 ꯀꯥꯅꯥꯗꯥꯒꯤ ꯏꯡꯂꯤꯁ
-British English                  ꯕ꯭ꯔꯤꯇꯤꯁꯀꯤ ꯏꯡꯂꯤꯁ
+British English                  ꯕ꯭ꯔꯤꯇꯤꯁ ꯏꯡꯂꯤꯁ
 UK English                       ꯌꯨꯀꯦꯒꯤ ꯏꯡꯂꯤꯁ
 American English                 ꯑꯃꯦꯔꯤꯀꯥꯒꯤ ꯏꯡꯂꯤꯁ
 US English                       ꯌꯨꯑꯦꯁꯀꯤ ꯏꯡꯂꯤꯁ
@@ -189,7 +189,7 @@ Hupa                             ꯍꯨꯄꯥ
 
 I
 Iban                             ꯏꯕꯥꯟ
-Ibibio                           ꯏꯕꯤꯕꯣ
+Ibibio                           ꯏꯕꯤꯌꯣ
 Icelandic                        ꯑꯥꯢꯂꯦꯟꯗꯤꯛ
 Ido                              ꯏꯗꯣ
 Igbo                             ꯏꯒꯕꯣ
@@ -214,7 +214,7 @@ K
 Kabardian                        ꯀꯕꯔꯗꯤꯌꯥꯟ
 Kabuverdianu                     ꯀꯕꯨꯚꯦꯔꯗꯤꯌꯥꯅꯨ
 Kabyle                           ꯀꯕꯥꯢꯜ
-Kachin                           ꯀꯆꯤꯟ
+Kachin                           ꯀꯥꯆꯤꯟ
 Kako                             ꯀꯥꯀꯣ
 Kalaallisut                      ꯀꯂꯥꯜꯂꯤꯁꯨꯠ
 Kalenjin                         ꯀꯂꯦꯟꯖꯤꯟ
@@ -274,7 +274,7 @@ Macedonian                       ꯃꯛꯗꯣꯅꯤꯌꯥꯟ
 Machame                          ꯃꯦꯛꯍꯦꯃꯦ
 Madurese                         ꯃꯥꯗꯨꯔꯤꯁ
 Magahi                           ꯃꯒꯥꯍꯤ
-Maithili                         ꯃꯩ ꯊꯤꯂꯤ
+Maithili                         ꯃꯩꯊꯤꯂꯤ
 Makasar                          ꯃꯀꯥꯁꯔ
 Makhuwa-Meetto                   ꯃꯈꯨꯋꯥ-ꯃꯤꯠꯇꯣ
 Makonde                          ꯃꯦꯀꯣꯟꯗꯦ
@@ -317,7 +317,7 @@ Neapolitan                       ꯅꯤꯄꯣꯂꯤꯇꯥꯟ
 Nepali                           ꯅꯦꯄꯥꯂꯤ
 Newari                           ꯅꯦꯋꯥꯔꯤ
 Ngambay                          ꯉꯥꯝꯕꯦ
-Ngiemboon                        ꯉꯤꯏꯝꯕꯨ
+Ngiemboon                        ꯉꯤꯏꯝꯕꯨꯟ
 Ngomba                           ꯉꯣꯝꯕꯥ
 Nias                             ꯅꯤꯌꯥꯁ
 Nigerian Pidgin                  ꯅꯥꯢꯖꯦꯔꯤꯌꯥꯟ ꯄꯤꯗꯖꯤꯟ
@@ -329,7 +329,7 @@ Northern Luri                    ꯑꯋꯥꯡꯒꯤ ꯂꯨꯔꯤ
 Northern Sami                    ꯑꯋꯥꯡꯒꯤ ꯁꯥꯃꯤ
 Northern Sotho                   ꯑꯋꯥꯡꯒꯤ ꯁꯣꯊꯣ
 Norwegian Bokmål                 ꯅꯣꯔꯋꯦꯖꯤꯌꯥꯟ ꯕꯣꯛꯃꯥꯜ
-Norwegian Nynorsk                ꯅꯣꯔꯋꯦꯖꯤꯌꯥꯟ ꯅ꯭ꯌꯥꯅꯣꯔ꯭ꯁꯛ
+Norwegian Nynorsk                ꯅꯣꯔꯋꯦꯖꯤꯌꯥꯟ ꯅꯥꯢꯅꯣꯔꯁ꯭ꯀ
 Nuer                             ꯅꯨꯌꯔ
 Nyanja                           ꯅ꯭ꯌꯥꯟꯖꯥ
 Nyankole                         ꯅ꯭ꯌꯥꯟꯀꯣꯜ
@@ -492,4 +492,187 @@ Zaza                             ꯖꯥꯖꯥ
 Zulu                             ꯖꯨꯂꯨ
 Zuni                             ꯖꯨꯅꯤ
 
+## Scripts
+
+Arab            Arabic                                  ꯑꯔꯥꯕꯤꯛ
+Arab-variant    Perso-Arabic                            ꯄꯔꯁꯣ-ꯑꯔꯥꯕꯤꯛ
+Armn            Armenian                                ꯑꯔꯃꯦꯅꯤꯌꯥꯟ    
+Beng            Bangla                                  ꯕꯡꯒ꯭ꯂꯥ
+Bopo            Bopomofo                                ꯕꯣꯄꯣꯃꯣꯐꯣ
+Cyrl            Cyrillic                                ꯁꯤꯔꯤꯂꯤꯛ
+Deva            Devanagari                              ꯗꯦꯕꯥꯅꯥꯒꯥꯔꯤ
+Ethi            Ethiopic                                ꯏꯊꯤꯌꯣꯄꯤꯛ
+Geor            Georgian                                ꯖꯣꯔꯖꯤꯌꯥꯟ
+Grek            Greek                                   ꯒ꯭ꯔꯤꯛ
+Gujr            Gujarati                                ꯒꯨꯖꯔꯥꯇꯤ
+Guru            Gurmukhi                                ꯒꯨꯔꯃꯨꯈꯤ
+Hanb            Han with Bopomofo                       ꯍꯥꯅ꯭ꯕ
+Hang            Hangul                                  ꯍꯡꯒꯨꯜ
+Hani            Han                                     ꯍꯥꯟ
+Hans            Simplified                          
+Hans-stand-alone    Simplified Han
+Hant            Traditional
+Hant-stand-alone    Traditional Han
+Hebr    Hebrew
+Hir             Hiragana
+Jamo            Jamo
+Jpan            Japanese
+Kana            Katakana
+Khmr            Khmer
+Knda            Kannada
+Kore            Korean
+Laoo            Lao
+Latn            Latin
+Mlym            Malayalam
+Mymr            Myanmar
+Orya            Odia
+Sinh            Sinhala
+Taml            Tamil
+Telu            Telugu
+Thaa            Thaana
+Thai            Thai
+Tibt            Tibetan
+Zyyy            Common
+Adlam
+Balinese
+Bamum
+Batak
+Chakma
+Unified Canadian Aboriginal Syllabics
+Cham
+Cherokee
+Gunjala Gondi
+Javanese
+Kayah Li
+Lanna
+Lepcha
+Limbu
+Fraser
+Mandaean
+Meitei Mayek
+Newa
+N’Ko
+Ol Chiki
+Osage
+Pollard Phonetic
+Hanifi Rohingya
+Saurashtra
+Sundanese
+Syloti Nagri
+Syriac
+Tai Le
+New Tai Lue
+Tai Viet
+Tifinagh
+Vai
+Yi
+Caucasian Albanian
+Ahom
+Imperial Aramaic
+Avestan
+Bassa Vah
+Bhaiksuki
+Brahmi
+Buginese
+Buhid
+Carian
+Coptic
+Cypriot
+Dogra
+Deseret
+Duployan shorthand
+Egyptian hieroglyphs
+Elbasan
+Glagolitic
+Masaram Gondi
+Gothic
+Grantha
+Hanunoo
+Hatran
+Anatolian Hieroglyphs
+Pahawh Hmong
+Old Hungarian
+Old Italic
+Kharoshthi
+Khojki
+Kaithi
+Linear A
+Linear B
+Lycian
+Lydian
+Mahajani
+Makasar
+Manichaean
+Marchen
+Medefaidrin
+Mende
+Meroitic Cursive
+Meroitic
+Modi
+Mongolian
+Mro
+Multani
+Old North Arabian
+Nabataean
+Nüshu
+Ogham
+Orkhon
+Osmanya
+Palmyrene
+Pau Cin Hau
+Old Permic
+Phags-pa
+Inscriptional Pahlavi
+Psalter Pahlavi
+Phoenician
+Inscriptional Parthian
+Rejang
+Runic
+Samaritan
+Old South Arabian
+SignWriting
+Shavian
+Sharada
+Siddham
+Khudawadi
+Sogdian
+Old Sogdian
+Sora Sompeng
+Soyombo
+Tagbanwa
+Takri
+Tangut
+Tagalog
+Tirhuta
+Ugaritic
+Varang Kshiti
+Old Persian
+Sumero-Akkadian Cuneiform
+Zanabazar Square
+Blissymbols
+Braille
+Cirth
+Old Church Slavonic Cyrillic
+Egyptian demotic
+Egyptian hieratic
+Georgian Khutsuri
+Japanese syllabaries
+Indus
+Fraktur Latin
+Gaelic Latin
+Mayan hieroglyphs
+Moon
+Book Pahlavi
+Rongorongo
+Sarati
+Estrangelo Syriac
+Western Syriac
+Eastern Syriac
+Tengwar
+Visible Speech
+Mathematical Notation
+Emoji
+Symbols
+Unwritten
+Unknown Script
 

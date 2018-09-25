@@ -204,125 +204,277 @@
 
 ## Languages (K-N)
 
-| Code                        | English               | Value            |
-| --------------------------- | --------------------- | ---------------- |
-| Kabardian ► kbd             | Kabardian             | ꯀꯕꯔꯗꯤꯌꯥꯟ         |
-| Kabuverdianu ► kea          | Kabuverdianu          | ꯀꯕꯨꯚꯦꯔꯗꯤꯌꯥꯅꯨ     |
-| Kabyle ► kab                | Kabyle                | ꯀꯕꯥꯢꯜ            |
-| Kachin ► kac                | Kachin                | ꯀꯆꯤꯟ             |
-| Kako ► kkj                  | Kako                  | ꯀꯥꯀꯣ             |
-| Kalaallisut ► kl            | Kalaallisut           | ꯀꯂꯥꯜꯂꯤꯁꯨꯠ        |
-| Kalenjin ► kln              | Kalenjin              | ꯀꯂꯦꯟꯖꯤꯟ          |
-| Kalmyk ► xal                | Kalmyk                | ꯀꯥꯜꯃꯤꯛ           |
-| Kamba ► kam                 | Kamba                 | ꯀꯝꯕꯥ             |
-| Kannada ► kn                | Kannada               | ꯀꯟꯅꯗ             |
-| Kanuri ► kr                 | Kanuri                | ꯀꯥꯅꯨꯔꯤ           |
-| Karachay-Balkar ► krc       | Karachay-Balkar       | ꯀꯔꯥꯆꯢ-ꯕꯥꯜꯀꯥꯔ     |
-| Karelian ► krl              | Karelian              | ꯀꯔꯦꯂꯤꯌꯥꯟ         |
-| Kashmiri ► ks               | Kashmiri              | ꯀꯁꯃꯤꯔꯤ           |
-| Kazakh ► kk                 | Kazakh                | ꯀꯖꯥꯈ             |
-| Khasi ► kha                 | Khasi                 | ꯈꯥꯁꯤ             |
-| Khmer ► km                  | Khmer                 | ꯈ꯭ꯃꯦꯔ            |
-| Kikuyu ► ki                 | Kikuyu                | ꯀꯤꯀꯨꯌꯨ           |
-| Kimbundu ► kmb              | Kimbundu              | ꯀꯤꯝꯕꯟꯗꯨ          |
-| Kinyarwanda ► rw            | Kinyarwanda           | ꯀꯤꯟꯌꯥꯔꯋꯥꯟꯗꯥ      |
-| Klingon ► tlh               | Klingon               | ꯀ꯭ꯂꯤꯡꯒꯣꯟ         |
-| Komi ► kv                   | Komi                  | ꯀꯣꯃꯤ             |
-| Konkani ► kok               | Konkani               | ꯀꯣꯟꯀꯥꯅꯤ          |
-| Korean ► ko                 | Korean                | ꯀꯣꯔꯤꯌꯥꯟ          |
-| Koro ► kfo                  | Koro                  | ꯀꯣꯔꯣ             |
-| Koyra Chiini ► khq          | Koyra Chiini          | ꯀꯣꯢꯔꯥ ꯆꯤꯅꯤ       |
-| Koyraboro Senni ► ses       | Koyraboro Senni       | ꯀꯣꯢꯔꯥꯕꯣꯔꯣ ꯁꯦꯟꯅꯤ  |
-| Kpelle ► kpe                | Kpelle                | ꯀ꯭ꯄꯦꯜ            |
-| Kuanyama ► kj               | Kuanyama              | ꯀ꯭ꯋꯥꯟꯌꯥꯃꯥ        |
-| Kumyk ► kum                 | Kumyk                 | ꯀꯨꯃꯤꯛ            |
-| Kurdish ► ku                | Kurdish               | ꯀꯨꯔꯗꯤꯁ           |
-| Kurukh ► kru                | Kurukh                | ꯀꯨꯔꯨꯈ            |
-| Kwasio ► nmg                | Kwasio                | ꯀ꯭ꯋꯥꯁꯤꯑꯣ         |
-| Kyrgyz ► ky                 | Kyrgyz                | ꯀꯤꯔꯒꯤꯖ           |
-| Kʼicheʼ ► quc               | Kʼicheʼ               | ꯀꯤꯆꯢ             |
-| ***L***                     |                       |                  |
-| Ladino ► lad                | Ladino                | ꯂꯥꯗꯤꯅꯣ           |
-| Lakota ► lkt                | Lakota                | ꯂꯥꯀꯣꯇꯥ           |
-| Langi ► lag                 | Langi                 | ꯂꯥꯡꯒꯤ            |
-| Lao ► lo                    | Lao                   | ꯂꯥꯑꯣ             |
-| Latin ► la                  | Latin                 | ꯂꯦꯇꯤꯟ            |
-| Latvian ► lv                | Latvian               | ꯂꯥꯠꯚꯤꯌꯥꯟ         |
-| Lezghian ► lez              | Lezghian              | ꯂꯦꯓꯘꯤꯌꯥꯟ         |
-| Limburgish ► li             | Limburgish            | ꯂꯤꯝꯕꯔꯘꯤꯁ         |
-| Lingala ► ln                | Lingala               | ꯂꯤꯡꯒꯥꯂꯥ          |
-| Lithuanian ► lt             | Lithuanian            | ꯂꯤꯊꯨꯑꯥꯅꯤꯌꯥꯟ      |
-| Lojban ► jbo                | Lojban                | ꯂꯣꯖꯕꯥꯟ           |
-| Lower Sorbian ► dsb         | Lower Sorbian         | ꯃꯈꯥꯊꯥꯡꯕ ꯁꯣꯔꯕꯤꯌꯥꯟ |
-| Lozi ► loz                  | Lozi                  | ꯂꯣꯖꯤ             |
-| Luba-Katanga ► lu           | Luba-Katanga          | ꯂꯨꯕꯥ-ꯀꯇꯥꯡꯒꯥ      |
-| Luba-Lulua ► lua            | Luba-Lulua            | ꯂꯨꯕꯥ-ꯂꯨꯂꯨꯑꯥ      |
-| Lule Sami ► smj             | Lule Sami             | ꯂꯨꯂꯦ ꯁꯥꯃꯤ        |
-| Lunda ► lun                 | Lunda                 | ꯂꯨꯟꯗꯥ            |
-| Luo ► luo                   | Luo                   | ꯂꯨꯥꯑꯣ            |
-| Luxembourgish ► lb          | Luxembourgish         | ꯂꯀꯖꯝꯕꯔꯒꯤꯁ        |
-| Luyia ► luy                 | Luyia                 | ꯂ꯭ꯌꯨꯌꯤꯑꯥ         |
-| ***M***                     |                       |                  |
-| Macedonian ► mk             | Macedonian            |                  |
-| Machame ► jmc               | Machame               |                  |
-| Madurese ► mad              | Madurese              |                  |
-| Magahi ► mag                | Magahi                |                  |
-| Maithili ► mai              | Maithili              |                  |
-| Makasar ► mak               | Makasar               |                  |
-| Makhuwa-Meetto ► mgh        | Makhuwa-Meetto        |                  |
-| Makonde ► kde               | Makonde               |                  |
-| Malagasy ► mg               | Malagasy              |                  |
-| Malay ► ms                  | Malay                 |                  |
-| Malayalam ► ml              | Malayalam             |                  |
-| Maltese ► mt                | Maltese               |                  |
-| Manipuri ► mni              | Manipuri              |                  |
-| Manx ► gv                   | Manx                  |                  |
-| Maori ► mi                  | Maori                 |                  |
-| Mapuche ► arn               | Mapuche               |                  |
-| Marathi ► mr                | Marathi               |                  |
-| Mari ► chm                  | Mari                  |                  |
-| Marshallese ► mh            | Marshallese           |                  |
-| Masai ► mas                 | Masai                 |                  |
-| Mazanderani ► mzn           | Mazanderani           |                  |
-| Mende ► men                 | Mende                 |                  |
-| Meru ► mer                  | Meru                  |                  |
-| Metaʼ ► mgo                 | Metaʼ                 |                  |
-| Mi'kmaq ► mic               | Mi'kmaq               |                  |
-| Minangkabau ► min           | Minangkabau           |                  |
-| Mirandese ► mwl             | Mirandese             |                  |
-| Mizo ► lus                  | Mizo                  |                  |
-| Mohawk ► moh                | Mohawk                |                  |
-| Moksha ► mdf                | Moksha                |                  |
-| Mongolian ► mn              | Mongolian             |                  |
-| Morisyen ► mfe              | Morisyen              |                  |
-| Mossi ► mos                 | Mossi                 |                  |
-| Multiple languages ► mul    | Multiple languages    |                  |
-| Mundang ► mua               | Mundang               |                  |
-| ***N***                     |                       |                  |
-| N’Ko ► nqo                  | N’Ko                  |                  |
-| Najdi Arabic ► ars          | Najdi Arabic          |                  |
-| Nama ► naq                  | Nama                  |                  |
-| Nauru ► na                  | Nauru                 |                  |
-| Navajo ► nv                 | Navajo                |                  |
-| Ndonga ► ng                 | Ndonga                |                  |
-| Neapolitan ► nap            | Neapolitan            |                  |
-| Nepali ► ne                 | Nepali                |                  |
-| Newari ► new                | Newari                |                  |
-| Ngambay ► sba               | Ngambay               |                  |
-| Ngiemboon ► nnh             | Ngiemboon             |                  |
-| Ngomba ► jgo                | Ngomba                |                  |
-| Nias ► nia                  | Nias                  |                  |
-| Nigerian Pidgin ► pcm       | Nigerian Pidgin       |                  |
-| Niuean ► niu                | Niuean                |                  |
-| No linguistic content ► zxx | No linguistic content |                  |
-| Nogai ► nog                 | Nogai                 |                  |
-| North Ndebele ► nd          | North Ndebele         |                  |
-| Northern Luri ► lrc         | Northern Luri         |                  |
-| Northern Sami ► se          | Northern Sami         |                  |
-| Northern Sotho ► nso        | Northern Sotho        |                  |
-| Norwegian Bokmål ► nb       | Norwegian Bokmål      |                  |
-| Norwegian Nynorsk ► nn      | Norwegian Nynorsk     |                  |
-| Nuer ► nus                  | Nuer                  |                  |
-| Nyanja ► ny                 | Nyanja                |                  |
-| Nyankole ► nyn              | Nyankole              |                  |
+| Code                        | English               | Value                |
+| --------------------------- | --------------------- | -------------------- |
+| Kabardian ► kbd             | Kabardian             | ꯀꯕꯔꯗꯤꯌꯥꯟ             |
+| Kabuverdianu ► kea          | Kabuverdianu          | ꯀꯕꯨꯚꯦꯔꯗꯤꯌꯥꯅꯨ         |
+| Kabyle ► kab                | Kabyle                | ꯀꯕꯥꯢꯜ                |
+| Kachin ► kac                | Kachin                | ꯀꯆꯤꯟ                 |
+| Kako ► kkj                  | Kako                  | ꯀꯥꯀꯣ                 |
+| Kalaallisut ► kl            | Kalaallisut           | ꯀꯂꯥꯜꯂꯤꯁꯨꯠ            |
+| Kalenjin ► kln              | Kalenjin              | ꯀꯂꯦꯟꯖꯤꯟ              |
+| Kalmyk ► xal                | Kalmyk                | ꯀꯥꯜꯃꯤꯛ               |
+| Kamba ► kam                 | Kamba                 | ꯀꯝꯕꯥ                 |
+| Kannada ► kn                | Kannada               | ꯀꯟꯅꯗ                 |
+| Kanuri ► kr                 | Kanuri                | ꯀꯥꯅꯨꯔꯤ               |
+| Karachay-Balkar ► krc       | Karachay-Balkar       | ꯀꯔꯥꯆꯢ-ꯕꯥꯜꯀꯥꯔ         |
+| Karelian ► krl              | Karelian              | ꯀꯔꯦꯂꯤꯌꯥꯟ             |
+| Kashmiri ► ks               | Kashmiri              | ꯀꯁꯃꯤꯔꯤ               |
+| Kazakh ► kk                 | Kazakh                | ꯀꯖꯥꯈ                 |
+| Khasi ► kha                 | Khasi                 | ꯈꯥꯁꯤ                 |
+| Khmer ► km                  | Khmer                 | ꯈ꯭ꯃꯦꯔ                |
+| Kikuyu ► ki                 | Kikuyu                | ꯀꯤꯀꯨꯌꯨ               |
+| Kimbundu ► kmb              | Kimbundu              | ꯀꯤꯝꯕꯟꯗꯨ              |
+| Kinyarwanda ► rw            | Kinyarwanda           | ꯀꯤꯟꯌꯥꯔꯋꯥꯟꯗꯥ          |
+| Klingon ► tlh               | Klingon               | ꯀ꯭ꯂꯤꯡꯒꯣꯟ             |
+| Komi ► kv                   | Komi                  | ꯀꯣꯃꯤ                 |
+| Konkani ► kok               | Konkani               | ꯀꯣꯟꯀꯥꯅꯤ              |
+| Korean ► ko                 | Korean                | ꯀꯣꯔꯤꯌꯥꯟ              |
+| Koro ► kfo                  | Koro                  | ꯀꯣꯔꯣ                 |
+| Koyra Chiini ► khq          | Koyra Chiini          | ꯀꯣꯢꯔꯥ ꯆꯤꯅꯤ           |
+| Koyraboro Senni ► ses       | Koyraboro Senni       | ꯀꯣꯢꯔꯥꯕꯣꯔꯣ ꯁꯦꯟꯅꯤ      |
+| Kpelle ► kpe                | Kpelle                | ꯀ꯭ꯄꯦꯜ                |
+| Kuanyama ► kj               | Kuanyama              | ꯀ꯭ꯋꯥꯟꯌꯥꯃꯥ            |
+| Kumyk ► kum                 | Kumyk                 | ꯀꯨꯃꯤꯛ                |
+| Kurdish ► ku                | Kurdish               | ꯀꯨꯔꯗꯤꯁ               |
+| Kurukh ► kru                | Kurukh                | ꯀꯨꯔꯨꯈ                |
+| Kwasio ► nmg                | Kwasio                | ꯀ꯭ꯋꯥꯁꯤꯑꯣ             |
+| Kyrgyz ► ky                 | Kyrgyz                | ꯀꯤꯔꯒꯤꯖ               |
+| Kʼicheʼ ► quc               | Kʼicheʼ               | ꯀꯤꯆꯢ                 |
+| ***L***                     |                       |                      |
+| Ladino ► lad                | Ladino                | ꯂꯥꯗꯤꯅꯣ               |
+| Lakota ► lkt                | Lakota                | ꯂꯥꯀꯣꯇꯥ               |
+| Langi ► lag                 | Langi                 | ꯂꯥꯡꯒꯤ                |
+| Lao ► lo                    | Lao                   | ꯂꯥꯑꯣ                 |
+| Latin ► la                  | Latin                 | ꯂꯦꯇꯤꯟ                |
+| Latvian ► lv                | Latvian               | ꯂꯥꯠꯚꯤꯌꯥꯟ             |
+| Lezghian ► lez              | Lezghian              | ꯂꯦꯓꯘꯤꯌꯥꯟ             |
+| Limburgish ► li             | Limburgish            | ꯂꯤꯝꯕꯔꯘꯤꯁ             |
+| Lingala ► ln                | Lingala               | ꯂꯤꯡꯒꯥꯂꯥ              |
+| Lithuanian ► lt             | Lithuanian            | ꯂꯤꯊꯨꯑꯥꯅꯤꯌꯥꯟ          |
+| Lojban ► jbo                | Lojban                | ꯂꯣꯖꯕꯥꯟ               |
+| Lower Sorbian ► dsb         | Lower Sorbian         | ꯃꯈꯥꯊꯥꯡꯕ ꯁꯣꯔꯕꯤꯌꯥꯟ     |
+| Lozi ► loz                  | Lozi                  | ꯂꯣꯖꯤ                 |
+| Luba-Katanga ► lu           | Luba-Katanga          | ꯂꯨꯕꯥ-ꯀꯇꯥꯡꯒꯥ          |
+| Luba-Lulua ► lua            | Luba-Lulua            | ꯂꯨꯕꯥ-ꯂꯨꯂꯨꯑꯥ          |
+| Lule Sami ► smj             | Lule Sami             | ꯂꯨꯂꯦ ꯁꯥꯃꯤ            |
+| Lunda ► lun                 | Lunda                 | ꯂꯨꯟꯗꯥ                |
+| Luo ► luo                   | Luo                   | ꯂꯨꯥꯑꯣ                |
+| Luxembourgish ► lb          | Luxembourgish         | ꯂꯛꯖꯝꯕꯔꯒꯤꯁ            |
+| Luyia ► luy                 | Luyia                 | ꯂ꯭ꯌꯨꯌꯤꯑꯥ             |
+| ***M***                     |                       |                      |
+| Macedonian ► mk             | Macedonian            | ꯃꯛꯗꯣꯅꯤꯌꯥꯟ            |
+| Machame ► jmc               | Machame               | ꯃꯦꯛꯍꯦꯃꯦ              |
+| Madurese ► mad              | Madurese              | ꯃꯥꯗꯨꯔꯤꯁ              |
+| Magahi ► mag                | Magahi                | ꯃꯒꯥꯍꯤ                |
+| Maithili ► mai              | Maithili              | ꯃꯩꯊꯤꯂꯤ               |
+| Makasar ► mak               | Makasar               | ꯃꯀꯥꯁꯔ                |
+| Makhuwa-Meetto ► mgh        | Makhuwa-Meetto        | ꯃꯈꯨꯋꯥ-ꯃꯤꯠꯇꯣ          |
+| Makonde ► kde               | Makonde               | ꯃꯦꯀꯣꯟꯗꯦ              |
+| Malagasy ► mg               | Malagasy              | ꯃꯥꯂꯥꯒꯥꯁꯤ             |
+| Malay ► ms                  | Malay                 | ꯃꯂꯢ                  |
+| Malayalam ► ml              | Malayalam             | ꯃꯂꯌꯥꯂꯝ               |
+| Maltese ► mt                | Maltese               | ꯃꯥꯜꯇꯤꯁ               |
+| Manipuri ► mni              | Manipuri              | ꯃꯅꯤꯄꯨꯔꯤ              |
+| Manx ► gv                   | Manx                  | ꯃꯦꯅ꯭ꯀꯁ               |
+| Maori ► mi                  | Maori                 | ꯃꯥꯥꯑꯣꯔꯤ              |
+| Mapuche ► arn               | Mapuche               | ꯃꯥꯄꯨꯆꯦ               |
+| Marathi ► mr                | Marathi               | ꯃꯔꯥꯊꯤ                |
+| Mari ► chm                  | Mari                  | ꯃꯥꯔꯤ                 |
+| Marshallese ► mh            | Marshallese           | ꯃꯥꯔꯁꯦꯜꯂꯤꯖ            |
+| Masai ► mas                 | Masai                 | ꯃꯥꯁꯥꯢ                |
+| Mazanderani ► mzn           | Mazanderani           | ꯃꯥꯖꯥꯟꯗꯦꯔꯥꯅꯤ          |
+| Mende ► men                 | Mende                 | ꯃꯦꯟꯗꯦ                |
+| Meru ► mer                  | Meru                  | ꯃꯦꯔꯨ                 |
+| Metaʼ ► mgo                 | Metaʼ                 | ꯃꯦꯇꯥ                 |
+| Mi'kmaq ► mic               | Mi'kmaq               | ꯃꯤꯛꯃꯦꯛ               |
+| Minangkabau ► min           | Minangkabau           | ꯃꯤꯅꯥꯡꯀꯥꯕꯑꯣ           |
+| Mirandese ► mwl             | Mirandese             | ꯃꯤꯔꯥꯟꯗꯤꯁ             |
+| Mizo ► lus                  | Mizo                  | ꯃꯣꯍꯣꯛ                |
+| Mohawk ► moh                | Mohawk                | ꯃꯣꯛꯁꯥ                |
+| Moksha ► mdf                | Moksha                | ꯃꯣꯛꯁꯥ                |
+| Mongolian ► mn              | Mongolian             | ꯃꯣꯡꯒꯣꯂꯤꯌꯥꯟ           |
+| Morisyen ► mfe              | Morisyen              | ꯃꯣꯔꯤꯁ꯭ꯌꯦꯟ            |
+| Mossi ► mos                 | Mossi                 | ꯃꯣꯁꯤ                 |
+| Multiple languages ► mul    | Multiple languages    | ꯂꯣꯟ ꯃꯌꯥꯝ             |
+| Mundang ► mua               | Mundang               | ꯃꯨꯟꯗꯥꯡ               |
+| ***N***                     |                       |                      |
+| N’Ko ► nqo                  | N’Ko                  | ꯏꯟꯀꯣ                 |
+| Najdi Arabic ► ars          | Najdi Arabic          | ꯅꯥꯖꯗꯤ  ꯑꯔꯥꯕꯤꯛ        |
+| Nama ► naq                  | Nama                  | ꯅꯥꯃꯥ                 |
+| Nauru ► na                  | Nauru                 | ꯅꯥꯎꯔꯨ                |
+| Navajo ► nv                 | Navajo                | ꯅꯥꯚꯥꯖꯣ               |
+| Ndonga ► ng                 | Ndonga                | ꯗꯣꯟꯒꯥ                |
+| Neapolitan ► nap            | Neapolitan            | ꯅꯤꯄꯣꯂꯤꯇꯥꯟ            |
+| Nepali ► ne                 | Nepali                | ꯅꯦꯄꯥꯂꯤ               |
+| Newari ► new                | Newari                | ꯅꯦꯋꯥꯔꯤ               |
+| Ngambay ► sba               | Ngambay               | ꯉꯥꯝꯕꯦ                |
+| Ngiemboon ► nnh             | Ngiemboon             | ꯉꯤꯏꯝꯕꯨꯟ              |
+| Ngomba ► jgo                | Ngomba                | ꯉꯣꯝꯕꯥ                |
+| Nias ► nia                  | Nias                  | ꯅꯤꯌꯥꯁ                |
+| Nigerian Pidgin ► pcm       | Nigerian Pidgin       | ꯅꯥꯢꯖꯦꯔꯤꯌꯥꯟ ꯄꯤꯗꯖꯤꯟ    |
+| Niuean ► niu                | Niuean                | ꯅꯤꯌꯨꯑꯥꯟ              |
+| No linguistic content ► zxx | No linguistic content | ꯂꯣꯟꯒꯤ ꯃꯆꯥꯡ ꯌꯥꯑꯣꯗꯦ    |
+| Nogai ► nog                 | Nogai                 | ꯅꯣꯒꯥꯢ                |
+| North Ndebele ► nd          | North Ndebele         | ꯑꯋꯥꯡꯒꯤ ꯗꯦꯕꯦꯜ         |
+| Northern Luri ► lrc         | Northern Luri         | ꯑꯋꯥꯡꯒꯤ ꯂꯨꯔꯤ          |
+| Northern Sami ► se          | Northern Sami         | ꯑꯋꯥꯡꯒꯤ ꯁꯥꯃꯤ          |
+| Northern Sotho ► nso        | Northern Sotho        | ꯑꯋꯥꯡꯒꯤ ꯁꯣꯊꯣ          |
+| Norwegian Bokmål ► nb       | Norwegian Bokmål      | ꯅꯣꯔꯋꯦꯖꯤꯌꯥꯟ ꯕꯣꯛꯃꯥꯜ    |
+| Norwegian Nynorsk ► nn      | Norwegian Nynorsk     | ꯅꯣꯔꯋꯦꯖꯤꯌꯥꯟ ꯅꯥꯢꯅꯣꯔꯁ꯭ꯀ |
+| Nuer ► nus                  | Nuer                  | ꯅꯨꯌꯔ                 |
+| Nyanja ► ny                 | Nyanja                | ꯅ꯭ꯌꯥꯟꯖꯥ              |
+| Nyankole ► nyn              | Nyankole              | ꯅ꯭ꯌꯥꯟꯀꯣꯜ             |
+
+## Languages (O-S)
+
+| Code                              | English                     | Value                      |
+| --------------------------------- | --------------------------- | -------------------------- |
+| ***O***                           |                             |                            |
+| Occitan ► oc                      | Occitan                     | ꯑꯣꯛꯁꯤꯇꯥꯟ                   |
+| Odia ► or                         | Odia                        | ꯑꯣꯗꯤꯌꯥ                     |
+| Oromo ► om                        | Oromo                       | ꯑꯣꯔꯣꯃꯣ                     |
+| Ossetic ► os                      | Ossetic                     | ꯑꯣꯁ꯭ꯁꯦꯇꯤꯛ                  |
+| ***P***                           |                             |                            |
+| Palauan ► pau                     | Palauan                     | ꯄꯂꯥꯑꯣꯑꯟ                    |
+| Pampanga ► pam                    | Pampanga                    | ꯄꯥꯝꯄꯥꯟꯒꯥ                   |
+| Pangasinan ► pag                  | Pangasinan                  | ꯄꯡꯒꯥꯁꯤꯅꯥꯟ                  |
+| Papiamento ► pap                  | Papiamento                  | ꯄꯥꯄꯤꯌꯥꯃꯦꯟꯇꯣ                |
+| Pashto ► ps                       | Pashto                      | ꯄꯥꯁꯇꯣ                      |
+| Pashto ► ps-variant               | Pushto                      | ꯄꯨꯁꯇꯣ                      |
+| Persian ► fa                      | Persian                     | ꯄꯔꯁꯤꯌꯥꯟ                    |
+| Polish ► pl                       | Polish                      | ꯄꯣꯂꯤꯁ                      |
+| Portuguese ► pt                   | Portuguese                  | ꯄꯣꯔꯇꯨꯒꯤꯁ                   |
+| Portuguese ► pt_BR                | Brazilian Portuguese        | ꯕ꯭ꯔꯥꯖꯤꯂꯤꯌꯥꯟ ꯄꯣꯔꯇꯨꯒꯤꯁ       |
+| Portuguese ► pt_PT                | European Portuguese         | ꯌꯨꯔꯣꯄꯤꯌꯥꯟ ꯄꯣꯔꯇꯨꯒꯤꯁ         |
+| Prussian ► prg                    | Prussian                    | ꯄ꯭ꯔꯨꯁꯤꯌꯥꯟ                  |
+| Punjabi ► pa                      | Punjabi                     | ꯄꯟꯖꯥꯕꯤ                     |
+| ***Q***                           |                             |                            |
+| Quechua ► qu                      | Quechua                     | ꯀ꯭ꯋꯦꯆꯨꯋꯥ                   |
+| ***R***                           |                             |                            |
+| Rapanui ► rap                     | Rapanui                     | ꯔꯥꯄꯥꯅꯨꯢ                    |
+| Rarotongan ► rar                  | Rarotongan                  | ꯔꯥꯔꯣꯇꯣꯡꯒꯟ                  |
+| Romanian ► ro                     | Romanian                    | ꯔꯣꯃꯥꯅꯤꯌꯥꯟ                  |
+| Romanian ► ro_MD                  | Moldavian                   | ꯃꯣꯜꯗꯥꯚꯤꯌꯥꯟ                 |
+| Romansh ► rm                      | Romansh                     | ꯔꯣꯃꯥꯟꯁ                     |
+| Rombo ► rof                       | Rombo                       | ꯔꯣꯝꯕꯣ                      |
+| Root ► root                       | Root                        | ꯔꯨꯠ                        |
+| Rundi ► rn                        | Rundi                       | ꯔꯨꯟꯗꯤ                      |
+| Russian ► ru                      | Russian                     | ꯔꯁꯤꯌꯥꯟ                     |
+| Rwa ► rwk                         | Rwa                         | ꯔ꯭ꯋꯥ                       |
+| ***S***                           |                             |                            |
+| Saho ► ssy                        | Saho                        | ꯁꯥꯍꯣ                       |
+| Sakha ► sah                       | Sakha                       | ꯁꯥꯈꯥ                       |
+| Samburu ► saq                     | Samburu                     | ꯁꯥꯝꯕꯨꯔꯨ                    |
+| Samoan ► sm                       | Samoan                      | ꯁꯥꯃꯣꯑꯟ                     |
+| Sandawe ► sad                     | Sandawe                     | ꯁꯥꯟꯗꯥꯋꯦ                    |
+| Sango ► sg                        | Sango                       | ꯁꯥꯡꯒꯣ                      |
+| Sangu ► sbp                       | Sangu                       | ꯁꯥꯡꯒꯨ                      |
+| Sanskrit ► sa                     | Sanskrit                    | ꯁꯟꯁꯀ꯭ꯔꯤꯠ                   |
+| Santali ► sat                     | Santali                     | ꯁꯥꯟꯇꯥꯂꯤ                    |
+| Sardinian ► sc                    | Sardinian                   | ꯁꯥꯔꯗꯤꯅꯤꯌꯥꯟ                 |
+| Scots ► sco                       | Scots                       | ꯁ꯭ꯀꯣꯠꯁ                     |
+| Scottish Gaelic ► gd              | Scottish Gaelic             | ꯁ꯭ꯀꯣꯠꯇꯤꯁ ꯒꯦꯂꯤꯛ             |
+| Sena ► seh                        | Sena                        | ꯁꯦꯅꯥ                       |
+| Serbian ► sr                      | Serbian                     | ꯁꯔꯕꯤꯌꯥꯟ                    |
+| Seselwa Creole French ► crs       | Seselwa Creole French       | ꯁꯦꯁꯦꯜꯋꯥ ꯀ꯭ꯔꯤꯑꯣꯜ ꯐ꯭ꯔꯦꯟꯆ     |
+| Shambala ► ksb                    | Shambala                    | ꯁꯝꯕꯥꯂꯥ                     |
+| Shan ► shn                        | Shan                        | ꯁꯥꯟ                        |
+| Shona ► sn                        | Shona                       | ꯁꯣꯅꯥ                       |
+| Sichuan Yi ► ii                   | Sichuan Yi                  | ꯁꯤꯆꯨꯑꯟ ꯌꯤ                  |
+| Sicilian ► scn                    | Sicilian                    | ꯁꯤꯁꯤꯂꯤꯌꯥꯟ                  |
+| Siksika ► bla                     | Siksika                     | ꯁꯤꯛꯁꯤꯀꯥ                    |
+| Sindhi ► sd                       | Sindhi                      | ꯁꯤꯟꯙꯤ                      |
+| Sinhala ► si                      | Sinhala                     | ꯁꯤꯟꯍꯥꯂꯥ                    |
+| Skolt Sami ► sms                  | Skolt Sami                  | ꯁ꯭ꯀꯣꯂ꯭ꯇ ꯁꯥꯃꯤ               |
+| Slovak ► sk                       | Slovak                      | ꯁ꯭ꯂꯣꯚꯥꯛ                    |
+| Slovenian ► sl                    | Slovenian                   | ꯁ꯭ꯂꯣꯚꯦꯅꯤꯌꯥꯟ                |
+| Soga ► xog                        | Soga                        | ꯁꯣꯒꯥ                       |
+| Somali ► so                       | Somali                      | ꯁꯣꯃꯥꯂꯤ                     |
+| Soninke ► snk                     | Soninke                     | ꯁꯣꯅꯤꯟꯀꯦ                    |
+| South Ndebele ► nr                | South Ndebele               | ꯈꯥ ꯗꯦꯕꯦꯂꯦ                  |
+| Southern Altai ► alt              | Southern Altai              | ꯈꯥꯊꯡꯕ ꯑꯜꯇꯥꯢ                |
+| Southern Sami ► sma               | Southern Sami               | ꯈꯥꯊꯡꯕ ꯁꯥꯃꯤ                 |
+| Southern Sotho ► st               | Southern Sotho              | ꯈꯥꯊꯡꯕ ꯁꯣꯊꯣ                 |
+| Spanish ► es                      | Spanish                     | ꯁ꯭ꯄꯦꯅꯤꯁ                    |
+| Spanish ► es_419                  | Latin American Spanish      | ꯂꯦꯇꯤꯟ ꯑꯃꯦꯔꯤꯀꯥꯒꯤ ꯁ꯭ꯄꯦꯅꯤꯁ    |
+| Spanish ► es_ES                   | European Spanish            | ꯌꯨꯔꯣꯞꯀꯤ ꯁ꯭ꯄꯦꯅꯤꯁ            |
+| Spanish ► es_MX                   | Mexican Spanish             | ꯃꯦꯀ꯭ꯁꯤꯀꯥꯟ ꯁ꯭ꯄꯦꯅꯤꯁ          |
+| Sranan Tongo ► srn                | Sranan Tongo                | ꯁ꯭ꯔꯥꯅꯥꯟ ꯇꯣꯡꯒꯣ              |
+| Standard Moroccan Tamazight ► zgh | Standard Moroccan Tamazight | ꯁ꯭ꯇꯦꯟꯗꯔ꯭ꯗ ꯃꯣꯔꯣꯛꯀꯥꯟ ꯇꯥꯃꯥꯖꯤꯘ |
+| Sukuma ► suk                      | Sukuma                      | ꯁꯨꯀꯨꯃꯥ                     |
+| Sundanese ► su                    | Sundanese                   | ꯁꯨꯟꯗꯥꯅꯤꯁ                   |
+| Swahili ► sw                      | Swahili                     | ꯁ꯭ꯋꯥꯍꯤꯂꯤ                   |
+| Swahili ► sw_CD                   | Congo Swahili               | ꯀꯣꯡꯒꯣ ꯁ꯭ꯋꯥꯍꯤꯂꯤ             |
+| Swati ► ss                        | Swati                       | ꯁ꯭ꯋꯥꯇꯤ                     |
+| Swedish ► sv                      | Swedish                     | ꯁ꯭ꯋꯦꯗꯤꯁ                    |
+| Swiss German ► gsw                | Swiss German                | ꯁ꯭ꯋꯤꯁ ꯖꯔꯃꯟ                 |
+| Syriac ► syr                      | Syriac                      | ꯁꯤꯔꯤꯌꯛ                     |
+
+## Languages (T-Z)
+
+| Code                   | English          | Value            |
+| ---------------------- | ---------------- | ---------------- |
+| ***T***                |                  |                  |
+| Tachelhit ► shi        | Tachelhit        | ꯇꯥꯆꯦꯜꯍꯤꯠ         |
+| Tahitian ► ty          | Tahitian         | ꯇꯥꯍꯤꯇꯤꯌꯥꯟ        |
+| Taita ► dav            | Taita            | ꯇꯥꯢꯇꯥ            |
+| Tajik ► tg             | Tajik            | ꯇꯥꯖꯤꯛ            |
+| Tamil ► ta             | Tamil            | ꯇꯥꯃꯤꯜ            |
+| Taroko ► trv           | Taroko           | ꯇꯥꯔꯣꯀꯣ           |
+| Tasawaq ► twq          | Tasawaq          | ꯇꯥꯁꯥꯋꯥꯛ          |
+| Tatar ► tt             | Tatar            | ꯇꯥꯇꯥꯔ            |
+| Telugu ► te            | Telugu           | ꯇꯦꯂꯨꯒꯨ           |
+| Teso ► teo             | Teso             | ꯇꯦꯁꯣ             |
+| Tetum ► tet            | Tetum            | ꯇꯦꯇꯨꯝ            |
+| Thai ► th              | Thai             | ꯊꯥꯢ              |
+| Tibetan ► bo           | Tibetan          | ꯇꯤꯕꯦꯇꯥꯟ          |
+| Tigre ► tig            | Tigre            | ꯇꯥꯢꯒ꯭ꯔꯦ          |
+| Tigrinya ► ti          | Tigrinya         | ꯇꯤꯒ꯭ꯔꯤꯟꯌꯥ        |
+| Timne ► tem            | Timne            | ꯇꯤꯝꯅꯦ            |
+| Tok Pisin ► tpi        | Tok Pisin        | ꯇꯣꯛ ꯄꯤꯁꯤꯟ        |
+| Tongan ► to            | Tongan           | ꯇꯣꯡꯒꯟ            |
+| Tsonga ► ts            | Tsonga           | ꯁꯣꯡꯒꯥ            |
+| Tswana ► tn            | Tswana           | ꯁ꯭ꯋꯥꯅꯥ           |
+| Tumbuka ► tum          | Tumbuka          | ꯇꯝꯕꯨꯀꯥ           |
+| Turkish ► tr           | Turkish          | ꯇꯔꯀꯤꯁ            |
+| Turkmen ► tk           | Turkmen          | ꯇꯔ꯭ꯀꯃꯦꯟ          |
+| Tuvalu ► tvl           | Tuvalu           | ꯇꯨꯚꯥꯂꯨ           |
+| Tuvinian ► tyv         | Tuvinian         | ꯇꯨꯚꯤꯅꯤꯌꯥꯟ        |
+| Tyap ► kcg             | Tyap             | ꯇ꯭ꯌꯥꯞ            |
+| ***U***                |                  |                  |
+| Udmurt ► udm           | Udmurt           | ꯎꯗꯃꯨꯔ꯭ꯇ          |
+| Ukrainian ► uk         | Ukrainian        | ꯌꯨꯀ꯭ꯔꯦꯅꯤꯌꯥꯟ      |
+| Umbundu ► umb          | Umbundu          | ꯎꯝꯕꯨꯟꯗꯨ          |
+| Unknown language ► und | Unknown language | ꯈꯡꯗꯕ ꯂꯣꯟ         |
+| Upper Sorbian ► hsb    | Upper Sorbian    | ꯃꯊꯛꯊꯡꯕ ꯁꯣꯔꯕꯤꯌꯥꯟ  |
+| Urdu ► ur              | Urdu             | ꯎꯔꯗꯨ             |
+| Uyghur ► ug            | Uyghur           | ꯎꯢꯘꯨꯔ            |
+| Uzbek ► uz             | Uzbek            | ꯎꯖꯕꯦꯛ            |
+| ***V***                |                  |                  |
+| Vai ► vai              | Vai              | ꯚꯥꯢ              |
+| Venda ► ve             | Venda            | ꯚꯦꯟꯗꯥ            |
+| Vietnamese ► vi        | Vietnamese       | ꯚꯤꯌꯠꯅꯥꯃꯤꯁ        |
+| Volapük ► vo           | Volapük          | ꯚꯣꯂꯥꯄꯨꯛ          |
+| Vunjo ► vun            | Vunjo            | ꯚꯨꯟꯖꯣ            |
+| ***W***                |                  |                  |
+| Walloon ► wa           | Walloon          | ꯋꯥꯜꯂꯨꯟ           |
+| Walser ► wae           | Walser           | ꯋꯥꯜꯁꯔ            |
+| Waray ► war            | Waray            | ꯋꯥꯔꯥꯢ            |
+| Welsh ► cy             | Welsh            | ꯋꯦꯜꯁ             |
+| Western Frisian ► fy   | Western Frisian  | ꯅꯣꯡꯆꯨꯞ ꯐ꯭ꯔꯤꯁꯤꯌꯥꯟ |
+| Wolaytta ► wal         | Wolaytta         | ꯋꯣꯂꯦꯠꯇꯥ          |
+| Wolof ► wo             | Wolof            | ꯋꯣꯂꯣꯐ            |
+| ***X***                |                  |                  |
+| Xhosa ► xh             | Xhosa            | ꯈꯣꯁꯥ             |
+| ***Y***                |                  |                  |
+| Yangben ► yav          | Yangben          | ꯌꯥꯡꯕꯦꯟ           |
+| Yemba ► ybb            | Yemba            | ꯌꯦꯝꯕꯥ            |
+| Yiddish ► yi           | Yiddish          | ꯌꯤꯗ꯭ꯗꯤꯁ          |
+| Yoruba ► yo            | Yoruba           | ꯌꯣꯔꯨꯕꯥ           |
+| ***Z***                |                  |                  |
+| Zarma ► dje            | Zarma            | ꯖꯥꯔꯃꯥ            |
+| Zaza ► zza             | Zaza             | ꯖꯥꯖꯥ             |
+| Zulu ► zu              | Zulu             | ꯖꯨꯂꯨ             |
+| Zuni ► zun             | Zuni             | ꯖꯨꯅꯤ             |
 
