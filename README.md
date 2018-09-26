@@ -478,3 +478,58 @@
 | Zulu ► zu              | Zulu             | ꯖꯨꯂꯨ             |
 | Zuni ► zun             | Zuni             | ꯖꯨꯅꯤ             |
 
+## Scripts
+
+| Code             | English               | Value                 |
+| ---------------- | --------------------- | --------------------- |
+| ***Major Use***  |                       |                       |
+| Arab             | Arabic                | ꯑꯔꯥꯕꯤꯛ                |
+| Arab-variant     | Perso-Arabic          | ꯄꯔꯁꯣ-ꯑꯔꯥꯕꯤꯛ           |
+| Armn             | Armenian              | ꯑꯔꯃꯦꯅꯤꯌꯥꯟ             |
+| Beng             | Bangla                | ꯕꯡꯒ꯭ꯂꯥ                |
+| Bopo             | Bopomofo              | ꯕꯣꯄꯣꯃꯣꯐꯣ              |
+| Cyrl             | Cyrillic              | ꯁꯤꯔꯤꯜꯂꯤꯛ              |
+| Deva             | Devanagari            | ꯗꯦꯚꯅꯥꯒꯔꯤ              |
+| Ethi             | Ethiopic              | ꯏꯊꯤꯌꯣꯄꯤꯛ              |
+| Geor             | Georgian              | ꯖꯣꯔꯖꯤꯌꯥꯟ              |
+| Grek             | Greek                 | ꯒ꯭ꯔꯤꯛ                 |
+| Gujr             | Gujarati              | ꯒꯨꯖꯔꯥꯇꯤ               |
+| Guru             | Gurmukhi              | ꯒꯨꯔꯃꯨꯈꯤ               |
+| Hanb             | Han with Bopomofo     | ꯍꯥꯟ ꯕꯣꯄꯣꯃꯣꯐꯣ          |
+| Hang             | Hangul                | ꯍꯡꯒꯨꯜ                 |
+| Hani             | Han                   | ꯍꯥꯟ                   |
+| Hans             | Simplified            | ꯑꯆꯝꯕ                  |
+| Hans-stand-alone | Simplified Han        | ꯑꯆꯝꯕ ꯍꯥꯟ              |
+| Hant             | Traditional           | ꯆꯠꯅꯕꯤ                 |
+| Hant-stand-alone | Traditional Han       | ꯆꯠꯅꯕꯤ ꯍꯥꯟ             |
+| Hebr             | Hebrew                | ꯍꯦꯕ꯭ꯔꯤꯎ               |
+| Hira             | Hiragana              | ꯍꯤꯔꯥꯒꯥꯅꯥ              |
+| Jamo             | Jamo                  | ꯖꯥꯃꯣ                  |
+| Jpan             | Japanese              | ꯖꯄꯥꯅꯤꯁ                |
+| Kana             | Katakana              | ꯀꯥꯇꯥꯀꯥꯅꯥ              |
+| Khmr             | Khmer                 | ꯈ꯭ꯃꯦꯔ                 |
+| Knda             | Kannada               | ꯀꯟꯅꯗ                  |
+| Kore             | Korean                | ꯀꯣꯔꯤꯌꯥꯟ               |
+| Laoo             | Lao                   | ꯂꯥꯑꯣ                  |
+| Latn             | Latin                 | ꯂꯦꯇꯤꯟ                 |
+| Mlym             | Malayalam             | ꯃꯂꯌꯥꯂꯝ                |
+| Mymr             | Myanmar               | ꯃ꯭ꯌꯥꯟꯃꯥꯔ              |
+| Orya             | Odia                  | ꯑꯣꯔꯤꯌꯥ                |
+| Sinh             | Sinhala               | ꯁꯤꯟꯍꯥꯂꯥ               |
+| Taml             | Tamil                 | ꯇꯥꯃꯤꯜ                 |
+| Telu             | Telugu                | ꯇꯦꯂꯨꯒꯨ                |
+| Thaa             | Thaana                | ꯊꯥꯅꯥ                  |
+| Thai             | Thai                  | ꯊꯥꯢ                   |
+| Tibt             | Tibetan               | ꯇꯤꯕꯦꯇꯤꯌꯥꯟ             |
+| Zyyy             | Common                | ꯇꯣꯢꯅ ꯐꯡꯕ              |
+| ***Historic***   |                       |                       |
+| Mong             | Mongolian             | ꯃꯣꯡꯒꯣꯂꯤꯌꯥꯟ            |
+| ***Other***      |                       |                       |
+| Brai             | Braille               | ꯕ꯭ꯔꯦꯜ                 |
+| Hrkt             | Japanese syllabaries  | ꯖꯄꯥꯟꯒꯤ ꯈꯣꯟꯊꯣꯛ ꯈꯨꯗꯝꯁꯤꯡ |
+| Zmth             | Mathematical Notation | ꯑꯡꯀꯒꯤ ꯈꯨꯗꯝ            |
+| Zsye             | Emoji                 | ꯏꯃꯣꯖꯤ                 |
+| Zsym             | Symbols               | ꯈꯨꯗꯝꯁꯤꯡ               |
+| Zxxx             | Unwritten             | ꯏꯔꯒ ꯂꯩ ꯇꯕ             |
+| Zzzz             | Unknown Script        | ꯁꯛꯈꯡꯗꯕ ꯃꯌꯦꯛ           |
+
