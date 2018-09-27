@@ -134,7 +134,7 @@
 | Embu ► ebu            | Embu               | ꯏꯝꯕꯨ               |
 | English ► en          | English            | ꯏꯡꯂꯤꯁ              |
 | English ► en_AU       | Australian English | ꯑꯁꯇ꯭ꯔꯦꯂꯤꯌꯥꯒꯤ ꯏꯡꯂꯤꯁ |
-| English ► en_CA       | Canadian English   | ꯀꯥꯅꯥꯗꯥꯒꯤ ꯏꯡꯂꯤꯁ     |
+| English ► en_CA       | Canadian English   | ꯀꯦꯅꯥꯗꯒꯤ ꯏꯡꯂꯤꯁ      |
 | English ► en_GB       | British English    | ꯕ꯭ꯔꯤꯇꯤꯁ ꯏꯡꯂꯤꯁ      |
 | English ► en_GB-short | UK English         | ꯌꯨꯀꯦꯒꯤ ꯏꯡꯂꯤꯁ       |
 | English ► en_US       | American English   | ꯑꯃꯦꯔꯤꯀꯥꯒꯤ ꯏꯡꯂꯤꯁ    |
@@ -581,4 +581,54 @@
 | QO                   | Outlying Oceania                                             | ꯃꯇꯥꯢꯗ ꯂꯩꯕ ꯑꯣꯁꯤꯅꯤꯌꯥ   |
 | ***Unknown Region*** |                                                              |                      |
 | ZZ                   | Unknown Region                                               | ꯁꯛꯈꯡꯗꯕ ꯂꯝꯗꯝ          |
+
+## Territories (North America)
+
+| Code                   | English                  | Value                       |
+| ---------------------- | ------------------------ | --------------------------- |
+| ***Northern America*** |                          |                             |
+| BM                     | Bermuda                  | ꯕꯔꯃꯨꯗꯥ                      |
+| CA                     | Canada                   | ꯀꯦꯅꯥꯗ                       |
+| GL                     | Greenland                | ꯒ꯭ꯔꯤꯟꯂꯦꯅ꯭ꯗ                  |
+| PM                     | St. Pierre & Miquelon    | ꯁꯦꯅ꯭ꯇ ꯄꯤꯌꯔ & ꯃꯤꯈꯦꯂꯣꯟ        |
+| US                     | United States            | ꯌꯨꯅꯥꯢꯇꯦꯗ ꯁ꯭ꯇꯦꯠꯁ             |
+| US-short               | US                       | ꯌꯨꯑꯦꯁ                       |
+| ***Central America***  |                          |                             |
+| BZ                     | Belize                   | ꯕꯂꯤꯖ                        |
+| CR                     | Costa Rica               | ꯀꯣꯁꯇꯥ ꯔꯤꯀꯥ                  |
+| GT                     | Guatemala                | ꯒꯨꯑꯇꯃꯂꯥ                     |
+| HN                     | Honduras                 | ꯍꯣꯟꯗꯨꯔꯥꯁ                    |
+| MX                     | Mexico                   | ꯃꯦꯛꯁꯤꯀꯣ                     |
+| NI                     | Nicaragua                | ꯅꯤꯀꯔꯥꯒꯨꯑꯥ                   |
+| PA                     | Panama                   | ꯄꯦꯅꯥꯃ                       |
+| SV                     | El Salvador              | ꯑꯦꯜ ꯁꯥꯜꯚꯗꯣꯔ                 |
+| ***Caribbean***        |                          |                             |
+| AG                     | Antigua & Barbuda        | ꯑꯟꯇꯤꯒꯨꯑꯥ & ꯕꯥꯔꯕꯨꯗꯥ          |
+| AI                     | Anguilla                 | ꯑꯡꯒꯨꯏꯜꯂ                     |
+| AW                     | Aruba                    | ꯑꯔꯨꯕ                        |
+| BB                     | Barbados                 | ꯕꯥꯔꯕꯗꯣꯁ                     |
+| BL                     | St. Barthélemy           | ꯁꯦꯅ꯭ꯇ ꯕꯥꯔꯊꯦꯂꯦꯃꯤ             |
+| BQ                     | Caribbean Netherlands    | ꯀꯦꯔꯤꯕꯤꯌꯥꯟ ꯅꯦꯗꯔꯂꯦꯅ꯭ꯗꯁ        |
+| BS                     | Bahamas                  | ꯕꯍꯃꯥꯁ                       |
+| CU                     | Cuba                     | ꯀ꯭ꯌꯨꯕꯥ                      |
+| CW                     | Curaçao                  | ꯀ꯭ꯌꯨꯔꯥꯁꯥꯑꯣ                  |
+| DM                     | Dominica                 | ꯗꯣꯃꯤꯅꯤꯀꯥ                    |
+| DO                     | Dominican Republic       | ꯗꯣꯃꯤꯅꯤꯀꯥꯟ ꯔꯤꯄꯕ꯭ꯂꯤꯛ          |
+| GD                     | Grenada                  | ꯒ꯭ꯔꯦꯅꯦꯗ                     |
+| GP                     | Guadeloupe               | ꯒꯨꯑꯥꯗꯂꯨꯞ                    |
+| HT                     | Haiti                    | ꯍꯥꯢꯇꯤ                       |
+| JM                     | Jamaica                  | ꯖꯃꯥꯢꯀꯥ                      |
+| KN                     | St. Kitts & Nevis        | ꯁꯦꯅ꯭ꯇ ꯀꯤꯠꯁ & ꯅꯦꯚꯤꯁ          |
+| KY                     | Cayman Islands           | ꯀꯦꯃꯦꯟ ꯑꯥꯢꯂꯦꯅ꯭ꯗꯁ             |
+| LC                     | St. Lucia                | ꯁꯦꯅ꯭ꯇ ꯂꯨꯁꯤꯌꯥ                |
+| MF                     | St. Martin               | ꯁꯦꯅ꯭ꯇ ꯃꯥꯔꯇꯤꯟ                |
+| MQ                     | Martinique               | ꯃꯥꯔꯇꯤꯅꯤꯛ                    |
+| MS                     | Montserrat               | ꯃꯣꯟꯁꯔꯔꯥꯠ                    |
+| PR                     | Puerto Rico              | ꯄꯨꯔꯇꯣ ꯔꯤꯀꯣ                  |
+| SX                     | Sint Maarten             | ꯁꯤꯅ꯭ꯇ ꯃꯥꯔꯇꯦꯟ                |
+| TC                     | Turks & Caicos Islands   | ꯇꯔꯀ꯭ꯁ  & ꯀꯥꯢꯀꯣꯁ ꯑꯥꯢꯂꯦꯅ꯭ꯗꯁ   |
+| TT                     | Trinidad & Tobago        | ꯇ꯭ꯔꯤꯅꯤꯗꯥꯀ & ꯇꯣꯕꯥꯒꯣ          |
+| VC                     | St. Vincent & Grenadines | ꯁꯦꯅ꯭ꯇ ꯚꯤꯟꯁꯦꯅ꯭ꯇ & ꯒ꯭ꯔꯦꯅꯥꯗꯤꯟꯁ |
+| VG                     | British Virgin Islands   | ꯕ꯭ꯔꯤꯇꯤꯁ ꯚꯔꯖꯤꯟ ꯑꯥꯢꯂꯦꯅ꯭ꯗꯁ     |
+| VI                     | U.S. Virgin Islands      | ꯌꯨꯑꯦꯁ ꯚꯔꯖꯤꯟ ꯑꯥꯢꯂꯦꯅ꯭ꯗꯁ       |
 
