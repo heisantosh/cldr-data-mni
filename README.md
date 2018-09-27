@@ -150,9 +150,9 @@
 | Filipino ► fil        | Filipino           | ꯐꯤꯂꯤꯄꯤꯅꯣ           |
 | Finnish ► fi          | Finnish            | ꯐꯤꯟꯅꯤꯁ             |
 | Fon ► fon             | Fon                | ꯐꯣꯟ                |
-| French ► fr           | French             | ꯐ꯭ꯔꯦꯅ꯭ꯆ            |
-| French ► fr_CA        | Canadian French    | ꯀꯥꯅꯥꯗꯥꯒꯤ ꯐ꯭ꯔꯦꯅ꯭ꯆ   |
-| French ► fr_CH        | Swiss French       | ꯁ꯭ꯋꯤꯁꯀꯤ ꯐ꯭ꯔꯦꯅ꯭ꯆ    |
+| French ► fr           | French             | ꯐ꯭ꯔꯦꯟꯆ             |
+| French ► fr_CA        | Canadian French    | ꯀꯥꯅꯥꯗꯥꯒꯤ ꯐ꯭ꯔꯦꯟꯆ    |
+| French ► fr_CH        | Swiss French       | ꯁ꯭ꯋꯤꯁꯀꯤ ꯐ꯭ꯔꯦꯟꯆ     |
 | Friulian ► fur        | Friulian           | ꯐ꯭ꯔꯤꯌꯨꯂꯤꯌꯥꯟ        |
 | Fulah ► ff            | Fulah              | ꯐꯨꯂꯥꯍ              |
 | ***G***               |                    |                    |
@@ -162,7 +162,7 @@
 | Geez ► gez            | Geez               | ꯒꯤꯖ                |
 | Georgian ► ka         | Georgian           | ꯖꯣꯔꯖꯤꯌꯥꯟ           |
 | German ► de           | German             | ꯖꯔꯃꯟ               |
-| German ► de_AT        | Austrian German    | ꯑꯁ꯭ꯇꯤꯌꯥꯒꯤ ꯖꯔꯃꯟ     |
+| German ► de_AT        | Austrian German    | ꯑꯣꯁꯇ꯭ꯔꯤꯌꯥꯒꯤ ꯖꯔꯃꯟ   |
 | German ► de_CH        | Swiss High German  | ꯁ꯭ꯋꯤꯁ ꯍꯥꯢ ꯖꯔꯃꯟ     |
 | Gilbertese ► gil      | Gilbertese         | ꯒꯤꯂꯕꯔꯇꯤꯁ           |
 | Gorontalo ► gor       | Gorontalo          | ꯒꯣꯔꯣꯟꯇꯥꯂꯣ          |
@@ -584,51 +584,74 @@
 
 ## Territories (North America)
 
-| Code                   | English                  | Value                       |
-| ---------------------- | ------------------------ | --------------------------- |
-| ***Northern America*** |                          |                             |
-| BM                     | Bermuda                  | ꯕꯔꯃꯨꯗꯥ                      |
-| CA                     | Canada                   | ꯀꯦꯅꯥꯗ                       |
-| GL                     | Greenland                | ꯒ꯭ꯔꯤꯟꯂꯦꯅ꯭ꯗ                  |
-| PM                     | St. Pierre & Miquelon    | ꯁꯦꯅ꯭ꯇ ꯄꯤꯌꯔ & ꯃꯤꯈꯦꯂꯣꯟ        |
-| US                     | United States            | ꯌꯨꯅꯥꯢꯇꯦꯗ ꯁ꯭ꯇꯦꯠꯁ             |
-| US-short               | US                       | ꯌꯨꯑꯦꯁ                       |
-| ***Central America***  |                          |                             |
-| BZ                     | Belize                   | ꯕꯂꯤꯖ                        |
-| CR                     | Costa Rica               | ꯀꯣꯁꯇꯥ ꯔꯤꯀꯥ                  |
-| GT                     | Guatemala                | ꯒꯨꯑꯇꯃꯂꯥ                     |
-| HN                     | Honduras                 | ꯍꯣꯟꯗꯨꯔꯥꯁ                    |
-| MX                     | Mexico                   | ꯃꯦꯛꯁꯤꯀꯣ                     |
-| NI                     | Nicaragua                | ꯅꯤꯀꯔꯥꯒꯨꯑꯥ                   |
-| PA                     | Panama                   | ꯄꯦꯅꯥꯃ                       |
-| SV                     | El Salvador              | ꯑꯦꯜ ꯁꯥꯜꯚꯗꯣꯔ                 |
-| ***Caribbean***        |                          |                             |
-| AG                     | Antigua & Barbuda        | ꯑꯟꯇꯤꯒꯨꯑꯥ & ꯕꯥꯔꯕꯨꯗꯥ          |
-| AI                     | Anguilla                 | ꯑꯡꯒꯨꯏꯜꯂ                     |
-| AW                     | Aruba                    | ꯑꯔꯨꯕ                        |
-| BB                     | Barbados                 | ꯕꯥꯔꯕꯗꯣꯁ                     |
-| BL                     | St. Barthélemy           | ꯁꯦꯅ꯭ꯇ ꯕꯥꯔꯊꯦꯂꯦꯃꯤ             |
-| BQ                     | Caribbean Netherlands    | ꯀꯦꯔꯤꯕꯤꯌꯥꯟ ꯅꯦꯗꯔꯂꯦꯅ꯭ꯗꯁ        |
-| BS                     | Bahamas                  | ꯕꯍꯃꯥꯁ                       |
-| CU                     | Cuba                     | ꯀ꯭ꯌꯨꯕꯥ                      |
-| CW                     | Curaçao                  | ꯀ꯭ꯌꯨꯔꯥꯁꯥꯑꯣ                  |
-| DM                     | Dominica                 | ꯗꯣꯃꯤꯅꯤꯀꯥ                    |
-| DO                     | Dominican Republic       | ꯗꯣꯃꯤꯅꯤꯀꯥꯟ ꯔꯤꯄꯕ꯭ꯂꯤꯛ          |
-| GD                     | Grenada                  | ꯒ꯭ꯔꯦꯅꯦꯗ                     |
-| GP                     | Guadeloupe               | ꯒꯨꯑꯥꯗꯂꯨꯞ                    |
-| HT                     | Haiti                    | ꯍꯥꯢꯇꯤ                       |
-| JM                     | Jamaica                  | ꯖꯃꯥꯢꯀꯥ                      |
-| KN                     | St. Kitts & Nevis        | ꯁꯦꯅ꯭ꯇ ꯀꯤꯠꯁ & ꯅꯦꯚꯤꯁ          |
-| KY                     | Cayman Islands           | ꯀꯦꯃꯦꯟ ꯑꯥꯢꯂꯦꯅ꯭ꯗꯁ             |
-| LC                     | St. Lucia                | ꯁꯦꯅ꯭ꯇ ꯂꯨꯁꯤꯌꯥ                |
-| MF                     | St. Martin               | ꯁꯦꯅ꯭ꯇ ꯃꯥꯔꯇꯤꯟ                |
-| MQ                     | Martinique               | ꯃꯥꯔꯇꯤꯅꯤꯛ                    |
-| MS                     | Montserrat               | ꯃꯣꯟꯁꯔꯔꯥꯠ                    |
-| PR                     | Puerto Rico              | ꯄꯨꯔꯇꯣ ꯔꯤꯀꯣ                  |
-| SX                     | Sint Maarten             | ꯁꯤꯅ꯭ꯇ ꯃꯥꯔꯇꯦꯟ                |
-| TC                     | Turks & Caicos Islands   | ꯇꯔꯀ꯭ꯁ  & ꯀꯥꯢꯀꯣꯁ ꯑꯥꯢꯂꯦꯅ꯭ꯗꯁ   |
-| TT                     | Trinidad & Tobago        | ꯇ꯭ꯔꯤꯅꯤꯗꯥꯀ & ꯇꯣꯕꯥꯒꯣ          |
-| VC                     | St. Vincent & Grenadines | ꯁꯦꯅ꯭ꯇ ꯚꯤꯟꯁꯦꯅ꯭ꯇ & ꯒ꯭ꯔꯦꯅꯥꯗꯤꯟꯁ |
-| VG                     | British Virgin Islands   | ꯕ꯭ꯔꯤꯇꯤꯁ ꯚꯔꯖꯤꯟ ꯑꯥꯢꯂꯦꯅ꯭ꯗꯁ     |
-| VI                     | U.S. Virgin Islands      | ꯌꯨꯑꯦꯁ ꯚꯔꯖꯤꯟ ꯑꯥꯢꯂꯦꯅ꯭ꯗꯁ       |
+| Code                   | English                  | Value                           |
+| ---------------------- | ------------------------ | ------------------------------- |
+| ***Northern America*** |                          |                                 |
+| BM                     | Bermuda                  | ꯕꯔꯃꯨꯗꯥ                          |
+| CA                     | Canada                   | ꯀꯦꯅꯥꯗ                           |
+| GL                     | Greenland                | ꯒ꯭ꯔꯤꯟꯂꯦꯅ꯭ꯗ                      |
+| PM                     | St. Pierre & Miquelon    | ꯁꯦꯅ꯭ꯇ ꯄꯤꯌꯔ ꯑꯃꯁꯨꯡ ꯃꯤꯈꯦꯂꯣꯟ        |
+| US                     | United States            | ꯌꯨꯅꯥꯢꯇꯦꯗ ꯁ꯭ꯇꯦꯠꯁ                 |
+| US-short               | US                       | ꯌꯨꯑꯦꯁ                           |
+| ***Central America***  |                          |                                 |
+| BZ                     | Belize                   | ꯕꯂꯤꯖ                            |
+| CR                     | Costa Rica               | ꯀꯣꯁꯇꯥ ꯔꯤꯀꯥ                      |
+| GT                     | Guatemala                | ꯒꯨꯑꯇꯃꯂꯥ                         |
+| HN                     | Honduras                 | ꯍꯣꯟꯗꯨꯔꯥꯁ                        |
+| MX                     | Mexico                   | ꯃꯦꯛꯁꯤꯀꯣ                         |
+| NI                     | Nicaragua                | ꯅꯤꯀꯔꯥꯒꯨꯑꯥ                       |
+| PA                     | Panama                   | ꯄꯦꯅꯥꯃ                           |
+| SV                     | El Salvador              | ꯑꯦꯜ ꯁꯥꯜꯚꯗꯣꯔ                     |
+| ***Caribbean***        |                          |                                 |
+| AG                     | Antigua & Barbuda        | ꯑꯟꯇꯤꯒꯨꯑꯥ ꯑꯃꯁꯨꯡ ꯕꯥꯔꯕꯨꯗꯥ          |
+| AI                     | Anguilla                 | ꯑꯡꯒꯨꯏꯜꯂ                         |
+| AW                     | Aruba                    | ꯑꯔꯨꯕ                            |
+| BB                     | Barbados                 | ꯕꯥꯔꯕꯗꯣꯁ                         |
+| BL                     | St. Barthélemy           | ꯁꯦꯅ꯭ꯇ ꯕꯥꯔꯊꯦꯂꯦꯃꯤ                 |
+| BQ                     | Caribbean Netherlands    | ꯀꯦꯔꯤꯕꯤꯌꯥꯟ ꯅꯦꯗꯔꯂꯦꯅ꯭ꯗꯁ            |
+| BS                     | Bahamas                  | ꯕꯍꯃꯥꯁ                           |
+| CU                     | Cuba                     | ꯀ꯭ꯌꯨꯕꯥ                          |
+| CW                     | Curaçao                  | ꯀ꯭ꯌꯨꯔꯥꯁꯥꯑꯣ                      |
+| DM                     | Dominica                 | ꯗꯣꯃꯤꯅꯤꯀꯥ                        |
+| DO                     | Dominican Republic       | ꯗꯣꯃꯤꯅꯤꯀꯥꯟ ꯔꯤꯄꯕ꯭ꯂꯤꯛ              |
+| GD                     | Grenada                  | ꯒ꯭ꯔꯦꯅꯦꯗ                         |
+| GP                     | Guadeloupe               | ꯒꯨꯑꯥꯗꯂꯨꯞ                        |
+| HT                     | Haiti                    | ꯍꯥꯢꯇꯤ                           |
+| JM                     | Jamaica                  | ꯖꯃꯥꯢꯀꯥ                          |
+| KN                     | St. Kitts & Nevis        | ꯁꯦꯅ꯭ꯇ ꯀꯤꯠꯁ ꯑꯃꯁꯨꯡ ꯅꯦꯚꯤꯁ          |
+| KY                     | Cayman Islands           | ꯀꯦꯃꯦꯟ ꯏꯊꯠꯁꯤꯡ                    |
+| LC                     | St. Lucia                | ꯁꯦꯅ꯭ꯇ ꯂꯨꯁꯤꯌꯥ                    |
+| MF                     | St. Martin               | ꯁꯦꯅ꯭ꯇ ꯃꯥꯔꯇꯤꯟ                    |
+| MQ                     | Martinique               | ꯃꯥꯔꯇꯤꯅꯤꯛ                        |
+| MS                     | Montserrat               | ꯃꯣꯟꯁꯔꯔꯥꯠ                        |
+| PR                     | Puerto Rico              | ꯄꯨꯔꯇꯣ ꯔꯤꯀꯣ                      |
+| SX                     | Sint Maarten             | ꯁꯤꯅ꯭ꯇ ꯃꯥꯔꯇꯦꯟ                    |
+| TC                     | Turks & Caicos Islands   | ꯇꯔꯀ꯭ꯁ  ꯑꯃꯁꯨꯡ ꯀꯥꯢꯀꯣꯁ ꯏꯊꯠꯁꯤꯡ      |
+| TT                     | Trinidad & Tobago        | ꯇ꯭ꯔꯤꯅꯤꯗꯥꯀ ꯑꯃꯁꯨꯡ ꯇꯣꯕꯥꯒꯣ          |
+| VC                     | St. Vincent & Grenadines | ꯁꯦꯅ꯭ꯇ ꯚꯤꯟꯁꯦꯅ꯭ꯇ ꯑꯃꯁꯨꯡ ꯒ꯭ꯔꯦꯅꯥꯗꯤꯟꯁ |
+| VG                     | British Virgin Islands   | ꯕ꯭ꯔꯤꯇꯤꯁ ꯚꯔꯖꯤꯟ ꯏꯊꯠꯁꯤꯡ            |
+| VI                     | U.S. Virgin Islands      | ꯌꯨꯑꯦꯁ ꯚꯔꯖꯤꯟ ꯏꯊꯠꯁꯤꯡ              |
+
+## Territories (South America)
+
+| Code                | English                                                      | Value                               |
+| ------------------- | ------------------------------------------------------------ | ----------------------------------- |
+| ***South America*** |                                                              |                                     |
+| AR                  | Argentina                                                    | ꯑꯔꯖꯦꯟꯇꯤꯅꯥ                           |
+| BO                  | Bolivia                                                      |                                     |
+| BR                  | Brazil                                                       | ꯕ꯭ꯔꯥꯖꯤꯜ                             |
+| BV                  | Bouvet Island                                                | ꯕꯧꯚꯦꯠ ꯏꯊꯠ                           |
+| CL                  | Chile                                                        | ꯆꯤꯂꯦ                                |
+| CO                  | Colombia                                                     | ꯀꯂꯝꯕꯤꯌꯥ                             |
+| EC                  | Ecuador                                                      | ꯏꯀꯨꯑꯥꯗꯣꯔ                            |
+| FK                  | Falkland Islands (translation hint: Warning, see info panel on right.) | ꯐꯥꯂ꯭ꯀꯂꯦꯅ꯭ꯗ ꯏꯊꯠꯁꯤꯡ                   |
+| FK-variant          | Falkland Islands (Islas Malvinas) (translation hint: Warning, see info panel on right.) | ꯐꯥꯂ꯭ꯀꯂꯦꯅ꯭ꯗ ꯏꯊꯠꯁꯤꯡ (ꯏꯖꯂꯥꯁ ꯃꯥꯜꯚꯤꯅꯥꯁ)  |
+| GF                  | French Guiana                                                | ꯐ꯭ꯔꯦꯟꯆ ꯒꯤꯌꯥꯅꯥ                       |
+| GS                  | South Georgia & South Sandwich Islands                       | ꯈꯥ ꯖꯣꯔꯖꯤꯌꯥ ꯑꯃꯁꯨꯡ ꯈꯥ ꯁꯦꯅ꯭ꯗꯋꯤꯆ ꯏꯊꯠꯁꯤꯡ |
+| GY                  | Guyana                                                       | ꯒꯌꯥꯅꯥ                               |
+| PE                  | Peru                                                         |                                     |
+| PY                  | Paraguay                                                     | ꯄꯦꯔꯒ꯭ꯋꯥꯢ                            |
+| SR                  | Suriname                                                     | ꯁꯨꯔꯤꯅꯥꯝ                             |
+| UY                  | Uruguay                                                      | ꯎꯔꯨꯒ꯭ꯋꯦ                             |
+| VE                  | Venezuela                                                    | ꯚꯦꯅꯦꯖ꯭ꯋꯦꯂꯥ                          |
 
