@@ -316,10 +316,10 @@
 | Niuean ► niu                | Niuean                | ꯅꯤꯌꯨꯑꯥꯟ              |
 | No linguistic content ► zxx | No linguistic content | ꯂꯣꯟꯒꯤ ꯃꯆꯥꯡ ꯌꯥꯑꯣꯗꯦ    |
 | Nogai ► nog                 | Nogai                 | ꯅꯣꯒꯥꯢ                |
-| North Ndebele ► nd          | North Ndebele         | ꯑꯋꯥꯡꯒꯤ ꯗꯦꯕꯦꯜ         |
-| Northern Luri ► lrc         | Northern Luri         | ꯑꯋꯥꯡꯒꯤ ꯂꯨꯔꯤ          |
-| Northern Sami ► se          | Northern Sami         | ꯑꯋꯥꯡꯒꯤ ꯁꯥꯃꯤ          |
-| Northern Sotho ► nso        | Northern Sotho        | ꯑꯋꯥꯡꯒꯤ ꯁꯣꯊꯣ          |
+| North Ndebele ► nd          | North Ndebele         | ꯑꯋꯥꯡ ꯗꯦꯕꯦꯜ           |
+| Northern Luri ► lrc         | Northern Luri         | ꯑꯋꯥꯡ ꯊꯡꯕ ꯂꯨꯔꯤ        |
+| Northern Sami ► se          | Northern Sami         | ꯑꯋꯥꯡ ꯊꯡꯕ ꯁꯥꯃꯤ        |
+| Northern Sotho ► nso        | Northern Sotho        | ꯑꯋꯥꯡ ꯊꯡꯕ ꯁꯣꯊꯣ        |
 | Norwegian Bokmål ► nb       | Norwegian Bokmål      | ꯅꯣꯔꯋꯦꯖꯤꯌꯥꯟ ꯕꯣꯛꯃꯥꯜ    |
 | Norwegian Nynorsk ► nn      | Norwegian Nynorsk     | ꯅꯣꯔꯋꯦꯖꯤꯌꯥꯟ ꯅꯥꯢꯅꯣꯔꯁ꯭ꯀ |
 | Nuer ► nus                  | Nuer                  | ꯅꯨꯌꯔ                 |
@@ -393,9 +393,9 @@
 | Somali ► so                       | Somali                      | ꯁꯣꯃꯥꯂꯤ                     |
 | Soninke ► snk                     | Soninke                     | ꯁꯣꯅꯤꯟꯀꯦ                    |
 | South Ndebele ► nr                | South Ndebele               | ꯈꯥ ꯗꯦꯕꯦꯂꯦ                  |
-| Southern Altai ► alt              | Southern Altai              | ꯈꯥꯊꯡꯕ ꯑꯜꯇꯥꯢ                |
-| Southern Sami ► sma               | Southern Sami               | ꯈꯥꯊꯡꯕ ꯁꯥꯃꯤ                 |
-| Southern Sotho ► st               | Southern Sotho              | ꯈꯥꯊꯡꯕ ꯁꯣꯊꯣ                 |
+| Southern Altai ► alt              | Southern Altai              | ꯈꯥ ꯊꯡꯕ ꯑꯜꯇꯥꯢ               |
+| Southern Sami ► sma               | Southern Sami               | ꯈꯥ ꯊꯡꯕ ꯁꯥꯃꯤ                |
+| Southern Sotho ► st               | Southern Sotho              | ꯈꯥ ꯊꯡꯕ ꯁꯣꯊꯣ                |
 | Spanish ► es                      | Spanish                     | ꯁ꯭ꯄꯦꯅꯤꯁ                    |
 | Spanish ► es_419                  | Latin American Spanish      | ꯂꯦꯇꯤꯟ ꯑꯃꯦꯔꯤꯀꯥꯒꯤ ꯁ꯭ꯄꯦꯅꯤꯁ    |
 | Spanish ► es_ES                   | European Spanish            | ꯌꯨꯔꯣꯞꯀꯤ ꯁ꯭ꯄꯦꯅꯤꯁ            |
@@ -413,70 +413,70 @@
 
 ## Languages (T-Z)
 
-| Code                   | English          | Value            |
-| ---------------------- | ---------------- | ---------------- |
-| ***T***                |                  |                  |
-| Tachelhit ► shi        | Tachelhit        | ꯇꯥꯆꯦꯜꯍꯤꯠ         |
-| Tahitian ► ty          | Tahitian         | ꯇꯥꯍꯤꯇꯤꯌꯥꯟ        |
-| Taita ► dav            | Taita            | ꯇꯥꯢꯇꯥ            |
-| Tajik ► tg             | Tajik            | ꯇꯥꯖꯤꯛ            |
-| Tamil ► ta             | Tamil            | ꯇꯥꯃꯤꯜ            |
-| Taroko ► trv           | Taroko           | ꯇꯥꯔꯣꯀꯣ           |
-| Tasawaq ► twq          | Tasawaq          | ꯇꯥꯁꯥꯋꯥꯛ          |
-| Tatar ► tt             | Tatar            | ꯇꯥꯇꯥꯔ            |
-| Telugu ► te            | Telugu           | ꯇꯦꯂꯨꯒꯨ           |
-| Teso ► teo             | Teso             | ꯇꯦꯁꯣ             |
-| Tetum ► tet            | Tetum            | ꯇꯦꯇꯨꯝ            |
-| Thai ► th              | Thai             | ꯊꯥꯢ              |
-| Tibetan ► bo           | Tibetan          | ꯇꯤꯕꯦꯇꯥꯟ          |
-| Tigre ► tig            | Tigre            | ꯇꯥꯢꯒ꯭ꯔꯦ          |
-| Tigrinya ► ti          | Tigrinya         | ꯇꯤꯒ꯭ꯔꯤꯟꯌꯥ        |
-| Timne ► tem            | Timne            | ꯇꯤꯝꯅꯦ            |
-| Tok Pisin ► tpi        | Tok Pisin        | ꯇꯣꯛ ꯄꯤꯁꯤꯟ        |
-| Tongan ► to            | Tongan           | ꯇꯣꯡꯒꯟ            |
-| Tsonga ► ts            | Tsonga           | ꯁꯣꯡꯒꯥ            |
-| Tswana ► tn            | Tswana           | ꯁ꯭ꯋꯥꯅꯥ           |
-| Tumbuka ► tum          | Tumbuka          | ꯇꯝꯕꯨꯀꯥ           |
-| Turkish ► tr           | Turkish          | ꯇꯔꯀꯤꯁ            |
-| Turkmen ► tk           | Turkmen          | ꯇꯔ꯭ꯀꯃꯦꯟ          |
-| Tuvalu ► tvl           | Tuvalu           | ꯇꯨꯚꯥꯂꯨ           |
-| Tuvinian ► tyv         | Tuvinian         | ꯇꯨꯚꯤꯅꯤꯌꯥꯟ        |
-| Tyap ► kcg             | Tyap             | ꯇ꯭ꯌꯥꯞ            |
-| ***U***                |                  |                  |
-| Udmurt ► udm           | Udmurt           | ꯎꯗꯃꯨꯔ꯭ꯇ          |
-| Ukrainian ► uk         | Ukrainian        | ꯌꯨꯀ꯭ꯔꯦꯅꯤꯌꯥꯟ      |
-| Umbundu ► umb          | Umbundu          | ꯎꯝꯕꯨꯟꯗꯨ          |
-| Unknown language ► und | Unknown language | ꯈꯡꯗꯕ ꯂꯣꯟ         |
-| Upper Sorbian ► hsb    | Upper Sorbian    | ꯃꯊꯛꯊꯡꯕ ꯁꯣꯔꯕꯤꯌꯥꯟ  |
-| Urdu ► ur              | Urdu             | ꯎꯔꯗꯨ             |
-| Uyghur ► ug            | Uyghur           | ꯎꯢꯘꯨꯔ            |
-| Uzbek ► uz             | Uzbek            | ꯎꯖꯕꯦꯛ            |
-| ***V***                |                  |                  |
-| Vai ► vai              | Vai              | ꯚꯥꯢ              |
-| Venda ► ve             | Venda            | ꯚꯦꯟꯗꯥ            |
-| Vietnamese ► vi        | Vietnamese       | ꯚꯤꯌꯠꯅꯥꯃꯤꯁ        |
-| Volapük ► vo           | Volapük          | ꯚꯣꯂꯥꯄꯨꯛ          |
-| Vunjo ► vun            | Vunjo            | ꯚꯨꯟꯖꯣ            |
-| ***W***                |                  |                  |
-| Walloon ► wa           | Walloon          | ꯋꯥꯜꯂꯨꯟ           |
-| Walser ► wae           | Walser           | ꯋꯥꯜꯁꯔ            |
-| Waray ► war            | Waray            | ꯋꯥꯔꯥꯢ            |
-| Welsh ► cy             | Welsh            | ꯋꯦꯜꯁ             |
-| Western Frisian ► fy   | Western Frisian  | ꯅꯣꯡꯆꯨꯞ ꯐ꯭ꯔꯤꯁꯤꯌꯥꯟ |
-| Wolaytta ► wal         | Wolaytta         | ꯋꯣꯂꯦꯠꯇꯥ          |
-| Wolof ► wo             | Wolof            | ꯋꯣꯂꯣꯐ            |
-| ***X***                |                  |                  |
-| Xhosa ► xh             | Xhosa            | ꯈꯣꯁꯥ             |
-| ***Y***                |                  |                  |
-| Yangben ► yav          | Yangben          | ꯌꯥꯡꯕꯦꯟ           |
-| Yemba ► ybb            | Yemba            | ꯌꯦꯝꯕꯥ            |
-| Yiddish ► yi           | Yiddish          | ꯌꯤꯗ꯭ꯗꯤꯁ          |
-| Yoruba ► yo            | Yoruba           | ꯌꯣꯔꯨꯕꯥ           |
-| ***Z***                |                  |                  |
-| Zarma ► dje            | Zarma            | ꯖꯥꯔꯃꯥ            |
-| Zaza ► zza             | Zaza             | ꯖꯥꯖꯥ             |
-| Zulu ► zu              | Zulu             | ꯖꯨꯂꯨ             |
-| Zuni ► zun             | Zuni             | ꯖꯨꯅꯤ             |
+| Code                   | English          | Value                |
+| ---------------------- | ---------------- | -------------------- |
+| ***T***                |                  |                      |
+| Tachelhit ► shi        | Tachelhit        | ꯇꯥꯆꯦꯜꯍꯤꯠ             |
+| Tahitian ► ty          | Tahitian         | ꯇꯥꯍꯤꯇꯤꯌꯥꯟ            |
+| Taita ► dav            | Taita            | ꯇꯥꯢꯇꯥ                |
+| Tajik ► tg             | Tajik            | ꯇꯥꯖꯤꯛ                |
+| Tamil ► ta             | Tamil            | ꯇꯥꯃꯤꯜ                |
+| Taroko ► trv           | Taroko           | ꯇꯥꯔꯣꯀꯣ               |
+| Tasawaq ► twq          | Tasawaq          | ꯇꯥꯁꯥꯋꯥꯛ              |
+| Tatar ► tt             | Tatar            | ꯇꯥꯇꯥꯔ                |
+| Telugu ► te            | Telugu           | ꯇꯦꯂꯨꯒꯨ               |
+| Teso ► teo             | Teso             | ꯇꯦꯁꯣ                 |
+| Tetum ► tet            | Tetum            | ꯇꯦꯇꯨꯝ                |
+| Thai ► th              | Thai             | ꯊꯥꯢ                  |
+| Tibetan ► bo           | Tibetan          | ꯇꯤꯕꯦꯇꯥꯟ              |
+| Tigre ► tig            | Tigre            | ꯇꯥꯢꯒ꯭ꯔꯦ              |
+| Tigrinya ► ti          | Tigrinya         | ꯇꯤꯒ꯭ꯔꯤꯟꯌꯥ            |
+| Timne ► tem            | Timne            | ꯇꯤꯝꯅꯦ                |
+| Tok Pisin ► tpi        | Tok Pisin        | ꯇꯣꯛ ꯄꯤꯁꯤꯟ            |
+| Tongan ► to            | Tongan           | ꯇꯣꯡꯒꯟ                |
+| Tsonga ► ts            | Tsonga           | ꯁꯣꯡꯒꯥ                |
+| Tswana ► tn            | Tswana           | ꯁ꯭ꯋꯥꯅꯥ               |
+| Tumbuka ► tum          | Tumbuka          | ꯇꯝꯕꯨꯀꯥ               |
+| Turkish ► tr           | Turkish          | ꯇꯔꯀꯤꯁ                |
+| Turkmen ► tk           | Turkmen          | ꯇꯔ꯭ꯀꯃꯦꯟ              |
+| Tuvalu ► tvl           | Tuvalu           | ꯇꯨꯚꯥꯂꯨ               |
+| Tuvinian ► tyv         | Tuvinian         | ꯇꯨꯚꯤꯅꯤꯌꯥꯟ            |
+| Tyap ► kcg             | Tyap             | ꯇ꯭ꯌꯥꯞ                |
+| ***U***                |                  |                      |
+| Udmurt ► udm           | Udmurt           | ꯎꯗꯃꯨꯔ꯭ꯇ              |
+| Ukrainian ► uk         | Ukrainian        | ꯌꯨꯀ꯭ꯔꯦꯅꯤꯌꯥꯟ          |
+| Umbundu ► umb          | Umbundu          | ꯎꯝꯕꯨꯟꯗꯨ              |
+| Unknown language ► und | Unknown language | ꯈꯡꯗꯕ ꯂꯣꯟ             |
+| Upper Sorbian ► hsb    | Upper Sorbian    | ꯃꯊꯛꯊꯡꯕ ꯁꯣꯔꯕꯤꯌꯥꯟ      |
+| Urdu ► ur              | Urdu             | ꯎꯔꯗꯨ                 |
+| Uyghur ► ug            | Uyghur           | ꯎꯢꯘꯨꯔ                |
+| Uzbek ► uz             | Uzbek            | ꯎꯖꯕꯦꯛ                |
+| ***V***                |                  |                      |
+| Vai ► vai              | Vai              | ꯚꯥꯢ                  |
+| Venda ► ve             | Venda            | ꯚꯦꯟꯗꯥ                |
+| Vietnamese ► vi        | Vietnamese       | ꯚꯤꯌꯠꯅꯥꯃꯤꯁ            |
+| Volapük ► vo           | Volapük          | ꯚꯣꯂꯥꯄꯨꯛ              |
+| Vunjo ► vun            | Vunjo            | ꯚꯨꯟꯖꯣ                |
+| ***W***                |                  |                      |
+| Walloon ► wa           | Walloon          | ꯋꯥꯜꯂꯨꯟ               |
+| Walser ► wae           | Walser           | ꯋꯥꯜꯁꯔ                |
+| Waray ► war            | Waray            | ꯋꯥꯔꯥꯢ                |
+| Welsh ► cy             | Welsh            | ꯋꯦꯜꯁ                 |
+| Western Frisian ► fy   | Western Frisian  | ꯅꯣꯡꯆꯨꯞ ꯊꯡꯕ ꯐ꯭ꯔꯤꯁꯤꯌꯥꯟ |
+| Wolaytta ► wal         | Wolaytta         | ꯋꯣꯂꯦꯠꯇꯥ              |
+| Wolof ► wo             | Wolof            | ꯋꯣꯂꯣꯐ                |
+| ***X***                |                  |                      |
+| Xhosa ► xh             | Xhosa            | ꯈꯣꯁꯥ                 |
+| ***Y***                |                  |                      |
+| Yangben ► yav          | Yangben          | ꯌꯥꯡꯕꯦꯟ               |
+| Yemba ► ybb            | Yemba            | ꯌꯦꯝꯕꯥ                |
+| Yiddish ► yi           | Yiddish          | ꯌꯤꯗ꯭ꯗꯤꯁ              |
+| Yoruba ► yo            | Yoruba           | ꯌꯣꯔꯨꯕꯥ               |
+| ***Z***                |                  |                      |
+| Zarma ► dje            | Zarma            | ꯖꯥꯔꯃꯥ                |
+| Zaza ► zza             | Zaza             | ꯖꯥꯖꯥ                 |
+| Zulu ► zu              | Zulu             | ꯖꯨꯂꯨ                 |
+| Zuni ► zun             | Zuni             | ꯖꯨꯅꯤ                 |
 
 ## Scripts
 
@@ -527,9 +527,58 @@
 | ***Other***      |                       |                       |
 | Brai             | Braille               | ꯕ꯭ꯔꯦꯜ                 |
 | Hrkt             | Japanese syllabaries  | ꯖꯄꯥꯟꯒꯤ ꯈꯣꯟꯊꯣꯛ ꯈꯨꯗꯝꯁꯤꯡ |
-| Zmth             | Mathematical Notation | ꯑꯡꯀꯒꯤ ꯈꯨꯗꯝ            |
+| Zmth             | Mathematical Notation | ꯆꯩꯁꯤꯡꯂꯣꯟꯒꯤ ꯈꯨꯗꯝ       |
 | Zsye             | Emoji                 | ꯏꯃꯣꯖꯤ                 |
 | Zsym             | Symbols               | ꯈꯨꯗꯝꯁꯤꯡ               |
 | Zxxx             | Unwritten             | ꯏꯔꯒ ꯂꯩ ꯇꯕ             |
 | Zzzz             | Unknown Script        | ꯁꯛꯈꯡꯗꯕ ꯃꯌꯦꯛ           |
+
+## Geographic Regions
+
+| Code                 | English                                                      | Value                |
+| -------------------- | ------------------------------------------------------------ | -------------------- |
+| ***World***          |                                                              |                      |
+| 001                  | World                                                        | ꯃꯥꯂꯦꯝ                |
+| 019                  | Americas                                                     | ꯑꯃꯦꯔꯤꯀꯥꯁ             |
+| 002                  | Africa                                                       | ꯑꯐ꯭ꯔꯤꯀꯥ              |
+| 150                  | Europe                                                       |                      |
+| 142                  | Asia                                                         | ꯑꯦꯁꯤꯌꯥ               |
+| 009                  | Oceania                                                      | ꯑꯣꯁꯤꯅꯤꯌꯥ             |
+| EU                   | European Union                                               | ꯌꯨꯔꯣꯄꯤꯌꯥꯟ ꯌꯨꯅꯤꯌꯟ     |
+| EZ                   | Eurozone                                                     | ꯌꯨꯔꯣꯖꯣꯟ              |
+| UN                   | United Nations                                               | ꯌꯨꯅꯥꯢꯇꯦꯗ ꯅꯥꯁꯟꯁ       |
+| UN-short             | UN                                                           | ꯌꯨꯑꯦꯟ                |
+| ***Americas***       |                                                              |                      |
+| 003                  | North America (translation hint: Warning, see info panel on right.) | ꯑꯋꯥꯡ ꯑꯃꯦꯔꯤꯀꯥ         |
+| 021                  | Northern America (translation hint: Warning, see info panel on right.) | ꯑꯋꯥꯡ ꯊꯡꯕ ꯑꯃꯦꯔꯤꯀꯥ     |
+| 013                  | Central America                                              | ꯃꯌꯥꯢ ꯊꯡꯕ ꯑꯃꯦꯔꯤꯀꯥ     |
+| 029                  | Caribbean                                                    | ꯀꯦꯔꯤꯕꯤꯌꯥꯟ            |
+| 005                  | South America                                                | ꯈꯥ ꯑꯃꯦꯔꯤꯀꯥ           |
+| 419                  | Latin America                                                | ꯂꯦꯇꯤꯟ ꯑꯃꯦꯔꯤꯀꯥ        |
+| ***Africa***         |                                                              |                      |
+| 015                  | Northern America                                             | ꯑꯋꯥꯡ ꯊꯡꯕ ꯑꯃꯦꯔꯤꯀꯥ     |
+| 011                  | Western America                                              | ꯅꯣꯡꯆꯨꯞ ꯊꯡꯕ ꯑꯃꯦꯔꯤꯀꯥ   |
+| 017                  | Middle Africa                                                | ꯃꯌꯥꯢ ꯊꯡꯕ ꯑꯐ꯭ꯔꯤꯀꯥ     |
+| 014                  | Eastern Africa                                               | ꯅꯣꯡꯄꯣꯛ ꯊꯡꯕ ꯑꯐ꯭ꯔꯤꯀꯥ   |
+| 018                  | Southern Africa (translation hint: Warning, see info panel on right.) | ꯈꯥ ꯊꯡꯕ ꯑꯐ꯭ꯔꯤꯀꯥ       |
+| 202                  | Sub-Saharan Africa                                           | ꯁꯕ-ꯁꯍꯥꯔꯥꯟ ꯑꯐ꯭ꯔꯤꯀꯥ    |
+| ***Europe***         |                                                              |                      |
+| 154                  | Northern Europe                                              | ꯑꯋꯥꯡ ꯊꯡꯕ ꯌꯨꯔꯣꯞ       |
+| 155                  | Western Europe                                               | ꯅꯣꯡꯆꯨꯞ ꯊꯡꯕ ꯌꯨꯔꯣꯞ     |
+| 151                  | Eastern Europe                                               | ꯅꯣꯡꯄꯣꯛ ꯊꯡꯕ ꯌꯨꯔꯣꯞ     |
+| 039                  | Southern Europe                                              | ꯈꯥ ꯊꯡꯕ ꯌꯨꯔꯣꯞ         |
+| ***Asia***           |                                                              |                      |
+| 145                  | Western Asia                                                 | ꯅꯣꯡꯆꯨꯞ ꯊꯡꯕ ꯑꯦꯁꯤꯌꯥ    |
+| 143                  | Central Asia                                                 | ꯃꯌꯥꯢ ꯊꯡꯕ ꯑꯦꯁꯤꯌꯥ      |
+| 030                  | Eastern Asia                                                 | ꯅꯣꯡꯄꯣꯛ ꯊꯡꯕ ꯑꯦꯁꯤꯌꯥ    |
+| 034                  | Southern Asia                                                | ꯈꯥ ꯊꯡꯕ ꯑꯦꯁꯤꯌꯥ        |
+| 035                  | Southeast Asia                                               | ꯈꯥ-ꯅꯣꯡꯄꯣꯛ ꯑꯦꯁꯤꯌꯥ     |
+| ***Oceania***        |                                                              |                      |
+| 053                  | Australasia                                                  | ꯑꯣꯁꯇ꯭ꯔꯦꯂꯦꯁꯤꯌꯥ        |
+| 054                  | Melanesia                                                    | ꯃꯦꯂꯥꯅꯦꯁꯤꯌꯥ           |
+| 057                  | Micronesian Region (translation hint: Warning, see info panel on right.) | ꯃꯥꯢꯀ꯭ꯔꯣꯅꯦꯁꯤꯌꯥꯒꯤ ꯂꯝꯗꯝ |
+| 061                  | Polynesia                                                    | ꯄꯣꯂꯤꯅꯦꯁꯤꯌꯥ           |
+| QO                   | Outlying Oceania                                             | ꯃꯇꯥꯢꯗ ꯂꯩꯕ ꯑꯣꯁꯤꯅꯤꯌꯥ   |
+| ***Unknown Region*** |                                                              |                      |
+| ZZ                   | Unknown Region                                               | ꯁꯛꯈꯡꯗꯕ ꯂꯝꯗꯝ          |
 
