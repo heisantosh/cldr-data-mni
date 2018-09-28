@@ -110,7 +110,7 @@
 | Cornish ► kw                  | Cornish                                                      | ꯀꯣꯔꯅꯤꯁ                |
 | Corsican ► co                 | Corsican                                                     | ꯀꯣꯔꯁꯤꯀꯥꯟ              |
 | Creek ► mus                   | Creek                                                        | ꯀ꯭ꯔꯤꯛ                 |
-| Croatian ► hr                 | Croatian                                                     | ꯀ꯭ꯔꯣꯢꯁꯤꯌꯥꯟ            |
+| Croatian ► hr                 | Croatian                                                     | ꯀ꯭ꯔꯣꯑꯦꯁꯤꯌꯥꯟ           |
 | Czech ► cs                    | Czech                                                        | ꯆꯦꯛ                   |
 | ***D***                       |                                                              |                       |
 | Dakota ► dak                  | Dakota                                                       | ꯗꯥꯀꯣꯇꯥ                |
@@ -263,7 +263,7 @@
 | Luxembourgish ► lb          | Luxembourgish         | ꯂꯛꯖꯝꯕꯔꯒꯤꯁ            |
 | Luyia ► luy                 | Luyia                 | ꯂ꯭ꯌꯨꯌꯤꯑꯥ             |
 | ***M***                     |                       |                      |
-| Macedonian ► mk             | Macedonian            | ꯃꯛꯗꯣꯅꯤꯌꯥꯟ            |
+| Macedonian ► mk             | Macedonian            | ꯃꯁꯥꯗꯣꯅꯤꯌꯥꯟ           |
 | Machame ► jmc               | Machame               | ꯃꯦꯛꯍꯦꯃꯦ              |
 | Madurese ► mad              | Madurese              | ꯃꯥꯗꯨꯔꯤꯁ              |
 | Magahi ► mag                | Magahi                | ꯃꯒꯥꯍꯤ                |
@@ -728,4 +728,73 @@
 | NA                    | Namibia                                                      | ꯅꯥꯃꯤꯕꯤꯌꯥ                       |
 | SZ                    | Swaziland                                                    | ꯁ꯭ꯋꯥꯖꯤꯂꯦꯅ꯭ꯗ                    |
 | ZA                    | South Africa (translation hint: Warning, see info panel on right.) | ꯈꯥ ꯑꯐ꯭ꯔꯤꯀꯥ                     |
+
+## Territories (Europe)
+
+| Code                               | English                                                      | Value                      |
+| ---------------------------------- | ------------------------------------------------------------ | -------------------------- |
+| ***Northern Europe***              |                                                              |                            |
+| GG                                 | Guernsey                                                     | ꯒꯅꯔꯁꯤ                      |
+| IM                                 | Isle of Man                                                  | ꯑꯥꯏꯜ ꯑꯣꯐ ꯃꯦꯟ               |
+| JE                                 | Jersey                                                       | ꯖꯔꯁꯤ                       |
+| AX                                 | Åland Islands                                                | ꯑꯦꯂꯦꯅ꯭ꯗ ꯏꯊꯠꯁꯤꯡ             |
+| DK                                 | Denmark                                                      | ꯗꯦꯟꯃꯥꯔ꯭ꯀ                   |
+| EE                                 | Estonia                                                      | ꯑꯦꯁꯇꯣꯅꯤꯌꯥ                  |
+| FI                                 | Finland                                                      | ꯐꯤꯟꯂꯦꯅ꯭ꯗ                   |
+| FO                                 | Faroe Islands                                                | ꯐꯥꯔꯣ ꯏꯊꯠꯁꯤꯡ                |
+| GB                                 | United Kingdom                                               | ꯌꯨꯅꯥꯢꯇꯦꯗ ꯀꯤꯡꯗꯝ             |
+| GB-short                           | UK                                                           | ꯌꯨꯀꯦ                       |
+| ***Northern Europe-Subdivisions*** |                                                              |                            |
+| gbeng                              | England                                                      | ꯏꯡꯂꯦꯅ꯭ꯗ                    |
+| gbsct                              | Scotland                                                     | ꯁ꯭ꯀꯣꯠꯂꯦꯅ꯭ꯗ                 |
+| gbwls                              | Wales                                                        | ꯋꯦꯜꯁ                       |
+| ***Northern Europe***              |                                                              |                            |
+| IE                                 | Ireland                                                      | ꯑꯥꯌꯔꯂꯦꯅ꯭ꯗ                  |
+| IS                                 | Iceland                                                      | ꯑꯥꯢꯁꯂꯦꯅ꯭ꯗ                  |
+| LT                                 | Lithuania                                                    | ꯂꯤꯊꯨꯋꯥꯅꯤꯌꯥ                 |
+| LV                                 | Latvia                                                       | ꯂꯥꯠꯅꯤꯌꯥ                    |
+| NO                                 | Norway                                                       | ꯅꯣꯔꯋꯦ                      |
+| SE                                 | Sweden                                                       | ꯁ꯭ꯋꯦꯗꯦꯟ                    |
+| SJ                                 | Svalbard & Jan Mayen                                         | ꯁ꯭ꯋꯥꯜꯕꯥꯔ꯭ꯗ ꯑꯃꯁꯨꯡ ꯖꯥꯟ ꯃꯥꯌꯣꯟ |
+| ***Western Europe***               |                                                              |                            |
+| AT                                 | Austria                                                      | ꯑꯣꯁꯇ꯭ꯔꯤꯌꯥ                  |
+| BE                                 | Belgium                                                      | ꯕꯦꯜꯖꯤꯌꯝ                    |
+| CH                                 | Switzerland                                                  | ꯁ꯭ꯋꯤꯠꯖꯔꯂꯦꯅ꯭ꯗ               |
+| DE                                 | Germany                                                      | ꯖꯔꯃꯅꯤ                      |
+| FR                                 | France                                                       | ꯐ꯭ꯔꯥꯟꯁ                     |
+| LI                                 | Liechtenstein                                                | ꯂꯤꯈꯇꯟꯁꯇꯩꯟ                  |
+| LU                                 | Luxembourg                                                   | ꯂꯒꯖꯝꯕꯔ꯭ꯒ                   |
+| MC                                 | Monaco                                                       | ꯃꯣꯅꯀꯣ                      |
+| NL                                 | Netherlands                                                  | ꯅꯦꯗꯔꯂꯦꯅ꯭ꯗꯁ                 |
+| ***Eastern Europe***               |                                                              |                            |
+| BG                                 | Bulgaria                                                     | ꯕꯨꯜꯒꯦꯔꯤꯌꯥ                  |
+| BY                                 | Belarus                                                      | ꯕꯦꯂꯥꯔꯁ                     |
+| CZ                                 | Czechia                                                      | ꯆꯦꯀꯤꯌꯥ                     |
+| CZ-variant                         | Czech Republic                                               | ꯆꯦꯛ ꯔꯤꯄꯕ꯭ꯂꯤꯛ               |
+| HU                                 | Hungary                                                      | ꯍꯡꯒꯔꯤ                      |
+| MD                                 | Moldova                                                      | ꯃꯣꯜꯗꯣꯚꯥ                    |
+| PL                                 | Poland                                                       | ꯄꯣꯂꯦꯅ꯭ꯗ                    |
+| RO                                 | Romania                                                      | ꯔꯣꯃꯥꯤꯅꯤꯌꯥ                  |
+| RU                                 | Russia                                                       | ꯔꯁꯤꯌꯥ                      |
+| SK                                 | Slovakia                                                     | ꯁ꯭ꯂꯣꯚꯥꯀꯤꯌꯥ                 |
+| UA                                 | Ukraine                                                      | ꯌꯨꯀ꯭ꯔꯦꯟ                    |
+| ***Southern Europe***              |                                                              |                            |
+| AD                                 | Andorra                                                      | ꯑꯦꯟꯗꯣꯔꯥ                    |
+| AL                                 | Albania                                                      | ꯑꯜꯕꯥꯅꯤꯌꯥ                   |
+| BA                                 | Bosnia & Herzegovina                                         | ꯕꯣꯁꯅꯤꯌꯥ ꯑꯃꯁꯨꯡ ꯍꯔꯖꯦꯒꯣꯚꯤꯅꯥ   |
+| ES                                 | Spain                                                        | ꯁ꯭ꯄꯦꯟ                      |
+| GI                                 | Gibraltar                                                    | ꯒꯤꯕ꯭ꯔꯥꯜꯇꯔ                  |
+| GR                                 | Greece                                                       | ꯒ꯭ꯔꯤꯁ                      |
+| HR                                 | Croatia                                                      | ꯀ꯭ꯔꯣꯑꯦꯁꯤꯌꯥ                 |
+| IT                                 | Italy                                                        | ꯏꯇꯥꯂꯤ                      |
+| ME                                 | Montenegro                                                   | ꯃꯣꯟꯇꯦꯅꯦꯒ꯭ꯔꯣ                |
+| MK                                 | Macedonia (translation hint: Warning, see info panel on right.) | ꯃꯁꯥꯗꯣꯅꯤꯌꯥ                  |
+| MK-variant                         | Macedonia (FYROM) (translation hint: Warning, see info panel on right.) | ꯃꯁꯥꯗꯣꯅꯤꯌꯥ (FYROM)          |
+| MT                                 | Malta                                                        | ꯃꯥꯜꯇꯥ                      |
+| RS                                 | Serbia                                                       | ꯁꯔꯕꯤꯌꯥ                     |
+| PT                                 | Portugal                                                     | ꯄꯣꯔꯇꯨꯒꯥꯜ                   |
+| SI                                 | Slovenia                                                     | ꯁ꯭ꯂꯣꯚꯦꯅꯤꯌꯥ                 |
+| SM                                 | San Marino                                                   | ꯁꯥꯟ ꯃꯦꯔꯤꯅꯣ                 |
+| VA                                 | Vatican City                                                 | ꯚꯦꯇꯤꯀꯥꯟ ꯁꯤꯇꯤ               |
+| XK                                 | Kosovo                                                       | ꯀꯣꯁꯣꯚꯣ                     |
 
