@@ -655,3 +655,77 @@
 | UY                  | Uruguay                                                      | ꯎꯔꯨꯒ꯭ꯋꯦ                             |
 | VE                  | Venezuela                                                    | ꯚꯦꯅꯦꯖ꯭ꯋꯦꯂꯥ                          |
 
+## Territories (Africa)
+
+| Code                  | English                                                      | Value                          |
+| --------------------- | ------------------------------------------------------------ | ------------------------------ |
+| ***Northern Africa*** |                                                              |                                |
+| DZ                    | Algeria                                                      | ꯑꯜꯖꯦꯔꯤꯌꯥ                       |
+| EG                    | Egypt                                                        | ꯏꯖꯤꯞ                           |
+| EH                    | Western Sahara                                               | ꯅꯣꯡꯆꯨꯞ ꯊꯡꯕ ꯁꯥꯍꯥꯔꯥ              |
+| LY                    | Libya                                                        | ꯂꯤꯕ꯭ꯌꯥ                         |
+| MA                    | Morocco                                                      | ꯃꯣꯔꯣꯛꯀꯣ                        |
+| SD                    | Sudan                                                        | ꯁꯨꯗꯥꯟ                          |
+| TN                    | Tunisia                                                      | ꯇꯨꯅꯤꯁꯤꯌꯥ                       |
+| EA                    | Ceuta & Melilla                                              | ꯁꯤꯎꯇꯥ ꯑꯃꯁꯨꯡ ꯃꯦꯂꯤꯜꯂ             |
+| IC                    | Canary Islands                                               | ꯀꯦꯅꯥꯔꯤ ꯏꯊꯠꯁꯤꯡ                  |
+| ***Western Africa***  |                                                              |                                |
+| BF                    | Burkina Faso                                                 | ꯕꯨꯔꯀꯤꯅꯥ ꯐꯥꯁꯣ                   |
+| BJ                    | Benin                                                        | ꯕꯦꯅꯤꯟ                          |
+| CI                    | Côte d’Ivoire (translation hint: Warning, see info panel on right.) | ꯀꯣꯠ ꯗꯤ ꯑꯥꯢꯚꯔ                   |
+| CI-variant            | Ivory Coast (translation hint: Warning, see info panel on right.) | ꯑꯥꯢꯚꯣꯔꯤ ꯀꯣꯁ꯭ꯇ                  |
+| CV                    | Cape Verde                                                   | ꯀꯥꯞ ꯚꯔꯗꯦ                       |
+| GH                    | Ghana                                                        | ꯘꯥꯅꯥ                           |
+| GM                    | Gambia                                                       | ꯒꯝꯕꯤꯌꯥ                         |
+| GN                    | Guinea                                                       | ꯒꯤꯅꯤ                           |
+| GW                    | Guinea-Bissau                                                | ꯒꯤꯅꯤ-ꯚꯤꯁꯥꯑꯣ                    |
+| LR                    | Liberia                                                      | ꯂꯥꯢꯕꯦꯔꯤꯌꯥ                      |
+| ML                    | Mali                                                         | ꯃꯥꯂꯤ                           |
+| MR                    | Mauritania                                                   | ꯃꯥꯑꯣꯇꯥꯅꯤꯌꯥ                     |
+| NE                    | Niger                                                        | ꯅꯥꯢꯖꯔ                          |
+| NG                    | Nigeria                                                      | ꯅꯥꯢꯖꯦꯔꯤꯌꯥ                      |
+| SH                    | St. Helena                                                   | ꯁꯦꯅ꯭ꯇ ꯍꯦꯂꯦꯅꯥ                   |
+| SL                    | Sierra Leone                                                 | ꯁꯤꯑꯦꯔꯥ ꯂꯤꯌꯣꯟ                   |
+| SN                    | Senegal                                                      | ꯁꯦꯅꯦꯒꯜ                         |
+| TG                    | Togo                                                         | ꯇꯣꯒꯣ                           |
+| ***Middle Africa***   |                                                              |                                |
+| AO                    | Angola                                                       | ꯑꯡꯒꯣꯂꯥ                         |
+| CD                    | Congo - Kinshasa (translation hint: Warning, see info panel on right.) | ꯀꯣꯡꯒꯣ-ꯀꯤꯟꯁꯥꯁꯥ                  |
+| CD-variant            | Congo (DRC) (translation hint: Warning, see info panel on right.) | ꯀꯣꯡꯒꯣ (ꯗꯤꯑꯥꯔꯁꯤ)                |
+| CF                    | Central African Republic                                     | ꯃꯌꯥꯢ ꯊꯡꯕ ꯑꯐ꯭ꯔꯤꯀꯥꯒꯤ ꯔꯤꯄꯕ꯭ꯂꯤꯛ    |
+| CG                    | Congo - Brazzaville (translation hint: Warning, see info panel on right.) | ꯀꯣꯡꯒꯣ - ꯕ꯭ꯔꯥꯖꯥꯚꯤꯜ              |
+| CG-variant            | Congo (Republic) (translation hint: Warning, see info panel on right.) | ꯀꯣꯡꯒꯣ (ꯔꯤꯄꯕ꯭ꯂꯤꯛ)               |
+| CM                    | Cameroon                                                     | ꯀꯥꯃꯔꯨꯟ                         |
+| GA                    | Gabon                                                        | ꯒꯦꯕꯣꯟ                          |
+| GQ                    | Equatorial Guinea                                            | ꯏꯀ꯭ꯋꯦꯇꯣꯔꯤꯌꯜ ꯒꯤꯅꯤ               |
+| ST                    | São Tomé & Príncipe                                          | ꯁꯥꯑꯣ ꯇꯣꯝ ꯑꯃꯁꯨꯡ ꯄ꯭ꯔꯤꯟꯁꯤꯄꯦ       |
+| TD                    | Chad                                                         | ꯆꯥꯗ                            |
+| ***Eastern Africa***  |                                                              |                                |
+| BI                    | Burundi                                                      | ꯕꯨꯔꯨꯟꯗꯤ                        |
+| DJ                    | Djibouti                                                     | ꯖꯤꯕꯨꯇꯤ                         |
+| ER                    | Eritrea                                                      | ꯏꯔꯤꯇ꯭ꯔꯤꯌꯥ                      |
+| ET                    | Ethiopia                                                     | ꯏꯊꯤꯌꯣꯄꯤꯌꯥ                      |
+| IO                    | British Indian Ocean Territory                               | ꯕ꯭ꯔꯤꯇꯤꯁ ꯏꯟꯗꯤꯌꯥꯟ ꯑꯣꯁꯤꯟ ꯇꯦꯔꯤꯇꯣꯔꯤ |
+| KE                    | Kenya                                                        | ꯀꯦꯟꯌꯥ                          |
+| KM                    | Comoros                                                      | ꯀꯣꯃꯣꯔꯣꯁ                        |
+| MG                    | Madagascar                                                   | ꯃꯦꯗꯥꯒꯥꯁꯀꯔ                      |
+| MU                    | Mauritius                                                    | ꯃꯥꯑꯣꯔꯤꯁꯁ                       |
+| MW                    | Malawi                                                       | ꯃꯂꯥꯋꯤ                          |
+| MZ                    | Mozambique                                                   | ꯃꯣꯖꯥꯝꯕꯤꯛ                       |
+| RE                    | Réunion                                                      | ꯔꯤꯌꯨꯅꯤꯌꯟ                       |
+| RW                    | Rwanda                                                       | ꯔ꯭ꯋꯥꯟꯗꯥ                        |
+| SC                    | Seychelles                                                   | ꯁꯦꯁꯦꯜꯁ                         |
+| SO                    | Somalia                                                      | ꯁꯣꯃꯥꯂꯤꯌꯥ                       |
+| SS                    | South Sudan                                                  | ꯈꯥ ꯁꯨꯗꯥꯟ                       |
+| TZ                    | Tanzania                                                     | ꯇꯟꯖꯥꯅꯤꯌꯥ                       |
+| UG                    | Uganda                                                       | ꯌꯨꯒꯟꯗꯥ                         |
+| YT                    | Mayotte                                                      | ꯃꯥꯌꯣꯇꯦ                         |
+| ZM                    | Zambia                                                       | ꯖꯥꯝꯕꯤꯌꯥ                        |
+| ZW                    | Zimbabwe                                                     | ꯖꯤꯝꯕꯥꯕꯋꯦ                       |
+| ***Southern Africa*** |                                                              |                                |
+| BW                    | Botswana                                                     | ꯕꯣꯠꯁ꯭ꯋꯥꯅꯥ                      |
+| LS                    | Lesotho                                                      | ꯂꯦꯁꯣꯊꯣ                         |
+| NA                    | Namibia                                                      | ꯅꯥꯃꯤꯕꯤꯌꯥ                       |
+| SZ                    | Swaziland                                                    | ꯁ꯭ꯋꯥꯖꯤꯂꯦꯅ꯭ꯗ                    |
+| ZA                    | South Africa (translation hint: Warning, see info panel on right.) | ꯈꯥ ꯑꯐ꯭ꯔꯤꯀꯥ                     |
+
