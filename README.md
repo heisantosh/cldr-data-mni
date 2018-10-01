@@ -798,3 +798,69 @@
 | VA                                 | Vatican City                                                 | ꯚꯦꯇꯤꯀꯥꯟ ꯁꯤꯇꯤ               |
 | XK                                 | Kosovo                                                       | ꯀꯣꯁꯣꯚꯣ                     |
 
+## Territories (Asia)
+
+| Code                 | English                                                      | Value                               |
+| -------------------- | ------------------------------------------------------------ | ----------------------------------- |
+| ***Western Asia***   |                                                              |                                     |
+| AE                   | United Arab Emirates                                         | ꯌꯨꯅꯥꯢꯇꯦꯗ ꯑꯔꯥꯕ ꯏꯃꯤꯔꯥꯠꯁ               |
+| AM                   | Armenia                                                      | ꯑꯥꯔꯃꯦꯅꯤꯌꯥ                           |
+| AZ                   | Azerbaijan                                                   | ꯑꯖꯔꯕꯩꯖꯥꯟ                            |
+| BH                   | Bahrain                                                      | ꯕꯍꯔꯤꯟ                               |
+| CY                   | Cyprus                                                       | ꯁꯥꯢꯄ꯭ꯔꯁ                             |
+| GE                   | Georgia                                                      | ꯖꯣꯔꯖꯤꯌꯥ                             |
+| IL                   | Israel                                                       | ꯏꯖꯔꯦꯜ                               |
+| IQ                   | Iraq                                                         | ꯏꯔꯥꯛ                                |
+| JO                   | Jordan                                                       | ꯖꯣꯔꯗꯥꯟ                              |
+| KW                   | Kuwait                                                       | ꯀꯨꯋꯦꯠ                               |
+| LB                   | Lebanon                                                      | ꯂꯦꯕꯅꯣꯟ                              |
+| OM                   | Oman                                                         | ꯑꯣꯃꯥꯟ                               |
+| PS                   | Palestinian Territories (translation hint: Warning, see info panel on right.) | ꯄꯦꯂꯁꯇꯥꯏꯟꯒꯤ ꯂꯝꯗꯝꯁꯤꯡ                  |
+| PS-short             | Palestine (translation hint: Warning, see info panel on right.) | ꯄꯦꯂꯁꯇꯥꯏꯟ                            |
+| QA                   | Qatar                                                        | ꯀꯇꯔ                                 |
+| SA                   | Saudi Arabia                                                 | ꯁꯥꯑꯣꯗꯤ ꯑꯔꯥꯕꯤꯌꯥ                      |
+| SY                   | Syria                                                        | ꯁꯤꯔꯤꯌꯥ                              |
+| TF                   | French Southern Territories                                  | ꯈꯥ ꯊꯡꯕ ꯐ꯭ꯔꯥꯟꯁꯀꯤ ꯂꯝꯗꯝꯁꯤꯡ             |
+| TR                   | Turkey                                                       | ꯇꯔꯀꯤ                                |
+| YE                   | Yemen                                                        | ꯌꯦꯃꯦꯟ                               |
+| ***Central Asia***   |                                                              |                                     |
+| TM                   | Turkmenistan                                                 | ꯇꯔ꯭ꯀꯃꯦꯅꯤꯁꯇꯥꯟ                        |
+| TJ                   | Tajikistan                                                   | ꯇꯥꯖꯤꯀꯤꯁꯇꯥꯟ                          |
+| KG                   | Kyrgyzstan                                                   | ꯀꯤꯔꯒꯤꯖꯇꯥꯟ                           |
+| KZ                   | Kazakhstan                                                   | ꯀꯖꯥꯈꯁꯇꯥꯟ                            |
+| UZ                   | Uzbekistan                                                   | ꯎꯖꯕꯦꯀꯤꯁꯇꯥꯟ                          |
+| ***Eastern Asia***   |                                                              |                                     |
+| CN                   | China                                                        | ꯆꯥꯢꯅꯥ                               |
+| HK                   | Hong Kong SAR China (translation hint: Warning, see info panel on right.) | ꯍꯣꯡ ꯀꯣꯡ (ꯆꯥꯢꯅꯥꯒꯤ ꯇꯣꯉꯥꯟꯕ ꯂꯩꯉꯥꯛ ꯂꯝꯗꯝ) |
+| HK-short             | Hong Kong (translation hint: Warning, see info panel on right.) | ꯍꯣꯡ ꯀꯣꯡ                             |
+| JP                   | Japan                                                        | ꯖꯄꯥꯟ                                |
+| KP                   | North Korea                                                  | ꯑꯋꯥꯡ ꯀꯣꯔꯤꯌꯥ                         |
+| KR                   | South Korea                                                  | ꯈꯥ ꯀꯣꯔꯤꯌꯥ                           |
+| MN                   | Mongolia                                                     | ꯃꯣꯡꯒꯣꯂꯤꯌꯥ                           |
+| MO                   | Macau SAR China (translation hint: Warning, see info panel on right.) | ꯃꯀꯥꯑꯣ (ꯆꯥꯢꯅꯥꯒꯤ ꯇꯣꯉꯥꯟꯕ ꯂꯩꯉꯥꯛ ꯂꯝꯗꯝ)   |
+| MO-short             | Macau (translation hint: Warning, see info panel on right.)  | ꯃꯀꯥꯑꯣ                               |
+| TW                   | Taiwan                                                       | ꯇꯥꯢꯋꯥꯟ                              |
+| ***Southern Asia***  |                                                              |                                     |
+| AF                   | Afghanistan                                                  | ꯑꯐꯒꯥꯅꯤꯁꯇꯥꯟ                          |
+| BD                   | Bangladesh                                                   | ꯕꯡꯒ꯭ꯂꯥꯗꯦꯁ                           |
+| BT                   | Bhutan                                                       | ꯚꯨꯇꯥꯟ                               |
+| IN                   | India                                                        | ꯏꯟꯗꯤꯌꯥ                              |
+| IR                   | Iran                                                         | ꯏꯔꯥꯟ                                |
+| LK                   | Sri Lanka                                                    | ꯁ꯭ꯔꯤ ꯂꯟꯀꯥ                           |
+| MV                   | Maldives                                                     | ꯃꯥꯜꯗꯤꯚꯁ                             |
+| NP                   | Nepal                                                        | ꯅꯦꯄꯥꯜ                               |
+| PK                   | Pakistan                                                     | ꯄꯥꯀꯤꯁ꯭ꯇꯥꯟ                           |
+| ***Southeast Asia*** |                                                              |                                     |
+| BN                   | Brunei                                                       | ꯕ꯭ꯔꯨꯅꯩ                              |
+| ID                   | Indonesia                                                    | ꯏꯟꯗꯣꯅꯦꯁꯤꯌꯥ                          |
+| KH                   | Cambodia                                                     | ꯀꯝꯕꯣꯗꯤꯌꯥ                            |
+| LA                   | Laos                                                         | ꯂꯥꯑꯣꯁ                               |
+| MM                   | Myanmar (Burma) (translation hint: Warning, see info panel on right.) | ꯃ꯭ꯌꯥꯟꯃꯥꯔ (ꯕꯔꯃꯥ)                     |
+| MY                   | Malaysia                                                     | ꯃꯂꯦꯁꯤꯌꯥ                             |
+| PH                   | Philippines                                                  | ꯐꯤꯂꯤꯄꯤꯟꯁ                            |
+| SG                   | Singapore                                                    | ꯁꯤꯡꯒꯥꯄꯣꯔ                            |
+| TH                   | Thailand                                                     | ꯊꯥꯢꯂꯦꯅ꯭ꯗ                            |
+| TL                   | Timor-Leste (translation hint: Warning, see info panel on right.) | ꯇꯤꯃꯣꯔ-ꯂꯦꯁ꯭ꯇ                         |
+| TL-variant           | East Timor (translation hint: Warning, see info panel on right.) | ꯅꯣꯡꯄꯣꯛ ꯇꯤꯃꯣꯔ                        |
+| VN                   | Vietnam                                                      | ꯚꯤꯌꯠꯅꯥꯝ                             |
+
