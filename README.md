@@ -864,3 +864,47 @@
 | TL-variant           | East Timor (translation hint: Warning, see info panel on right.) | ꯅꯣꯡꯄꯣꯛ ꯇꯤꯃꯣꯔ                        |
 | VN                   | Vietnam                                                      | ꯚꯤꯌꯠꯅꯥꯝ                             |
 
+## Territories (Oceania)
+
+| Code                     | English                                                      | Value                        |
+| ------------------------ | ------------------------------------------------------------ | ---------------------------- |
+| ***Australasia***        |                                                              |                              |
+| AU                       | Australia                                                    | ꯑꯣꯁꯇ꯭ꯔꯦꯂꯤꯌꯥ                  |
+| CC                       | Cocos (Keeling) Islands                                      | ꯀꯣꯀꯣꯁ (ꯀꯤꯂꯤꯡ) ꯏꯊꯠꯁꯤꯡ         |
+| CX                       | Christmas Island                                             | ꯈ꯭ꯔꯤꯁ꯭ꯇꯃꯥꯁ ꯏꯊꯠ               |
+| HM                       | Heard & McDonald Islands                                     | ꯍꯔ꯭ꯗ ꯑꯃꯁꯨꯡ ꯃꯦꯛꯗꯣꯅꯥꯂ꯭ꯗ ꯏꯊꯠꯁꯤꯡ |
+| NF                       | Norfolk Island                                               | ꯅꯣꯔꯐꯣꯂ꯭ꯀ ꯏꯊꯠ                 |
+| NZ                       | New Zealand                                                  | ꯅ꯭ꯌꯨꯖꯤꯂꯦꯅ꯭ꯗ                  |
+| ***Melanesia***          |                                                              |                              |
+| FJ                       | Fiji                                                         | ꯐꯤꯖꯤ                         |
+| NC                       | New Caledonia                                                | ꯅ꯭ꯌꯨ ꯀꯂꯦꯗꯣꯅꯤꯌꯥ               |
+| PG                       | Papua New Guinea                                             | ꯄꯄꯨꯑꯥ ꯅ꯭ꯌꯨ ꯒꯤꯅꯤ              |
+| SB                       | Solomon Islands                                              | ꯁꯣꯂꯣꯃꯣꯟ ꯏꯊꯠꯁꯤꯡ               |
+| VU                       | Vanuatu                                                      | ꯕꯅꯨꯑꯥꯇꯨ                      |
+| ***Micronesian Region*** |                                                              |                              |
+| FM                       | Micronesia (translation hint: Warning, see info panel on right.) | ꯃꯥꯢꯀ꯭ꯔꯣꯅꯦꯁꯤꯌꯥ                |
+| GU                       | Guam                                                         | ꯒꯨꯑꯥꯝ                        |
+| KI                       | Kiribati                                                     | ꯀꯤꯔꯤꯕꯥꯇꯤ                     |
+| MH                       | Marshall Islands                                             | ꯃꯥꯔꯁꯜ ꯏꯊꯠꯁꯤꯡ                 |
+| MP                       | Northern Mariana Islands                                     | ꯑꯋꯥꯡ ꯊꯡꯕ ꯃꯥꯔꯤꯌꯥꯅꯥ ꯏꯊꯠꯁꯤꯡ     |
+| NR                       | Nauru                                                        | ꯅꯥꯎꯔꯨ                        |
+| PW                       | Palau                                                        | ꯄꯥꯂꯥꯎ                        |
+| UM                       | U.S. Outlying Islands                                        | ꯌꯨꯑꯦꯁꯀꯤ ꯃꯇꯥꯢꯗ ꯂꯩꯕ ꯏꯊꯠꯁꯤꯡ     |
+| ***Polynesia***          |                                                              |                              |
+| AS                       | American Samoa                                               | ꯑꯃꯦꯔꯤꯀꯥꯒꯤ ꯁꯃꯣꯑꯥ              |
+| CK                       | Cook Islands                                                 | ꯀꯨꯛ ꯏꯊꯠꯁꯤꯡ                   |
+| NU                       | Niue                                                         | ꯅꯤꯌꯨ                         |
+| PF                       | French Polynesia                                             | ꯐ꯭ꯔꯦꯟꯆ ꯄꯣꯂꯤꯅꯦꯁꯤꯌꯥ            |
+| PN                       | Pitcairn Islands                                             | ꯄꯤꯠꯀꯩꯔ꯭ꯅ ꯏꯊꯠꯁꯤꯡ              |
+| TK                       | Tokelau                                                      | ꯇꯣꯀꯦꯂꯥꯑꯣ                     |
+| TO                       | Tonga                                                        | ꯇꯣꯡꯒꯥ                        |
+| TV                       | Tuvalu                                                       | ꯇꯨꯚꯥꯂꯨ                       |
+| WF                       | Wallis & Futuna                                              | ꯋꯥꯂꯤꯁ ꯑꯃꯁꯨꯡ ꯐꯨꯇꯨꯅꯥ           |
+| WS                       | Samoa                                                        | ꯁꯥꯃꯣꯑꯥ                       |
+| ***Outlying Oceania***   |                                                              |                              |
+| AQ                       | Antarctica                                                   | ꯑꯦꯟꯇꯥꯔ꯭ꯀꯇꯤꯀꯥ                 |
+| AC                       | Ascension Island                                             | ꯑꯦꯁꯦꯟꯁꯟ ꯏꯊꯠ                  |
+| CP                       | Clipperton Island                                            | ꯀ꯭ꯂꯤꯞꯄꯔꯇꯟ ꯏꯊꯠ                |
+| DG                       | Diego Garcia                                                 | ꯗꯤꯑꯦꯒꯣ ꯒꯥꯔꯁꯤꯌꯥ               |
+| TA                       | Tristan da Cunha                                             | ꯇ꯭ꯔꯤꯁꯇꯥꯟ ꯗꯥ ꯀꯨꯅꯥ             |
+
