@@ -908,3 +908,91 @@
 | DG                       | Diego Garcia                                                 | ꯗꯤꯑꯦꯒꯣ ꯒꯥꯔꯁꯤꯌꯥ               |
 | TA                       | Tristan da Cunha                                             | ꯇ꯭ꯔꯤꯁꯇꯥꯟ ꯗꯥ ꯀꯨꯅꯥ             |
 
+## Keys
+
+| Code                     | English                                                      | Value                             |
+| ------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| ***Calendar***           |                                                              |                                   |
+| calendar                 | Calendar                                                     | ꯀꯦꯂꯦꯟꯗꯔ                           |
+| calendar-buddhist        | Buddhist Calendar                                            | ꯕꯧꯙ ꯀꯦꯂꯦꯟꯗꯔ                       |
+| calendar-chinese         | Chinese Calendar                                             | ꯆꯥꯢꯅꯤꯁ ꯀꯦꯂꯦꯟꯗꯔ                    |
+| calendar-dangi           | Dangi Calendar                                               | ꯗꯥꯡꯒꯤ ꯀꯦꯂꯦꯟꯗꯔ                     |
+| calendar-ethiopic        | Ethiopic Calendar                                            | ꯏꯊꯤꯌꯣꯄꯤꯛ ꯀꯦꯂꯦꯟꯗꯔ                  |
+| calendar-gregorian       | Gregorian Calendar                                           | ꯒ꯭ꯔꯦꯒ꯭ꯔꯣꯔꯤꯌꯥꯟ ꯀꯦꯂꯦꯟꯗꯔ             |
+| calendar-hebrew          | Hebrew Calendar                                              | ꯍꯦꯕ꯭ꯔꯤꯎ ꯀꯦꯂꯦꯟꯗꯔ                   |
+| calendar-indian          | Indian National Calendar                                     | ꯏꯟꯗꯤꯌꯥꯒꯤ ꯀꯦꯂꯦꯟꯗꯔ                  |
+| calendar-islamic         | Islamic Calendar                                             | ꯏꯁꯂꯥꯃꯤꯛ ꯀꯦꯂꯦꯟꯗꯔ                   |
+| calendar-iso8601         | ISO-8601 Calendar                                            | ISO-8601 ꯀꯦꯂꯦꯟꯗꯔ                  |
+| calendar-japanese        | Japanese Calendar                                            | ꯖꯄꯥꯅꯤꯁ ꯀꯦꯂꯦꯟꯗꯔ                    |
+| calendar-persian         | Persian Calendar                                             | ꯄꯔꯁꯤꯌꯥꯟ ꯀꯦꯂꯦꯟꯗꯔ                   |
+| calendar-roc             | Minguo Calendar (translation hint: also called "Republic of China Calendar", "Republican Calendar") | ꯆꯥꯢꯅꯥ ꯂꯩꯕꯥꯛꯀꯤ ꯀꯦꯂꯦꯟꯗꯔ             |
+| ***Collation***          |                                                              |                                   |
+| collation                | Sort Order                                                   | ꯁꯣꯔ꯭ꯇ ꯑꯣꯔꯗꯔ                       |
+| collation-ducet          | Default Unicode Sort Order                                   | ꯗꯤꯐꯥꯑꯣꯂ꯭ꯇ ꯌꯨꯅꯤꯀꯣꯗ ꯁꯣꯔ꯭ꯇ ꯑꯣꯔꯗꯔ     |
+| collation-search         | General-Purpose Search                                       | ꯖꯦꯅꯦꯔꯣꯜ ꯄꯔꯄꯁ ꯁꯔ꯭ꯆ                 |
+| collation-standard       | Standard Sort Order                                          | ꯁ꯭ꯇꯦꯟꯗꯔ꯭ꯗ ꯁꯣꯔ꯭ꯇ ꯑꯣꯔꯗꯔ             |
+| ***Currency***           |                                                              |                                   |
+| currency                 | Currency                                                     | ꯁꯣꯜ                               |
+| ***Currency Format***    |                                                              |                                   |
+| cf                       | Currency Format                                              | ꯁꯣꯜꯒꯤ ꯐꯣꯔꯃꯦꯠ                      |
+| cf-account               | Accounting Currency Format                                   | ꯑꯦꯀꯥꯑꯣꯟꯇꯤꯡ ꯁꯣꯜꯒꯤ ꯐꯣꯔꯃꯦꯠ           |
+| cf-standard              | Standard Currency Format                                     | ꯁ꯭ꯇꯦꯟꯗꯔ꯭ꯗ ꯁꯣꯜꯒꯤ ꯐꯣꯔꯃꯦꯠ            |
+| ***D0***                 |                                                              |                                   |
+| d0-fwidth                | To Fullwidth                                                 | ꯃꯔꯥꯛ ꯃꯄꯨꯡ                         |
+| d0-hwidth                | To Halfwidth                                                 | ꯃꯔꯥꯛ ꯇꯡꯈꯥꯢ                        |
+| ***Hour Cycle***         |                                                              |                                   |
+| hc                       | Hour Cycle (12 vs 24)                                        | ꯄꯨꯡꯗꯤ ꯁꯥꯢꯀꯜ                       |
+| hc-h11                   | 12 Hour System (0–11)                                        | ꯄꯨꯡ ꯱꯲ ꯒꯤ ꯆꯠꯅꯕꯤ                   |
+| hc-h12                   | 12 Hour System (1–12)                                        | ꯄꯨꯡ ꯱꯲ ꯒꯤ ꯆꯠꯅꯕꯤ                   |
+| hc-h23                   | 24 Hour System (0–23)                                        | ꯄꯨꯡ ꯲꯴ ꯒꯤ ꯆꯠꯅꯕꯤ                   |
+| hc-h24                   | 24 Hour System (1–24)                                        | ꯄꯨꯡ ꯲꯴ ꯒꯤ ꯆꯠꯅꯕꯤ                   |
+| ***Line Break***         |                                                              |                                   |
+| lb                       | Line Break Style                                             | ꯂꯥꯏꯟ ꯀꯥꯢꯕꯒꯤ ꯃꯑꯣꯡ                  |
+| lb-loose                 | Loose Line Break Style                                       | ꯀꯣꯝꯅ ꯂꯥꯏꯟ ꯀꯥꯢꯕꯒꯤ ꯃꯑꯣꯡ             |
+| lb-normal                | Normal Line Break Style                                      | ꯆꯨꯝꯅ ꯂꯥꯏꯟ ꯀꯥꯢꯕꯒꯤ ꯃꯑꯣꯡ             |
+| lb-strict                | Strict Line Break Style                                      | ꯆꯦꯛꯁꯤꯟꯅ ꯂꯥꯏꯟ ꯀꯥꯢꯕꯒꯤ ꯃꯑꯣꯡ          |
+| ***M0***                 |                                                              |                                   |
+| m0-bgn                   | US BGN Transliteration                                       | US BGN ꯃꯌꯦꯛ ꯑꯣꯟꯕ                  |
+| m0-ungegn                | UN GEGN Transliteration                                      | UN GEGN ꯃꯌꯦꯛ ꯑꯣꯟꯕ                 |
+| ***Measurement System*** |                                                              |                                   |
+| ms                       | Measurement System                                           | ꯈꯨꯖꯤꯡ ꯑꯣꯟꯕꯒꯤ ꯆꯠꯅꯕꯤ                |
+| ms-metric                | Metric System                                                | ꯃꯦꯇ꯭ꯔꯤꯛꯀꯤ ꯆꯠꯅꯕꯤ                   |
+| ms-uksystem              | Imperial Measurement System                                  | ꯏꯝꯄꯔꯤꯌꯜ ꯈꯨꯖꯤꯡ ꯑꯣꯟꯕꯒꯤ ꯆꯠꯅꯕꯤ        |
+| ms-ussystem              | US Measurement System                                        | ꯑꯃꯦꯔꯤꯀꯥꯒꯤ ꯈꯨꯖꯤꯡ ꯑꯣꯟꯕꯒꯤ ꯆꯠꯅꯕꯤ      |
+| ***Numbers***            |                                                              |                                   |
+| numbers                  | Numbers                                                      | ꯃꯁꯤꯡꯁꯤꯡ                           |
+| numbers-arab             | Arabic-Indic Digits                                          | ꯑꯔꯥꯕꯤꯛ-ꯏꯟꯗꯤꯛ ꯆꯩꯁꯤꯡꯁꯤꯡ             |
+| numbers-arabext          | Extended Arabic-Indic Digits                                 | ꯁꯥꯡꯗꯣꯛꯂꯕ ꯑꯔꯥꯕꯤꯛ-ꯏꯟꯗꯤꯛ ꯆꯩꯁꯤꯡꯁꯤꯡ    |
+| numbers-armn             | Armenian Numerals                                            | ꯑꯔꯃꯦꯅꯤꯌꯥꯟ ꯃꯁꯤꯡꯁꯤꯡ                 |
+| numbers-armnlow          | Armenian Lowercase Numerals                                  | ꯑꯔꯃꯦꯅꯤꯌꯥꯟ ꯂꯣꯑꯔꯀꯦꯁ ꯃꯁꯤꯡꯁꯤꯡ         |
+| numbers-beng             | Bangla Digits                                                | ꯕꯡꯒ꯭ꯂꯥ ꯆꯩꯁꯤꯡꯁꯤꯡ                   |
+| numbers-deva             | Devanagari Digits                                            | ꯗꯤꯕꯅꯥꯒꯤꯔꯤ ꯆꯩꯁꯤꯡꯁꯤꯡ                |
+| numbers-ethi             | Ethiopic Numerals                                            | ꯏꯊꯤꯌꯣꯄꯤꯛ ꯃꯁꯤꯡꯁꯤꯡ                  |
+| numbers-fullwide         | Full-Width Digits                                            | ꯃꯔꯥꯛ ꯃꯄꯨꯡ ꯆꯩꯁꯤꯡꯁꯤꯡ                |
+| numbers-geor             | Georgian Numerals                                            | ꯖꯣꯔꯖꯤꯌꯥꯟ ꯃꯁꯤꯡꯁꯤꯡ                  |
+| numbers-grek             | Greek Numerals                                               | ꯒ꯭ꯔꯤꯛ ꯃꯁꯤꯡꯁꯤꯡ                     |
+| numbers-greklow          | Greek Lowercase Numerals                                     | ꯒ꯭ꯔꯤꯛ ꯂꯣꯑꯔꯀꯦꯁ ꯃꯁꯤꯡꯁꯤꯡ             |
+| numbers-gujr             | Gujarati Digits                                              | ꯒꯨꯖꯔꯥꯇꯤ ꯆꯩꯁꯤꯡꯁꯤꯡ                  |
+| numbers-guru             | Gurmukhi Digits                                              | ꯒꯨꯔꯃꯨꯈꯤ ꯆꯩꯁꯤꯡꯁꯤꯡ                  |
+| numbers-hanidec          | Chinese Decimal Numerals                                     | ꯆꯥꯢꯅꯤꯁ ꯗꯦꯁꯤꯃꯦꯜ ꯃꯁꯤꯡꯁꯤꯡ            |
+| numbers-hans             | Simplified Chinese Numerals                                  | ꯂꯥꯢꯊꯣꯛꯂꯕ ꯆꯥꯢꯅꯤꯁ ꯃꯁꯤꯡꯁꯤꯡ           |
+| numbers-hansfin          | Simplified Chinese Financial Numerals                        | ꯂꯥꯢꯊꯣꯛꯂꯕ ꯆꯥꯢꯅꯤꯁ ꯁꯣꯜ ꯊꯨꯝꯒꯤ ꯃꯁꯤꯡꯁꯤꯡ |
+| numbers-hant             | Traditional Chinese Numerals                                 | ꯆꯥꯢꯅꯤꯁ ꯅꯥꯠꯀꯤ ꯃꯁꯤꯡꯁꯤꯡ              |
+| numbers-hantfin          | Traditional Chinese Financial Numerals                       | ꯆꯥꯢꯅꯤꯁ ꯅꯥꯠꯀꯤ ꯁꯦꯜ ꯊꯨꯝꯒꯤ ꯃꯁꯤꯡꯁꯤꯡ    |
+| numbers-hebr             | Hebrew Numerals                                              | ꯍꯦꯕ꯭ꯔꯤꯎ ꯃꯁꯤꯡꯁꯤꯡ                   |
+| numbers-jpan             | Japanese Numerals                                            | ꯖꯄꯥꯅꯤꯁ ꯃꯁꯤꯡꯁꯤꯡ                    |
+| numbers-jpanfin          | Japanese Financial Numerals                                  | ꯖꯄꯥꯅꯤꯁ ꯁꯦꯜ ꯊꯨꯝꯒꯤ ꯃꯁꯤꯡꯁꯤꯡ          |
+| numbers-khmr             | Khmer Digits                                                 | ꯈ꯭ꯃꯦꯔ ꯆꯩꯁꯤꯡꯁꯤꯡ                    |
+| numbers-knda             | Kannada Digits                                               | ꯀꯟꯅꯗ ꯆꯩꯁꯤꯡꯁꯤꯡ                     |
+| numbers-laoo             | Lao Digits                                                   | ꯂꯥꯑꯣ ꯆꯩꯁꯤꯡꯁꯤꯡ                     |
+| numbers-latn             | Western Digits                                               | ꯅꯣꯡꯆꯨꯞꯀꯤ ꯆꯩꯁꯤꯡꯁꯤꯡ                 |
+| numbers-mlym             | Malayalam Digits                                             | ꯃꯂꯌꯥꯂꯝ ꯆꯩꯁꯤꯡꯁꯤꯡ                   |
+| numbers-mymr             | Myanmar Digits                                               | ꯃ꯭ꯌꯥꯟꯃꯥꯔ ꯆꯩꯁꯤꯡꯁꯤꯡ                 |
+| numbers-orya             | Odia Digits                                                  | ꯑꯣꯔꯤꯌꯥ ꯆꯩꯁꯤꯡꯁꯤꯡ                   |
+| numbers-roman            | Roman Numerals                                               | ꯔꯣꯃꯥꯟ ꯃꯁꯤꯡꯁꯤꯡ                     |
+| numbers-romanlow         | Roman Lowercase Numerals                                     | ꯔꯣꯃꯥꯟ ꯂꯣꯑꯔꯀꯦꯁ ꯃꯁꯤꯡꯁꯤꯡ             |
+| numbers-taml             | Traditional Tamil Numerals                                   | ꯇꯥꯃꯤꯜ ꯅꯥꯠꯀꯤ ꯃꯁꯤꯡꯁꯤꯡ               |
+| numbers-tamldec          | Tamil Digits                                                 | ꯇꯥꯃꯤꯜ ꯆꯩꯁꯤꯡꯁꯤꯡ                    |
+| numbers-telu             | Telugu Digits                                                | ꯇꯦꯂꯨꯒꯨ ꯆꯩꯁꯤꯡꯁꯤꯡ                   |
+| numbers-thai             | Thai Digits                                                  | ꯊꯥꯢ ꯆꯩꯁꯤꯡꯁꯤꯡ                      |
+| numbers-tibt             | Tibetan Digits                                               | ꯇꯤꯕꯦꯇꯥꯟ ꯆꯩꯁꯤꯡꯁꯤꯡ                  |
