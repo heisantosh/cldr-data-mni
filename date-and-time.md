@@ -364,353 +364,377 @@
 
 ## Gregorian
 
-| Code                                                       | English                   | Value          |
-| ---------------------------------------------------------- | ------------------------- | -------------- |
-| ***Eras-Wide***                                            |                           |                |
-| 0                                                          | Before Christ             |                |
-| 0-variant                                                  | Before Common Era         |                |
-| 1                                                          | Anno Domini               |                |
-| 1-variant                                                  | Common Era                |                |
-| ***Eras - Abbreviated***                                   |                           |                |
-| 0                                                          | BC                        | BC             |
-| 0-variant                                                  | BCE                       | BCE            |
-| 1                                                          | AD                        | AD             |
-| 1-variant                                                  | CE                        | CE             |
-| ***Quarters - Wide - Formatting***                         |                           |                |
-| 1                                                          | 1st quarter               |                |
-| 2                                                          | 2nd quarter               |                |
-| 3                                                          | 3rd quarter               |                |
-| 4                                                          | 4th quarter               |                |
-| ***Quarters - Wide - Standalone***                         |                           |                |
-| 1                                                          | 1st quarter               |                |
-| 2                                                          | 2nd quarter               |                |
-| 3                                                          | 3rd quarter               |                |
-| 4                                                          | 4th quarter               |                |
-| ***Quarters - Abbreviated - Formatting***                  |                           |                |
-| 1                                                          | Q1                        | Q1             |
-| 2                                                          | Q2                        | Q2             |
-| 3                                                          | Q3                        | Q3             |
-| 4                                                          | Q4                        | Q4             |
-| ***Quarters - Abbreviated - Standalone***                  |                           |                |
-| 1                                                          | Q1                        | Q1             |
-| 2                                                          | Q2                        | Q2             |
-| 3                                                          | Q3                        | Q3             |
-| 4                                                          | Q4                        | Q4             |
-| ***Quarters - Narrow - Formatting***                       |                           |                |
-| 1                                                          | 1                         | 1              |
-| 2                                                          | 2                         | 2              |
-| 3                                                          | 3                         | 3              |
-| 4                                                          | 4                         | 4              |
-| ***Quarters - Narrow - Standalone***                       |                           |                |
-| 1                                                          | 1                         | 1              |
-| 2                                                          | 2                         | 2              |
-| 3                                                          | 3                         | 3              |
-| 4                                                          | 4                         | 4              |
-| ***Months - Wide - Formatting***                           |                           |                |
-| Jan                                                        | January                   | ꯖꯅꯋꯔꯤ          |
-| Feb                                                        | February                  | ꯐꯦꯕ꯭ꯔꯨꯋꯔꯤ      |
-| Mar                                                        | March                     | ꯃꯥꯔ꯭ꯆ          |
-| Apr                                                        | April                     | ꯑꯄ꯭ꯔꯤꯜ         |
-| May                                                        | May                       | ꯃꯦ             |
-| Jun                                                        | June                      | ꯖꯨꯟ            |
-| Jul                                                        | July                      | ꯖꯨꯂꯥꯢ          |
-| Aug                                                        | August                    | ꯑꯣꯒꯁ꯭ꯇ         |
-| Sep                                                        | September                 | ꯁꯦꯞꯇꯦꯝꯕꯔ       |
-| Oct                                                        | October                   | ꯑꯣꯛꯇꯣꯕꯔ        |
-| Nov                                                        | November                  | ꯅꯚꯦꯝꯕꯔ         |
-| Dec                                                        | December                  | ꯗꯤꯁꯦꯝꯕꯔ        |
-| ***Months - Wide - Standalone***                           |                           |                |
-| Jan                                                        | January                   | ꯖꯅꯋꯔꯤ          |
-| Feb                                                        | February                  | ꯐꯦꯕ꯭ꯔꯨꯋꯔꯤ      |
-| Mar                                                        | March                     | ꯃꯥꯔ꯭ꯆ          |
-| Apr                                                        | April                     | ꯑꯄ꯭ꯔꯤꯜ         |
-| May                                                        | May                       | ꯃꯦ             |
-| Jun                                                        | June                      | ꯖꯨꯟ            |
-| Jul                                                        | July                      | ꯖꯨꯂꯥꯢ          |
-| Aug                                                        | August                    | ꯑꯣꯒꯁ꯭ꯇ         |
-| Sep                                                        | September                 | ꯁꯦꯞꯇꯦꯝꯕꯔ       |
-| Oct                                                        | October                   | ꯑꯣꯛꯇꯣꯕꯔ        |
-| Nov                                                        | November                  | ꯅꯚꯦꯝꯕꯔ         |
-| Dec                                                        | December                  | ꯗꯤꯁꯦꯝꯕꯔ        |
-| ***Months - Abbreviated - Formatting***                    |                           |                |
-| Jan                                                        | Jan                       | ꯖꯅ             |
-| Feb                                                        | Feb                       | ꯐꯦꯕ            |
-| Mar                                                        | Mar                       | ꯃꯥꯔ            |
-| Apr                                                        | Apr                       | ꯑꯄ             |
-| May                                                        | May                       | ꯃꯦ             |
-| Jun                                                        | Jun                       | ꯖꯨꯟ            |
-| Jul                                                        | Jul                       | ꯖꯨꯂ            |
-| Aug                                                        | Aug                       | ꯑꯣꯒ            |
-| Sep                                                        | Sep                       | ꯁꯦꯞ            |
-| Oct                                                        | Oct                       | ꯑꯣꯛ            |
-| Nov                                                        | Nov                       | ꯅꯣꯚ            |
-| Dec                                                        | Dec                       | ꯗꯤꯁ            |
-| ***Months - Abbreviated - Standalone***                    |                           |                |
-| Jan                                                        | Jan                       | ꯖꯅ             |
-| Feb                                                        | Feb                       | ꯐꯦꯕ            |
-| Mar                                                        | Mar                       | ꯃꯥꯔ            |
-| Apr                                                        | Apr                       | ꯑꯄ             |
-| May                                                        | May                       | ꯃꯦ             |
-| Jun                                                        | Jun                       | ꯖꯨꯟ            |
-| Jul                                                        | Jul                       | ꯖꯨꯂ            |
-| Aug                                                        | Aug                       | ꯑꯣꯒ            |
-| Sep                                                        | Sep                       | ꯁꯦꯞ            |
-| Oct                                                        | Oct                       | ꯑꯣꯛ            |
-| Nov                                                        | Nov                       | ꯅꯣꯚ            |
-| Dec                                                        | Dec                       | ꯗꯤꯁ            |
-| ***Months - Narrow - Formatting***                         |                           |                |
-| Jan                                                        | J                         | ꯖ              |
-| Feb                                                        | F                         | ꯐ              |
-| Mar                                                        | M                         | ꯃ              |
-| Apr                                                        | A                         | ꯑ              |
-| May                                                        | M                         | ꯃ              |
-| Jun                                                        | J                         | ꯖ              |
-| Jul                                                        | J                         | ꯖ              |
-| Aug                                                        | A                         | ꯑ              |
-| Sep                                                        | S                         | ꯁ              |
-| Oct                                                        | O                         | ꯑꯣ             |
-| Nov                                                        | N                         | ꯅ              |
-| Dec                                                        | D                         | ꯗ              |
-| ***Months - Narrow - Standalone***                         |                           |                |
-| Jan                                                        | J                         | ꯖ              |
-| Feb                                                        | F                         | ꯐ              |
-| Mar                                                        | M                         | ꯃ              |
-| Apr                                                        | A                         | ꯑ              |
-| May                                                        | M                         | ꯃ              |
-| Jun                                                        | J                         | ꯖ              |
-| Jul                                                        | J                         | ꯖ              |
-| Aug                                                        | A                         | ꯑ              |
-| Sep                                                        | S                         | ꯁ              |
-| Oct                                                        | O                         | ꯑꯣ             |
-| Nov                                                        | N                         | ꯅ              |
-| Dec                                                        | D                         | ꯗ              |
-| ***Days - Wide - Formatting***                             |                           |                |
-| sun                                                        | Sunday                    | ꯅꯣꯡꯃꯥꯢꯖꯤꯡ      |
-| mon                                                        | Monday                    | ꯅꯤꯡꯊꯧꯀꯥꯕ       |
-| tue                                                        | Tuesday                   | ꯂꯩꯕꯥꯛꯄꯣꯛꯄ      |
-| wed                                                        | Wednesday                 | ꯌꯨꯝꯁꯀꯩꯁ        |
-| thu                                                        | Thursday                  | ꯁꯒꯣꯜꯁꯦꯜ        |
-| fri                                                        | Friday                    | ꯏꯔꯥꯢ           |
-| sat                                                        | Saturday                  | ꯊꯥꯡꯖ           |
-| ***Days - Wide - Standalone***                             |                           |                |
-| sun                                                        | Sunday                    | ꯅꯣꯡꯃꯥꯢꯖꯤꯡ      |
-| mon                                                        | Monday                    | ꯅꯤꯡꯊꯧꯀꯥꯕ       |
-| tue                                                        | Tuesday                   | ꯂꯩꯕꯥꯛꯄꯣꯛꯄ      |
-| wed                                                        | Wednesday                 | ꯌꯨꯝꯁꯀꯩꯁ        |
-| thu                                                        | Thursday                  | ꯁꯒꯣꯜꯁꯦꯜ        |
-| fri                                                        | Friday                    | ꯏꯔꯥꯢ           |
-| sat                                                        | Saturday                  | ꯊꯥꯡꯖ           |
-| ***Days - Abbreviated - Formatting***                      |                           |                |
-| sun                                                        | Sun                       | ꯅꯣꯡ            |
-| mon                                                        | Mon                       | ꯅꯤꯡ            |
-| tue                                                        | Tue                       | ꯂꯩꯕ            |
-| wed                                                        | Wed                       | ꯌꯨꯝ            |
-| thu                                                        | Thu                       | ꯁꯒꯣ            |
-| fri                                                        | Fri                       | ꯏꯔꯥ            |
-| sat                                                        | Sat                       | ꯊꯥꯡ            |
-| ***Days - Abbreviated - Standalone***                      |                           |                |
-| sun                                                        | Sun                       | ꯅꯣꯡ            |
-| mon                                                        | Mon                       | ꯅꯤꯡ            |
-| tue                                                        | Tue                       | ꯂꯩꯕ            |
-| wed                                                        | Wed                       | ꯌꯨꯝ            |
-| thu                                                        | Thu                       | ꯁꯒꯣ            |
-| fri                                                        | Fri                       | ꯏꯔꯥ            |
-| sat                                                        | Sat                       | ꯊꯥꯡ            |
-| ***Days - Short - Formatting***                            |                           |                |
-| sun                                                        | Su                        | ꯅꯣ             |
-| mon                                                        | Mo                        | ꯅꯤ             |
-| tue                                                        | Tu                        | ꯂꯩ             |
-| wed                                                        | We                        | ꯌꯨ             |
-| thu                                                        | Th                        | ꯁ              |
-| fri                                                        | Fr                        | ꯏ              |
-| sat                                                        | Sa                        | ꯊꯥ             |
-| ***Days - Short - Standalone***                            |                           |                |
-| sun                                                        | Su                        | ꯅꯣ             |
-| mon                                                        | Mo                        | ꯅꯤ             |
-| tue                                                        | Tu                        | ꯂꯩ             |
-| wed                                                        | We                        | ꯌꯨ             |
-| thu                                                        | Th                        | ꯁ              |
-| fri                                                        | Fr                        | ꯏ              |
-| sat                                                        | Sa                        | ꯊꯥ             |
-| ***Days - Narrow - Formatting***                           |                           |                |
-| sun                                                        | S                         | ꯅꯣ             |
-| mon                                                        | M                         | ꯅ              |
-| tue                                                        | T                         | ꯂꯩ             |
-| wed                                                        | W                         | ꯌꯨ             |
-| thu                                                        | T                         | ꯁ              |
-| fri                                                        | F                         | ꯏ              |
-| sat                                                        | S                         | ꯊ              |
-| ***Days - Narrow - Standalone***                           |                           |                |
-| sun                                                        | S                         | ꯅ              |
-| mon                                                        | M                         | ꯅ              |
-| tue                                                        | T                         | ꯂꯩ             |
-| wed                                                        | W                         | ꯌꯨ             |
-| thu                                                        | T                         | ꯁ              |
-| fri                                                        | F                         | ꯏ              |
-| sat                                                        | S                         | ꯊ              |
-| ***Day Periods - Wide - Formatting***                      |                           |                |
-| am                                                         | AM                        | AM             |
-| pm                                                         | PM                        | PM             |
-| midnight                                                   | midnight                  | ꯅꯣꯡꯌꯥꯢ         |
-| morning1                                                   | in the morning            | ꯑꯌꯨꯛ           |
-| afternoon1                                                 | in the afternoon          | ꯅꯨꯡꯊꯤꯜ         |
-| evening1                                                   | in the evening            | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ   |
-| night1                                                     | at night                  | ꯑꯍꯤꯡ           |
-| ***Day Periods - Wide - Standalone***                      |                           |                |
-| am                                                         | AM                        | AM             |
-| pm                                                         | PM                        | PM             |
-| midnight                                                   | midnight                  | ꯅꯣꯡꯌꯥꯢ         |
-| morning1                                                   | morning                   | ꯑꯌꯨꯛ           |
-| afternoon1                                                 | afternoon                 | ꯅꯨꯡꯊꯤꯜ         |
-| evening1                                                   | evening                   | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ   |
-| night1                                                     | night                     | ꯑꯍꯤꯡ           |
-| ***Day Periods - Abbreviated - Formatting***               |                           |                |
-| am                                                         | AM                        | AM             |
-| pm                                                         | PM                        | PM             |
-| midnight                                                   | midnight                  | ꯅꯣꯡꯌꯥꯢ         |
-| morning1                                                   | in the morning            | ꯑꯌꯨꯛ           |
-| afternoon1                                                 | in the afternoon          | ꯅꯨꯡꯊꯤꯜ         |
-| evening1                                                   | in the evening            | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ   |
-| night1                                                     | at night                  | ꯑꯍꯤꯡ           |
-| ***Day Periods - Abbreviated - Standalone***               |                           |                |
-| am                                                         | AM                        | AM             |
-| pm                                                         | PM                        | PM             |
-| midnight                                                   | midnight                  | ꯅꯣꯡꯌꯥꯢ         |
-| morning1                                                   | morning                   | ꯑꯌꯨꯛ           |
-| afternoon1                                                 | afternoon                 | ꯅꯨꯡꯊꯤꯜ         |
-| evening1                                                   | evening                   | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ   |
-| night1                                                     | night                     | ꯑꯍꯤꯡ           |
-| ***Day Periods - Narrow - Formatting***                    |                           |                |
-| am                                                         | a                         | a              |
-| pm                                                         | p                         | p              |
-| midnight                                                   | mi                        | ꯅꯣꯡꯌꯥꯢ         |
-| morning1                                                   | in the morning            | ꯑꯌꯨꯛ           |
-| afternoon1                                                 | in the afternoon          | ꯅꯨꯡꯊꯤꯜ         |
-| evening1                                                   | in the evening            | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ   |
-| night1                                                     | at night                  | ꯑꯍꯤꯡ           |
-| ***Day Periods - Narrow - Standalone***                    |                           |                |
-| am                                                         | AM                        | AM             |
-| pm                                                         | PM                        | PM             |
-| midnight                                                   | midnight                  | ꯅꯣꯡꯌꯥꯢ         |
-| morning1                                                   | morning                   | ꯑꯌꯨꯛ           |
-| afternoon1                                                 | afternoon                 | ꯅꯨꯡꯊꯤꯜ         |
-| evening1                                                   | evening                   | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ   |
-| night1                                                     | night                     | ꯑꯍꯤꯡ           |
-| ***Formats - Standard - Date Formats***                    |                           |                |
-| full                                                       | EEEE, MMMM d, y           | EEEE, d MMMM y |
-| long                                                       | MMMM d, y                 | d MMMM y       |
-| medium                                                     | MMM d, y                  | d MMM y        |
-| short                                                      | M/d/yy                    | d/M/yy         |
-| ***Formats - Standard - Time Formats***                    |                           |                |
-| full                                                       | h:mm:ss a zzzz            | h:mm:ss a zzzz |
-| long                                                       | h:mm:ss a z               | h:mm:ss a z    |
-| medium                                                     | h:mm:ss a                 | h:mm:ss a      |
-| short                                                      | h:mm a                    | h:mm a         |
-| ***Formats - Standard - Date & Time Combination Formats*** |                           |                |
-| full                                                       | {1} 'at' {0}              | {1} {0}        |
-| long                                                       | {1} 'at' {0}              | {1} {0}        |
-| medium                                                     | {1}, {0}                  | {1}, {0}       |
-| short                                                      | {1}, {0}                  | {1}, {0}       |
-| ***Formats - Flexible - Date Formats***                    |                           |                |
-| MMMMW-one                                                  | 'week' W 'of' MMMM        | MMMM ꯒꯤ ꯆꯌꯣꯜ W |
-| MMMMW-other                                                | 'week' W 'of' MMMM        | MMMM ꯒꯤ ꯆꯌꯣꯜ W |
-| yw-one                                                     | 'week' w 'of' Y           | Y ꯒꯤ ꯆꯋꯣꯜ w    |
-| yw-other                                                   | 'week' w 'of' Y           | Y ꯒꯤ ꯆꯋꯣꯜ w    |
-| d                                                          | d                         | d              |
-| E                                                          | ccc                       | ccc            |
-| Ed                                                         | d E                       | E d            |
-| Gy                                                         | y G                       | y G            |
-| GyMMM                                                      | MMM y G                   | MMM y G        |
-| GyMMMd                                                     | MMM d, y G                | MMM d, y G     |
-| GyMMMEd                                                    | E, MMM d, y G             | E, MMM d, y G  |
-| M                                                          | L                         | L              |
-| Md                                                         | M/d                       | d/M            |
-| MEd                                                        | E, M/d                    | E, d/M         |
-| MMdd                                                       |                           | dd/MM          |
-| MMM                                                        | LLL                       | LLL            |
-| MMMd                                                       | MMM d                     | MMM d          |
-| MMMEd                                                      | E, MMM d                  | E, MMM d       |
-| MMMMd                                                      | MMMM d                    | MMMM d         |
-| MMMMEd                                                     |                           | E, MMMM d      |
-| y                                                          | y                         | y              |
-| yM                                                         | M/y                       | M/y            |
-| yMd                                                        | M/d/y                     | d/M/y          |
-| yMEd                                                       | E, M/d/y                  | E, d/M/y       |
-| yMM                                                        |                           | MM/y           |
-| yMMdd                                                      |                           | dd/MM/y        |
-| yMMM                                                       | MMM y                     | MMM y          |
-| yMMMd                                                      | MMM d, y                  | MMM d, y       |
-| yMMMEd                                                     | E, MMM d, y               | E, MMM d, y    |
-| yMMMM                                                      | MMMM y                    | MMMM y         |
-| yQQQ                                                       | QQQ y                     | QQQ y          |
-| yQQQQ                                                      | QQQQ y                    | QQQQ y         |
-| ***Formats - Flexible - 12 Hour Time Formats***            |                           |                |
-| Ehm                                                        | E h:mm a                  | E h:mm a       |
-| Ehms                                                       | E h:mm:ss a               | E h:mm:ss a    |
-| h                                                          | h a                       | h a            |
-| hm                                                         | h:mm a                    | h:mm a         |
-| hms                                                        | h:mm:ss a                 | h:mm:ss a      |
-| hmsv                                                       | h:mm:ss a v               | h:mm:ss a v    |
-| hmv                                                        | h:mm a v                  | h:mm a v       |
-| ***Formats - Flexible - 24 Hour Time Formats***            |                           |                |
-| EHm                                                        | E HH:mm                   | E HH:mm        |
-| EHms                                                       | E HH:mm:ss                | E HH:mm:ss     |
-| H                                                          | HH                        | HH             |
-| Hm                                                         | HH:mm                     | HH:mm          |
-| Hms                                                        | HH:mm:ss                  | HH:mm:ss       |
-| Hmsv                                                       | HH:mm:ss v                | HH:mm:ss v     |
-| Hmv                                                        | HH:mm v                   | HH:mm v        |
-| ms                                                         | mm:ss                     | mm:ss          |
-| ***Formats - Flexible - Append***                          |                           |                |
-| Timezone                                                   | {0} {1}                   | {0} {1}        |
-| ***Formats - Intervals - Date Formats***                   |                           |                |
-| d/d                                                        | d – d                     | d – d          |
-| M/M                                                        | M – M                     |                |
-| Md/d                                                       | M/d – M/d                 |                |
-| Md/M                                                       | M/d – M/d                 |                |
-| MEd/d                                                      | E, M/d – E, M/d           |                |
-| MEd/M                                                      | E, M/d – E, M/d           |                |
-| MMM/M                                                      | MMM – MMM                 |                |
-| MMMd/d                                                     | MMM d – d                 |                |
-| MMMd/M                                                     | MMM d – MMM d             |                |
-| MMMEd/d                                                    | E, MMM d – E, MMM d       |                |
-| MMMEd/M                                                    | E, MMM d – E, MMM d       |                |
-| y/y                                                        | y – y                     |                |
-| yM/M                                                       | M/y – M/y                 |                |
-| yM/y                                                       | M/y – M/y                 |                |
-| yMd/d                                                      | M/d/y – M/d/y             |                |
-| yMd/M                                                      | M/d/y – M/d/y             |                |
-| yMd/y                                                      | M/d/y – M/d/y             |                |
-| yMEd/d                                                     | E, M/d/y – E, M/d/y       |                |
-| yMEd/M                                                     | E, M/d/y – E, M/d/y       |                |
-| yMEd/y                                                     | E, M/d/y – E, M/d/y       |                |
-| yMMM/M                                                     | MMM – MMM y               |                |
-| yMMM/y                                                     | MMM y – MMM y             |                |
-| yMMMd/d                                                    | MMM d – d, y              |                |
-| yMMMd/M                                                    | MMM d – MMM d, y          |                |
-| yMMMd/y                                                    | MMM d, y – MMM d, y       |                |
-| yMMMEd/d                                                   | E, MMM d – E, MMM d, y    |                |
-| yMMMEd/M                                                   | E, MMM d – E, MMM d, y    |                |
-| yMMMEd/y                                                   | E, MMM d, y – E, MMM d, y |                |
-| yMMMM/M                                                    | MMMM – MMMM y             |                |
-| yMMMM/y                                                    | MMMM y – MMMM y           |                |
-| ***Formats - Intervals - 12 Hour Time Formats***           |                           |                |
-| h/a                                                        | h a – h a                 |                |
-| h/h                                                        | h – h a                   |                |
-| hm/a                                                       | h:mm a – h:mm a           |                |
-| hm/h                                                       | h:mm – h:mm a             |                |
-| hm/m                                                       | h:mm – h:mm a             |                |
-| hmv/a                                                      | h:mm a – h:mm a v         |                |
-| hmv/h                                                      | h:mm – h:mm a v           |                |
-| hmv/m                                                      | h:mm – h:mm a v           |                |
-| hv/a                                                       | h a – h a v               |                |
-| hv/h                                                       | h – h a v                 |                |
-| ***Formats - Intervals - 24 Hour Time Formats***           |                           |                |
-| H/H                                                        | HH – HH                   |                |
-| Hm/H                                                       | HH:mm – HH:mm             |                |
-| Hm/m                                                       | HH:mm – HH:mm             |                |
-| Hmv/H                                                      | HH:mm – HH:mm v           |                |
-| Hmv/m                                                      | HH:mm – HH:mm v           |                |
-| Hv/H                                                       | HH – HH v                 |                |
-| ***Formats - Intervals - Fallback***                       |                           |                |
-| Fallback                                                   | {0} – {1}                 | {0} – {1}      |
+| Code                                                       | English                         | Value                           |
+| ---------------------------------------------------------- | ------------------------------- | ------------------------------- |
+| ***Eras-Wide***                                            |                                 |                                 |
+| 0                                                          | Before Christ                   |                                 |
+| 0-variant                                                  | Before Common Era               |                                 |
+| 1                                                          | Anno Domini                     |                                 |
+| 1-variant                                                  | Common Era                      |                                 |
+| ***Eras - Abbreviated***                                   |                                 |                                 |
+| 0                                                          | BC                              | BC                              |
+| 0-variant                                                  | BCE                             | BCE                             |
+| 1                                                          | AD                              | AD                              |
+| 1-variant                                                  | CE                              | CE                              |
+| ***Quarters - Wide - Formatting***                         |                                 |                                 |
+| 1                                                          | 1st quarter                     |                                 |
+| 2                                                          | 2nd quarter                     |                                 |
+| 3                                                          | 3rd quarter                     |                                 |
+| 4                                                          | 4th quarter                     |                                 |
+| ***Quarters - Wide - Standalone***                         |                                 |                                 |
+| 1                                                          | 1st quarter                     |                                 |
+| 2                                                          | 2nd quarter                     |                                 |
+| 3                                                          | 3rd quarter                     |                                 |
+| 4                                                          | 4th quarter                     |                                 |
+| ***Quarters - Abbreviated - Formatting***                  |                                 |                                 |
+| 1                                                          | Q1                              | Q1                              |
+| 2                                                          | Q2                              | Q2                              |
+| 3                                                          | Q3                              | Q3                              |
+| 4                                                          | Q4                              | Q4                              |
+| ***Quarters - Abbreviated - Standalone***                  |                                 |                                 |
+| 1                                                          | Q1                              | Q1                              |
+| 2                                                          | Q2                              | Q2                              |
+| 3                                                          | Q3                              | Q3                              |
+| 4                                                          | Q4                              | Q4                              |
+| ***Quarters - Narrow - Formatting***                       |                                 |                                 |
+| 1                                                          | 1                               | 1                               |
+| 2                                                          | 2                               | 2                               |
+| 3                                                          | 3                               | 3                               |
+| 4                                                          | 4                               | 4                               |
+| ***Quarters - Narrow - Standalone***                       |                                 |                                 |
+| 1                                                          | 1                               | 1                               |
+| 2                                                          | 2                               | 2                               |
+| 3                                                          | 3                               | 3                               |
+| 4                                                          | 4                               | 4                               |
+| ***Months - Wide - Formatting***                           |                                 |                                 |
+| Jan                                                        | January                         | ꯖꯅꯋꯔꯤ                           |
+| Feb                                                        | February                        | ꯐꯦꯕ꯭ꯔꯨꯋꯔꯤ                       |
+| Mar                                                        | March                           | ꯃꯥꯔ꯭ꯆ                           |
+| Apr                                                        | April                           | ꯑꯄ꯭ꯔꯤꯜ                          |
+| May                                                        | May                             | ꯃꯦ                              |
+| Jun                                                        | June                            | ꯖꯨꯟ                             |
+| Jul                                                        | July                            | ꯖꯨꯂꯥꯢ                           |
+| Aug                                                        | August                          | ꯑꯣꯒꯁ꯭ꯇ                          |
+| Sep                                                        | September                       | ꯁꯦꯞꯇꯦꯝꯕꯔ                        |
+| Oct                                                        | October                         | ꯑꯣꯛꯇꯣꯕꯔ                         |
+| Nov                                                        | November                        | ꯅꯚꯦꯝꯕꯔ                          |
+| Dec                                                        | December                        | ꯗꯤꯁꯦꯝꯕꯔ                         |
+| ***Months - Wide - Standalone***                           |                                 |                                 |
+| Jan                                                        | January                         | ꯖꯅꯋꯔꯤ                           |
+| Feb                                                        | February                        | ꯐꯦꯕ꯭ꯔꯨꯋꯔꯤ                       |
+| Mar                                                        | March                           | ꯃꯥꯔ꯭ꯆ                           |
+| Apr                                                        | April                           | ꯑꯄ꯭ꯔꯤꯜ                          |
+| May                                                        | May                             | ꯃꯦ                              |
+| Jun                                                        | June                            | ꯖꯨꯟ                             |
+| Jul                                                        | July                            | ꯖꯨꯂꯥꯢ                           |
+| Aug                                                        | August                          | ꯑꯣꯒꯁ꯭ꯇ                          |
+| Sep                                                        | September                       | ꯁꯦꯞꯇꯦꯝꯕꯔ                        |
+| Oct                                                        | October                         | ꯑꯣꯛꯇꯣꯕꯔ                         |
+| Nov                                                        | November                        | ꯅꯚꯦꯝꯕꯔ                          |
+| Dec                                                        | December                        | ꯗꯤꯁꯦꯝꯕꯔ                         |
+| ***Months - Abbreviated - Formatting***                    |                                 |                                 |
+| Jan                                                        | Jan                             | ꯖꯅ                              |
+| Feb                                                        | Feb                             | ꯐꯦꯕ                             |
+| Mar                                                        | Mar                             | ꯃꯥꯔ                             |
+| Apr                                                        | Apr                             | ꯑꯄ                              |
+| May                                                        | May                             | ꯃꯦ                              |
+| Jun                                                        | Jun                             | ꯖꯨꯟ                             |
+| Jul                                                        | Jul                             | ꯖꯨꯂ                             |
+| Aug                                                        | Aug                             | ꯑꯣꯒ                             |
+| Sep                                                        | Sep                             | ꯁꯦꯞ                             |
+| Oct                                                        | Oct                             | ꯑꯣꯛ                             |
+| Nov                                                        | Nov                             | ꯅꯣꯚ                             |
+| Dec                                                        | Dec                             | ꯗꯤꯁ                             |
+| ***Months - Abbreviated - Standalone***                    |                                 |                                 |
+| Jan                                                        | Jan                             | ꯖꯅ                              |
+| Feb                                                        | Feb                             | ꯐꯦꯕ                             |
+| Mar                                                        | Mar                             | ꯃꯥꯔ                             |
+| Apr                                                        | Apr                             | ꯑꯄ                              |
+| May                                                        | May                             | ꯃꯦ                              |
+| Jun                                                        | Jun                             | ꯖꯨꯟ                             |
+| Jul                                                        | Jul                             | ꯖꯨꯂ                             |
+| Aug                                                        | Aug                             | ꯑꯣꯒ                             |
+| Sep                                                        | Sep                             | ꯁꯦꯞ                             |
+| Oct                                                        | Oct                             | ꯑꯣꯛ                             |
+| Nov                                                        | Nov                             | ꯅꯣꯚ                             |
+| Dec                                                        | Dec                             | ꯗꯤꯁ                             |
+| ***Months - Narrow - Formatting***                         |                                 |                                 |
+| Jan                                                        | J                               | ꯖ                               |
+| Feb                                                        | F                               | ꯐ                               |
+| Mar                                                        | M                               | ꯃ                               |
+| Apr                                                        | A                               | ꯑ                               |
+| May                                                        | M                               | ꯃ                               |
+| Jun                                                        | J                               | ꯖ                               |
+| Jul                                                        | J                               | ꯖ                               |
+| Aug                                                        | A                               | ꯑ                               |
+| Sep                                                        | S                               | ꯁ                               |
+| Oct                                                        | O                               | ꯑꯣ                              |
+| Nov                                                        | N                               | ꯅ                               |
+| Dec                                                        | D                               | ꯗ                               |
+| ***Months - Narrow - Standalone***                         |                                 |                                 |
+| Jan                                                        | J                               | ꯖ                               |
+| Feb                                                        | F                               | ꯐ                               |
+| Mar                                                        | M                               | ꯃ                               |
+| Apr                                                        | A                               | ꯑ                               |
+| May                                                        | M                               | ꯃ                               |
+| Jun                                                        | J                               | ꯖ                               |
+| Jul                                                        | J                               | ꯖ                               |
+| Aug                                                        | A                               | ꯑ                               |
+| Sep                                                        | S                               | ꯁ                               |
+| Oct                                                        | O                               | ꯑꯣ                              |
+| Nov                                                        | N                               | ꯅ                               |
+| Dec                                                        | D                               | ꯗ                               |
+| ***Days - Wide - Formatting***                             |                                 |                                 |
+| sun                                                        | Sunday                          | ꯅꯣꯡꯃꯥꯢꯖꯤꯡ                       |
+| mon                                                        | Monday                          | ꯅꯤꯡꯊꯧꯀꯥꯕ                        |
+| tue                                                        | Tuesday                         | ꯂꯩꯕꯥꯛꯄꯣꯛꯄ                       |
+| wed                                                        | Wednesday                       | ꯌꯨꯝꯁꯀꯩꯁ                         |
+| thu                                                        | Thursday                        | ꯁꯒꯣꯜꯁꯦꯜ                         |
+| fri                                                        | Friday                          | ꯏꯔꯥꯢ                            |
+| sat                                                        | Saturday                        | ꯊꯥꯡꯖ                            |
+| ***Days - Wide - Standalone***                             |                                 |                                 |
+| sun                                                        | Sunday                          | ꯅꯣꯡꯃꯥꯢꯖꯤꯡ                       |
+| mon                                                        | Monday                          | ꯅꯤꯡꯊꯧꯀꯥꯕ                        |
+| tue                                                        | Tuesday                         | ꯂꯩꯕꯥꯛꯄꯣꯛꯄ                       |
+| wed                                                        | Wednesday                       | ꯌꯨꯝꯁꯀꯩꯁ                         |
+| thu                                                        | Thursday                        | ꯁꯒꯣꯜꯁꯦꯜ                         |
+| fri                                                        | Friday                          | ꯏꯔꯥꯢ                            |
+| sat                                                        | Saturday                        | ꯊꯥꯡꯖ                            |
+| ***Days - Abbreviated - Formatting***                      |                                 |                                 |
+| sun                                                        | Sun                             | ꯅꯣꯡ                             |
+| mon                                                        | Mon                             | ꯅꯤꯡ                             |
+| tue                                                        | Tue                             | ꯂꯩꯕ                             |
+| wed                                                        | Wed                             | ꯌꯨꯝ                             |
+| thu                                                        | Thu                             | ꯁꯒꯣ                             |
+| fri                                                        | Fri                             | ꯏꯔꯥ                             |
+| sat                                                        | Sat                             | ꯊꯥꯡ                             |
+| ***Days - Abbreviated - Standalone***                      |                                 |                                 |
+| sun                                                        | Sun                             | ꯅꯣꯡ                             |
+| mon                                                        | Mon                             | ꯅꯤꯡ                             |
+| tue                                                        | Tue                             | ꯂꯩꯕ                             |
+| wed                                                        | Wed                             | ꯌꯨꯝ                             |
+| thu                                                        | Thu                             | ꯁꯒꯣ                             |
+| fri                                                        | Fri                             | ꯏꯔꯥ                             |
+| sat                                                        | Sat                             | ꯊꯥꯡ                             |
+| ***Days - Short - Formatting***                            |                                 |                                 |
+| sun                                                        | Su                              | ꯅꯣ                              |
+| mon                                                        | Mo                              | ꯅꯤ                              |
+| tue                                                        | Tu                              | ꯂꯩ                              |
+| wed                                                        | We                              | ꯌꯨ                              |
+| thu                                                        | Th                              | ꯁ                               |
+| fri                                                        | Fr                              | ꯏ                               |
+| sat                                                        | Sa                              | ꯊꯥ                              |
+| ***Days - Short - Standalone***                            |                                 |                                 |
+| sun                                                        | Su                              | ꯅꯣ                              |
+| mon                                                        | Mo                              | ꯅꯤ                              |
+| tue                                                        | Tu                              | ꯂꯩ                              |
+| wed                                                        | We                              | ꯌꯨ                              |
+| thu                                                        | Th                              | ꯁ                               |
+| fri                                                        | Fr                              | ꯏ                               |
+| sat                                                        | Sa                              | ꯊꯥ                              |
+| ***Days - Narrow - Formatting***                           |                                 |                                 |
+| sun                                                        | S                               | ꯅꯣ                              |
+| mon                                                        | M                               | ꯅ                               |
+| tue                                                        | T                               | ꯂꯩ                              |
+| wed                                                        | W                               | ꯌꯨ                              |
+| thu                                                        | T                               | ꯁ                               |
+| fri                                                        | F                               | ꯏ                               |
+| sat                                                        | S                               | ꯊ                               |
+| ***Days - Narrow - Standalone***                           |                                 |                                 |
+| sun                                                        | S                               | ꯅ                               |
+| mon                                                        | M                               | ꯅ                               |
+| tue                                                        | T                               | ꯂꯩ                              |
+| wed                                                        | W                               | ꯌꯨ                              |
+| thu                                                        | T                               | ꯁ                               |
+| fri                                                        | F                               | ꯏ                               |
+| sat                                                        | S                               | ꯊ                               |
+| ***Day Periods - Wide - Formatting***                      |                                 |                                 |
+| am                                                         | AM                              | AM                              |
+| pm                                                         | PM                              | PM                              |
+| midnight                                                   | midnight                        | ꯅꯣꯡꯌꯥꯢ                          |
+| morning1                                                   | in the morning                  | ꯑꯌꯨꯛ                            |
+| afternoon1                                                 | in the afternoon                | ꯅꯨꯡꯊꯤꯜ                          |
+| evening1                                                   | in the evening                  | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ                    |
+| night1                                                     | at night                        | ꯑꯍꯤꯡ                            |
+| ***Day Periods - Wide - Standalone***                      |                                 |                                 |
+| am                                                         | AM                              | AM                              |
+| pm                                                         | PM                              | PM                              |
+| midnight                                                   | midnight                        | ꯅꯣꯡꯌꯥꯢ                          |
+| morning1                                                   | morning                         | ꯑꯌꯨꯛ                            |
+| afternoon1                                                 | afternoon                       | ꯅꯨꯡꯊꯤꯜ                          |
+| evening1                                                   | evening                         | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ                    |
+| night1                                                     | night                           | ꯑꯍꯤꯡ                            |
+| ***Day Periods - Abbreviated - Formatting***               |                                 |                                 |
+| am                                                         | AM                              | AM                              |
+| pm                                                         | PM                              | PM                              |
+| midnight                                                   | midnight                        | ꯅꯣꯡꯌꯥꯢ                          |
+| morning1                                                   | in the morning                  | ꯑꯌꯨꯛ                            |
+| afternoon1                                                 | in the afternoon                | ꯅꯨꯡꯊꯤꯜ                          |
+| evening1                                                   | in the evening                  | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ                    |
+| night1                                                     | at night                        | ꯑꯍꯤꯡ                            |
+| ***Day Periods - Abbreviated - Standalone***               |                                 |                                 |
+| am                                                         | AM                              | AM                              |
+| pm                                                         | PM                              | PM                              |
+| midnight                                                   | midnight                        | ꯅꯣꯡꯌꯥꯢ                          |
+| morning1                                                   | morning                         | ꯑꯌꯨꯛ                            |
+| afternoon1                                                 | afternoon                       | ꯅꯨꯡꯊꯤꯜ                          |
+| evening1                                                   | evening                         | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ                    |
+| night1                                                     | night                           | ꯑꯍꯤꯡ                            |
+| ***Day Periods - Narrow - Formatting***                    |                                 |                                 |
+| am                                                         | a                               | a                               |
+| pm                                                         | p                               | p                               |
+| midnight                                                   | mi                              | ꯅꯣꯡꯌꯥꯢ                          |
+| morning1                                                   | in the morning                  | ꯑꯌꯨꯛ                            |
+| afternoon1                                                 | in the afternoon                | ꯅꯨꯡꯊꯤꯜ                          |
+| evening1                                                   | in the evening                  | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ                    |
+| night1                                                     | at night                        | ꯑꯍꯤꯡ                            |
+| ***Day Periods - Narrow - Standalone***                    |                                 |                                 |
+| am                                                         | AM                              | AM                              |
+| pm                                                         | PM                              | PM                              |
+| midnight                                                   | midnight                        | ꯅꯣꯡꯌꯥꯢ                          |
+| morning1                                                   | morning                         | ꯑꯌꯨꯛ                            |
+| afternoon1                                                 | afternoon                       | ꯅꯨꯡꯊꯤꯜ                          |
+| evening1                                                   | evening                         | ꯅꯨꯃꯤꯗꯥꯡꯋꯥꯢꯔꯝ                    |
+| night1                                                     | night                           | ꯑꯍꯤꯡ                            |
+| ***Formats - Standard - Date Formats***                    |                                 |                                 |
+| full                                                       | EEEE, MMMM d, y                 | EEEE, d MMMM y                  |
+| long                                                       | MMMM d, y                       | d MMMM y                        |
+| medium                                                     | MMM d, y                        | d MMM y                         |
+| short                                                      | M/d/yy                          | d/M/yy                          |
+| ***Formats - Standard - Time Formats***                    |                                 |                                 |
+| full                                                       | h:mm:ss a zzzz                  | h:mm:ss a zzzz                  |
+| long                                                       | h:mm:ss a z                     | h:mm:ss a z                     |
+| medium                                                     | h:mm:ss a                       | h:mm:ss a                       |
+| short                                                      | h:mm a                          | h:mm a                          |
+| ***Formats - Standard - Date & Time Combination Formats*** |                                 |                                 |
+| full                                                       | {1} 'at' {0}                    | {1} {0}                         |
+| long                                                       | {1} 'at' {0}                    | {1} {0}                         |
+| medium                                                     | {1}, {0}                        | {1}, {0}                        |
+| short                                                      | {1}, {0}                        | {1}, {0}                        |
+| ***Formats - Flexible - Date Formats***                    |                                 |                                 |
+| MMMMW-one                                                  | 'week' W 'of' MMMM              | MMMM ꯒꯤ ꯆꯌꯣꯜ W                  |
+| MMMMW-other                                                | 'week' W 'of' MMMM              | MMMM ꯒꯤ ꯆꯌꯣꯜ W                  |
+| yw-one                                                     | 'week' w 'of' Y                 | Y ꯒꯤ ꯆꯋꯣꯜ w                     |
+| yw-other                                                   | 'week' w 'of' Y                 | Y ꯒꯤ ꯆꯋꯣꯜ w                     |
+| d                                                          | d                               | d                               |
+| E                                                          | ccc                             | ccc                             |
+| Ed                                                         | d E                             | E d                             |
+| Gy                                                         | y G                             | y G                             |
+| GyMMM                                                      | MMM y G                         | MMM y G                         |
+| GyMMMd                                                     | MMM d, y G                      | MMM d, y G                      |
+| GyMMMEd                                                    | E, MMM d, y G                   | E, MMM d, y G                   |
+| M                                                          | L                               | L                               |
+| Md                                                         | M/d                             | d/M                             |
+| MEd                                                        | E, M/d                          | E, d/M                          |
+| MMdd                                                       |                                 | dd/MM                           |
+| MMM                                                        | LLL                             | LLL                             |
+| MMMd                                                       | MMM d                           | MMM d                           |
+| MMMEd                                                      | E, MMM d                        | E, MMM d                        |
+| MMMMd                                                      | MMMM d                          | MMMM d                          |
+| MMMMEd                                                     |                                 | E, MMMM d                       |
+| y                                                          | y                               | y                               |
+| yM                                                         | M/y                             | M/y                             |
+| yMd                                                        | M/d/y                           | d/M/y                           |
+| yMEd                                                       | E, M/d/y                        | E, d/M/y                        |
+| yMM                                                        |                                 | MM/y                            |
+| yMMdd                                                      |                                 | dd/MM/y                         |
+| yMMM                                                       | MMM y                           | MMM y                           |
+| yMMMd                                                      | MMM d, y                        | MMM d, y                        |
+| yMMMEd                                                     | E, MMM d, y                     | E, MMM d, y                     |
+| yMMMM                                                      | MMMM y                          | MMMM y                          |
+| yQQQ                                                       | QQQ y                           | QQQ y                           |
+| yQQQQ                                                      | QQQQ y                          | QQQQ y                          |
+| ***Formats - Flexible - 12 Hour Time Formats***            |                                 |                                 |
+| Ehm                                                        | E h:mm a                        | E h:mm a                        |
+| Ehms                                                       | E h:mm:ss a                     | E h:mm:ss a                     |
+| h                                                          | h a                             | h a                             |
+| hm                                                         | h:mm a                          | h:mm a                          |
+| hms                                                        | h:mm:ss a                       | h:mm:ss a                       |
+| hmsv                                                       | h:mm:ss a v                     | h:mm:ss a v                     |
+| hmv                                                        | h:mm a v                        | h:mm a v                        |
+| ***Formats - Flexible - 24 Hour Time Formats***            |                                 |                                 |
+| EHm                                                        | E HH:mm                         | E HH:mm                         |
+| EHms                                                       | E HH:mm:ss                      | E HH:mm:ss                      |
+| H                                                          | HH                              | HH                              |
+| Hm                                                         | HH:mm                           | HH:mm                           |
+| Hms                                                        | HH:mm:ss                        | HH:mm:ss                        |
+| Hmsv                                                       | HH:mm:ss v                      | HH:mm:ss v                      |
+| Hmv                                                        | HH:mm v                         | HH:mm v                         |
+| ms                                                         | mm:ss                           | mm:ss                           |
+| ***Formats - Flexible - Append***                          |                                 |                                 |
+| Timezone                                                   | {0} {1}                         | {0} {1}                         |
+| ***Formats - Intervals - Date Formats***                   |                                 |                                 |
+| d/d                                                        | d – d                           | d – d                           |
+| Gy/G                                                       | y G – y G                       | y G – y G                       |
+| Gy/y                                                       | y – y G                         | y – y G                         |
+| GyM/G                                                      | M/y GGGGG – M/y GGGGG           | M/y GGGGG – M/y GGGGG           |
+| GyM/M                                                      | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| GyM/y                                                      | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| GyMd/d                                                     | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| GyMd/G                                                     | M/d/y GGGGG – M/d/y GGGGG       | d/M/y GGGGG – d/M/y GGGGG       |
+| GyMd/M                                                     | M/d/y – M/d/y GGGGG             | d/M/y - d/M/y GGGGG             |
+| GyMd/y                                                     | M/d/y – M/d/y GGGGG             | d/M/y - d/M/y GGGGG             |
+| GyMEd/d                                                    | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| GyMEd/G                                                    | E, M/d/y GGGGG – E, M/d/y GGGGG | E, d/M/y GGGGG – E, d/M/y GGGGG |
+| GyMEd/M                                                    | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| GyMEd/y                                                    | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| GyMMM/G                                                    | MMM y G – MMM y G               | MMM y G – MMM y G               |
+| GyMMM/M                                                    | MMM – MMM y G                   | MMM – MMM y G                   |
+| GyMMM/y                                                    | MMM y – MMM y G                 | MMM y – MMM y G                 |
+| GyMMMd/d                                                   | MMM d – d, y G                  | MMM d – d, y G                  |
+| GyMMMd/G                                                   | MMM d, y G – MMM d, y G         | MMM d, y G – MMM d, y G         |
+| GyMMMd/M                                                   | MMM d – MMM d, y G              | MMM d – MMM d, y G              |
+| GyMMMd/y                                                   | MMM d, y – MMM d, y G           | MMM d, y – MMM d, y G           |
+| GyMMMEd/d                                                  | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| GyMMMEd/G                                                  | E, MMM d, y G – E, MMM d, y G   | E, MMM d, y G – E, MMM d, y G   |
+| GyMMMEd/M                                                  | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| GyMMMEd/y                                                  | E, MMM d, y – E, MMM d, y G     | E, MMM d, y – E, MMM d, y G     |
+| M/M                                                        | M – M                           | M – M                           |
+| Md/d                                                       | M/d – M/d                       | d/M – d/M                       |
+| Md/M                                                       | M/d – M/d                       | d/M – d/M                       |
+| MEd/d                                                      | E, M/d – E, M/d                 | E, d/M – E, d/M                 |
+| MEd/M                                                      | E, M/d – E, M/d                 | E, d/M – E, d/M                 |
+| MMM/M                                                      | MMM – MMM                       | MMM – MMM                       |
+| MMMd/d                                                     | MMM d – d                       | MMM d – d                       |
+| MMMd/M                                                     | MMM d – MMM d                   | MMM d – MMM d                   |
+| MMMEd/d                                                    | E, MMM d – E, MMM d             | E, MMM d – E, MMM d             |
+| MMMEd/M                                                    | E, MMM d – E, MMM d             | E, MMM d – E, MMM d             |
+| y/y                                                        | y – y                           | y – y                           |
+| yM/M                                                       | M/y – M/y                       | M/y – M/y                       |
+| yM/y                                                       | M/y – M/y                       | M/y – M/y                       |
+| yMd/d                                                      | M/d/y – M/d/y                   | d/M/y – d/M/y                   |
+| yMd/M                                                      | M/d/y – M/d/y                   | d/M/y – d/M/y                   |
+| yMd/y                                                      | M/d/y – M/d/y                   | d/M/y – d/M/y                   |
+| yMEd/d                                                     | E, M/d/y – E, M/d/y             | E, d/M/y – E, d/M/y             |
+| yMEd/M                                                     | E, M/d/y – E, M/d/y             | E, d/M/y – E, d/M/y             |
+| yMEd/y                                                     | E, M/d/y – E, M/d/y             | E, d/M/y – E, d/M/y             |
+| yMMM/M                                                     | MMM – MMM y                     | MMM – MMM y                     |
+| yMMM/y                                                     | MMM y – MMM y                   | MMM y – MMM y                   |
+| yMMMd/d                                                    | MMM d – d, y                    | MMM d – d, y                    |
+| yMMMd/M                                                    | MMM d – MMM d, y                | MMM d – MMM d, y                |
+| yMMMd/y                                                    | MMM d, y – MMM d, y             | MMM d, y – MMM d, y             |
+| yMMMEd/d                                                   | E, MMM d – E, MMM d, y          | E, MMM d – E, MMM d, y          |
+| yMMMEd/M                                                   | E, MMM d – E, MMM d, y          | E, MMM d – E, MMM d, y          |
+| yMMMEd/y                                                   | E, MMM d, y – E, MMM d, y       | E, MMM d, y – E, MMM d, y       |
+| yMMMM/M                                                    | MMMM – MMMM y                   | MMMM – MMMM y                   |
+| yMMMM/y                                                    | MMMM y – MMMM y                 | MMMM y – MMMM y                 |
+| ***Formats - Intervals - 12 Hour Time Formats***           |                                 |                                 |
+| h/a                                                        | h a – h a                       | h a – h a                       |
+| h/h                                                        | h – h a                         | h – h a                         |
+| hm/a                                                       | h:mm a – h:mm a                 | h:mm a – h:mm a                 |
+| hm/h                                                       | h:mm – h:mm a                   | h:mm – h:mm a                   |
+| hm/m                                                       | h:mm – h:mm a                   | h:mm – h:mm a                   |
+| hmv/a                                                      | h:mm a – h:mm a v               | h:mm a – h:mm a v               |
+| hmv/h                                                      | h:mm – h:mm a v                 | h:mm – h:mm a v                 |
+| hmv/m                                                      | h:mm – h:mm a v                 | h:mm – h:mm a v                 |
+| hv/a                                                       | h a – h a v                     | h a – h a v                     |
+| hv/h                                                       | h – h a v                       | h – h a v                       |
+| ***Formats - Intervals - 24 Hour Time Formats***           |                                 |                                 |
+| H/H                                                        | HH – HH                         | HH – HH                         |
+| Hm/H                                                       | HH:mm – HH:mm                   | HH:mm – HH:mm                   |
+| Hm/m                                                       | HH:mm – HH:mm                   | HH:mm – HH:mm                   |
+| Hmv/H                                                      | HH:mm – HH:mm v                 | HH:mm – HH:mm v                 |
+| Hmv/m                                                      | HH:mm – HH:mm v                 | HH:mm – HH:mm v                 |
+| Hv/H                                                       | HH – HH v                       | HH – HH v                       |
+| ***Formats - Intervals - Fallback***                       |                                 |                                 |
+| Fallback                                                   | {0} – {1}                       | {0} – {1}                       |
