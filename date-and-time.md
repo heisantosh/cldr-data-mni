@@ -738,3 +738,257 @@
 | Hv/H                                                       | HH – HH v                       | HH – HH v                       |
 | ***Formats - Intervals - Fallback***                       |                                 |                                 |
 | Fallback                                                   | {0} – {1}                       | {0} – {1}                       |
+
+## Generic
+
+| Code                                                       | English                         | Value                           |
+| ---------------------------------------------------------- | ------------------------------- | ------------------------------- |
+| ***Formats - Standard - Date Formats***                    |                                 |                                 |
+| full                                                       | EEEE, MMMM d, y G               | EEEE, MMMM d, y G               |
+| long                                                       | MMMM d, y G                     | MMMM d, y G                     |
+| medium                                                     | MMM d, y G                      | MMM d, y G                      |
+| short                                                      | M/d/y GGGGG                     | d/M/y GGGGG                     |
+| ***Formats - Standard - Date & Time Combination Formats*** |                                 |                                 |
+| full                                                       | {1} 'at' {0}                    | {1} {0}                         |
+| long                                                       | {1} 'at' {0}                    | {1} {0}                         |
+| medium                                                     | {1}, {0}                        | {1}, {0}                        |
+| short                                                      | {1}, {0}                        | {1}, {0}                        |
+| ***Formats - Flexible - Date Formats***                    |                                 |                                 |
+| d                                                          | d                               | d                               |
+| E                                                          | ccc                             | ccc                             |
+| Ed                                                         | d E                             | dE                              |
+| Gy                                                         | y G                             | y G                             |
+| GyMMM                                                      | MMM y G                         | MMM y G                         |
+| GyMMMd                                                     | MMM d, y G                      | MMM d, y G                      |
+| GyMMMEd                                                    | E, MMM d, y G                   | E, MMM d, y G                   |
+| M                                                          | L                               | L                               |
+| Md                                                         | M/d                             | d/M                             |
+| MEd                                                        | E, M/d                          | E, d/M                          |
+| MMdd                                                       |                                 | dd-MM                           |
+| MMM                                                        | LLL                             | MMM                             |
+| MMMd                                                       | MMM d                           | MMM d                           |
+| MMMEd                                                      | E, MMM d                        | E, MMM d                        |
+| MMMMd                                                      | MMMM d                          | MMMM d                          |
+| y                                                          | y G                             | y G                             |
+| yyyy                                                       | y G                             | y G                             |
+| yyyyM                                                      | M/y GGGGG                       | M/y GGGGG                       |
+| yyyyMd                                                     | d/M/y GGGGG                     |                                 |
+| yyyyMEd                                                    | E, M/d/y GGGGG                  | E, d/M/y GGGGG                  |
+| yyyyMMdd                                                   |                                 | dd-MM-y G                       |
+| yyyyMMM                                                    | MMM y G                         | MMM y G                         |
+| yyyyMMMd                                                   | MMM d, y G                      | MMM d, y G                      |
+| yyyyMMMEd                                                  | E, MMM d, y G                   | E, MMM d, y G                   |
+| yyyyMMMM                                                   | MMMM y G                        | MMMM y G                        |
+| yyyyQQQ                                                    | QQQ y G                         | QQQ y G                         |
+| yyyyQQQQ                                                   | QQQQ y G                        | QQQQ y G                        |
+| ***Formats - Flexible - 12 Hour Time Formats***            |                                 |                                 |
+| Bh                                                         | h B                             | h B                             |
+| Bhm                                                        | h:mm B                          | h:mm B                          |
+| Bhms                                                       | h:mm:ss B                       | h:mm:ss B                       |
+| EBhm                                                       | E h:mm B                        | E h:mm B                        |
+| EBhms                                                      | E h:mm:ss B                     | E h:mm:ss B                     |
+| Ehm                                                        | E h:mm a                        | E h:mm a                        |
+| Ehms                                                       | E h:mm:ss a                     | E h:mm:ss a                     |
+| h                                                          | h a                             | ha                              |
+| hm                                                         | h:mm a                          | h:mm a                          |
+| hms                                                        | h:mm:ss a                       | h:mm:ss a                       |
+| ***Formats - Flexible - 24 Hour Time Formats***            |                                 |                                 |
+| EHm                                                        | E HH:mm                         | E HH:mm                         |
+| EHms                                                       | E HH:mm:ss                      | E HH:mm:ss                      |
+| H                                                          | HH                              | HH                              |
+| Hm                                                         | HH:mm                           | HH:mm                           |
+| Hms                                                        | HH:mm:ss                        | HH:mm:ss                        |
+| ms                                                         | mm:ss                           | mm:ss                           |
+| ***Formats - Intervals - Date Formats***                   |                                 |                                 |
+| d/d                                                        | d – d                           | d – d                           |
+| Gy/G                                                       | y G – y G                       | y G – y G                       |
+| Gy/y                                                       | y – y G                         | y – y G                         |
+| GyM/G                                                      | M/y GGGGG – M/y GGGGG           | M/y GGGGG – M/y GGGGG           |
+| GyM/M                                                      | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| GyM/y                                                      | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| GyMd/d                                                     | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| GyMd/G                                                     | M/d/y GGGGG – M/d/y GGGGG       | d/M/y GGGGG – d/M/y GGGGG       |
+| GyMd/M                                                     | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| GyMd/y                                                     | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| GyMEd/d                                                    | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| GyMEd/G                                                    | E, M/d/y GGGGG – E, M/d/y GGGGG | E, d/M/y GGGGG – E, d/M/y GGGGG |
+| GyMEd/M                                                    | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| GyMEd/y                                                    | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| GyMMM/G                                                    | MMM y G – MMM y G               | MMM y G – MMM y G               |
+| GyMMM/M                                                    | MMM – MMM y G                   | MMM – MMM y G                   |
+| GyMMM/y                                                    | MMM y – MMM y G                 | MMM y – MMM y G                 |
+| GyMMMd/d                                                   | MMM d – d, y G                  | MMM d – d, y G                  |
+| GyMMMd/G                                                   | MMM d, y G – MMM d, y G         | MMM d, y G – MMM d, y G         |
+| GyMMMd/M                                                   | MMM d – MMM d, y G              | MMM d – MMM d, y G              |
+| GyMMMd/y                                                   | MMM d, y – MMM d, y G           | MMM d, y – MMM d, y G           |
+| GyMMMEd/d                                                  | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| GyMMMEd/G                                                  | E, MMM d, y G – E, MMM d, y G   | E, MMM d, y G – E, MMM d, y G   |
+| GyMMMEd/M                                                  | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| GyMMMEd/y                                                  | E, MMM d, y – E, MMM d, y G     | E, MMM d, y – E, MMM d, y G     |
+| h/a                                                        | h a – h a                       | h a – h a                       |
+| h/h                                                        | h – h a                         | h – h a                         |
+| H/H                                                        | HH – HH                         | HH – HH                         |
+| hm/a                                                       | h:mm a – h:mm a                 | h:mm a – h:mm a                 |
+| hm/h                                                       | h:mm – h:mm a                   | h:mm – h:mm a                   |
+| Hm/H                                                       | HH:mm – HH:mm                   | HH:mm – HH:mm                   |
+| hm/m                                                       | h:mm – h:mm a                   | h:mm – h:mm a                   |
+| Hm/m                                                       | HH:mm – HH:mm                   | HH:mm – HH:mm                   |
+| hmv/a                                                      | h:mm a – h:mm a v               | h:mm a – h:mm a v               |
+| hmv/h                                                      | h:mm – h:mm a v                 | h:mm – h:mm a v                 |
+| Hmv/H                                                      | HH:mm – HH:mm v                 | HH:mm – HH:mm v                 |
+| hmv/m                                                      | h:mm – h:mm a v                 | h:mm – h:mm a v                 |
+| Hmv/m                                                      | HH:mm – HH:mm v                 | HH:mm – HH:mm v                 |
+| hv/a                                                       | h a – h a v                     | h a – h a v                     |
+| hv/h                                                       | h – h a v                       | h – h a v                       |
+| Hv/H                                                       | HH – HH v                       | HH – HH v                       |
+| M/M                                                        | M – M                           | M – M                           |
+| Md/d                                                       | M/d – M/d                       | d/M – d/M                       |
+| Md/M                                                       | M/d – M/d                       | d/M – d/M                       |
+| MEd/d                                                      | E, M/d – E, M/d                 | E, d/M – E, d/M                 |
+| MEd/M                                                      | E, M/d – E, M/d                 | E, d/M – E, d/M                 |
+| MMM/M                                                      | MMM – MMM                       | MMM – MMM                       |
+| MMMd/d                                                     | MMM d – d                       | MMM d – d                       |
+| MMMd/M                                                     | MMM d – MMM d                   | MMM d – MMM d                   |
+| MMMEd/d                                                    | E, MMM d – E, MMM d             | E, MMM d – E, MMM d             |
+| MMMEd/M                                                    | E, MMM d – E, MMM d             | E, MMM d – E, MMM d             |
+| y/y                                                        | y – y G                         | y – y G                         |
+| yM/M                                                       | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| yM/y                                                       | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| yMd/d                                                      | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| yMd/y                                                      | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| yMEd/d                                                     | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| yMEd/M                                                     | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| yMEd/y                                                     | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| yMMM/M                                                     | MMM – MMM y G                   | MMM – MMM y G                   |
+| yMMM/y                                                     | MMM y – MMM y G                 | MMM y – MMM y G                 |
+| yMMMd/d                                                    | MMM d – d, y G                  | MMM d – d, y G                  |
+| yMMMd/M                                                    | MMM d – MMM d, y G              | MMM d – MMM d, y G              |
+| yMMMd/y                                                    | MMM d, y – MMM d, y G           | MMM d, y – MMM d, y G           |
+| yMMMEd/d                                                   | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| yMMMEd/M                                                   | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| yMMMEd/y                                                   | E, MMM d, y – E, MMM d, y G     | E, MMM d, y – E, MMM d, y G     |
+| yMMMM/M                                                    | MMMM – MMMM y G                 | MMMM – MMMM y G                 |
+| yMMMM/y                                                    | MMMM y – MMMM y G               | MMMM y – MMMM y G               |
+| ***Formats - Intervals - Fallback***                       |                                 |                                 |
+| Fallback                                                   | {0} – {1}                       | {0} – {1}                       |
+
+## Buddhist
+
+| Code                                    | English | Value |
+| --------------------------------------- | ------- | ----- |
+| ***Eras - Wide***                       |         |       |
+| 0                                       | BE      | BE    |
+| ***Eras - Abbreviated***                |         |       |
+| 0                                       | BE      | BE    |
+| ***Eras - Narrow***                     |         |       |
+| 0                                       | BE      | BE    |
+| ***Formats - Standard - Date Formats***                    |                                 |                                 |
+| full                                                       | EEEE, MMMM d, y G               | EEEE, MMMM d, y G               |
+| long                                                       | MMMM d, y G                     | MMMM d, y G                     |
+| medium                                                     | MMM d, y G                      | MMM d, y G                      |
+| short                                                      | M/d/y GGGGG                     | d/M/y GGGGG                     |
+| ***Formats - Standard - Date & Time Combination Formats*** |                                 |                                 |
+| full                                                       | {1} 'at' {0}                    | {1} {0}                         |
+| long                                                       | {1} 'at' {0}                    | {1} {0}                         |
+| medium                                                     | {1}, {0}                        | {1}, {0}                        |
+| short                                                      | {1}, {0}                        | {1}, {0}                        |
+| ***Formats - Flexible - Date Formats***                    |                                 |                                 |
+| d                                                          | d                               | d                               |
+| E                                                          | ccc                             | ccc                             |
+| Ed                                                         | d E                             | dE                              |
+| Gy                                                         | y G                             | y G                             |
+| GyMMM                                                      | MMM y G                         | MMM y G                         |
+| GyMMMd                                                     | MMM d, y G                      | MMM d, y G                      |
+| GyMMMEd                                                    | E, MMM d, y G                   | E, MMM d, y G                   |
+| M                                                          | L                               | L                               |
+| Md                                                         | M/d                             | d/M                             |
+| MEd                                                        | E, M/d                          | E, d/M                          |
+| MMdd                                                       |                                 | dd-MM                           |
+| MMM                                                        | LLL                             | MMM                             |
+| MMMd                                                       | MMM d                           | MMM d                           |
+| MMMEd                                                      | E, MMM d                        | E, MMM d                        |
+| MMMMd                                                      | MMMM d                          | MMMM d                          |
+| y                                                          | y G                             | y G                             |
+| yyyy                                                       | y G                             | y G                             |
+| yyyyM                                                      | M/y GGGGG                       | M/y GGGGG                       |
+| yyyyMd                                                     | d/M/y GGGGG                     |                                 |
+| yyyyMEd                                                    | E, M/d/y GGGGG                  | E, d/M/y GGGGG                  |
+| yyyyMMdd                                                   |                                 | dd-MM-y G                       |
+| yyyyMMM                                                    | MMM y G                         | MMM y G                         |
+| yyyyMMMd                                                   | MMM d, y G                      | MMM d, y G                      |
+| yyyyMMMEd                                                  | E, MMM d, y G                   | E, MMM d, y G                   |
+| yyyyMMMM                                                   | MMMM y G                        | MMMM y G                        |
+| yyyyQQQ                                                    | QQQ y G                         | QQQ y G                         |
+| yyyyQQQQ                                                   | QQQQ y G                        | QQQQ y G                        |
+| ***Formats - Intervals - Date Formats***                   |                                 |                                 |
+| d/d                                                        | d – d                           | d – d                           |
+| Gy/G                                                       | y G – y G                       | y G – y G                       |
+| Gy/y                                                       | y – y G                         | y – y G                         |
+| GyM/G                                                      | M/y GGGGG – M/y GGGGG           | M/y GGGGG – M/y GGGGG           |
+| GyM/M                                                      | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| GyM/y                                                      | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| GyMd/d                                                     | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| GyMd/G                                                     | M/d/y GGGGG – M/d/y GGGGG       | d/M/y GGGGG – d/M/y GGGGG       |
+| GyMd/M                                                     | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| GyMd/y                                                     | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| GyMEd/d                                                    | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| GyMEd/G                                                    | E, M/d/y GGGGG – E, M/d/y GGGGG | E, d/M/y GGGGG – E, d/M/y GGGGG |
+| GyMEd/M                                                    | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| GyMEd/y                                                    | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| GyMMM/G                                                    | MMM y G – MMM y G               | MMM y G – MMM y G               |
+| GyMMM/M                                                    | MMM – MMM y G                   | MMM – MMM y G                   |
+| GyMMM/y                                                    | MMM y – MMM y G                 | MMM y – MMM y G                 |
+| GyMMMd/d                                                   | MMM d – d, y G                  | MMM d – d, y G                  |
+| GyMMMd/G                                                   | MMM d, y G – MMM d, y G         | MMM d, y G – MMM d, y G         |
+| GyMMMd/M                                                   | MMM d – MMM d, y G              | MMM d – MMM d, y G              |
+| GyMMMd/y                                                   | MMM d, y – MMM d, y G           | MMM d, y – MMM d, y G           |
+| GyMMMEd/d                                                  | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| GyMMMEd/G                                                  | E, MMM d, y G – E, MMM d, y G   | E, MMM d, y G – E, MMM d, y G   |
+| GyMMMEd/M                                                  | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| GyMMMEd/y                                                  | E, MMM d, y – E, MMM d, y G     | E, MMM d, y – E, MMM d, y G     |
+| h/a                                                        | h a – h a                       | h a – h a                       |
+| h/h                                                        | h – h a                         | h – h a                         |
+| H/H                                                        | HH – HH                         | HH – HH                         |
+| hm/a                                                       | h:mm a – h:mm a                 | h:mm a – h:mm a                 |
+| hm/h                                                       | h:mm – h:mm a                   | h:mm – h:mm a                   |
+| Hm/H                                                       | HH:mm – HH:mm                   | HH:mm – HH:mm                   |
+| hm/m                                                       | h:mm – h:mm a                   | h:mm – h:mm a                   |
+| Hm/m                                                       | HH:mm – HH:mm                   | HH:mm – HH:mm                   |
+| hmv/a                                                      | h:mm a – h:mm a v               | h:mm a – h:mm a v               |
+| hmv/h                                                      | h:mm – h:mm a v                 | h:mm – h:mm a v                 |
+| Hmv/H                                                      | HH:mm – HH:mm v                 | HH:mm – HH:mm v                 |
+| hmv/m                                                      | h:mm – h:mm a v                 | h:mm – h:mm a v                 |
+| Hmv/m                                                      | HH:mm – HH:mm v                 | HH:mm – HH:mm v                 |
+| hv/a                                                       | h a – h a v                     | h a – h a v                     |
+| hv/h                                                       | h – h a v                       | h – h a v                       |
+| Hv/H                                                       | HH – HH v                       | HH – HH v                       |
+| M/M                                                        | M – M                           | M – M                           |
+| Md/d                                                       | M/d – M/d                       | d/M – d/M                       |
+| Md/M                                                       | M/d – M/d                       | d/M – d/M                       |
+| MEd/d                                                      | E, M/d – E, M/d                 | E, d/M – E, d/M                 |
+| MEd/M                                                      | E, M/d – E, M/d                 | E, d/M – E, d/M                 |
+| MMM/M                                                      | MMM – MMM                       | MMM – MMM                       |
+| MMMd/d                                                     | MMM d – d                       | MMM d – d                       |
+| MMMd/M                                                     | MMM d – MMM d                   | MMM d – MMM d                   |
+| MMMEd/d                                                    | E, MMM d – E, MMM d             | E, MMM d – E, MMM d             |
+| MMMEd/M                                                    | E, MMM d – E, MMM d             | E, MMM d – E, MMM d             |
+| y/y                                                        | y – y G                         | y – y G                         |
+| yM/M                                                       | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| yM/y                                                       | M/y – M/y GGGGG                 | M/y – M/y GGGGG                 |
+| yMd/d                                                      | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| yMd/y                                                      | M/d/y – M/d/y GGGGG             | d/M/y – d/M/y GGGGG             |
+| yMEd/d                                                     | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| yMEd/M                                                     | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| yMEd/y                                                     | E, M/d/y – E, M/d/y GGGGG       | E, d/M/y – E, d/M/y GGGGG       |
+| yMMM/M                                                     | MMM – MMM y G                   | MMM – MMM y G                   |
+| yMMM/y                                                     | MMM y – MMM y G                 | MMM y – MMM y G                 |
+| yMMMd/d                                                    | MMM d – d, y G                  | MMM d – d, y G                  |
+| yMMMd/M                                                    | MMM d – MMM d, y G              | MMM d – MMM d, y G              |
+| yMMMd/y                                                    | MMM d, y – MMM d, y G           | MMM d, y – MMM d, y G           |
+| yMMMEd/d                                                   | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| yMMMEd/M                                                   | E, MMM d – E, MMM d, y G        | E, MMM d – E, MMM d, y G        |
+| yMMMEd/y                                                   | E, MMM d, y – E, MMM d, y G     | E, MMM d, y – E, MMM d, y G     |
+| yMMMM/M                                                    | MMMM – MMMM y G                 | MMMM – MMMM y G                 |
+| yMMMM/y                                                    | MMMM y – MMMM y G               | MMMM y – MMMM y G               |
+| ***Formats - Intervals - Fallback***                       |                                 |                                 |
+| Fallback                                                   | {0} – {1}                       | {0} – {1}                       |
